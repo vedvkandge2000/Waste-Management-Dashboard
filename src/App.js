@@ -74,9 +74,6 @@ export default function App() {
       setSelected(cats[0]);
       setVisibleCategories(cats);
 
-  
-      const dates = clean.map(d => d.date);
-
       const catSum = d3.rollups(
         clean,
         v => d3.sum(v, d => d.weight),
