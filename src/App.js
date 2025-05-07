@@ -50,6 +50,7 @@ export default function App() {
   const [data, setData] = useState([]);
   const [categories, setCategories] = useState([]);
   const [selected, setSelected] = useState('');
+  const [selectedYear, setSelectedYear] = useState('');
   const [lineData, setLineData] = useState([]);
   const [barData, setBarData] = useState([]);
   const [pieData, setPieData] = useState([]);
@@ -123,6 +124,28 @@ export default function App() {
     setLineData(sumByDate);
   }, [selected, data]);
 
+  // Get unique years from data
+  const years = React.useMemo(() => {
+    if (!data.length || !selected) return [];
+    // Filter data for selected category first
+    const categoryData = data.filter(d => d.category === selected);
+    return [...new Set(categoryData.map(d => d.year))].sort();
+  }, [data, selected]);
+
+  // Set initial year when data loads or category changes
+  useEffect(() => {
+    if (years.length > 0) {
+      setSelectedYear(years[years.length - 1].toString());
+    } else {
+      setSelectedYear('');
+    }
+  }, [years, selected]);
+
+  // Add new useEffect for year filtering
+  const filteredLineData = React.useMemo(() => {
+    if (!lineData.length || !selectedYear) return lineData;
+    return lineData.filter(d => d.date.startsWith(selectedYear));
+  }, [lineData, selectedYear]);
 
   const filteredStackedAreaData = React.useMemo(() => {
     if (!stackedAreaData.length) return [];
@@ -229,19 +252,49 @@ export default function App() {
           <div className="bg-white/90 backdrop-blur-sm shadow-lg rounded-2xl p-8 transform hover:scale-[1.02] transition-transform duration-200 lg:col-span-2">
             <div className="flex flex-col items-center mb-6">
               <h2 className="text-2xl font-semibold text-gray-800 text-center mb-4">Monthly Trend</h2>
-              <div className="flex flex-col gap-2">
-                <label className="text-sm font-medium text-gray-700">Select Category</label>
-                <select
-                  className="border-2 border-gray-300 rounded-lg px-6 py-3 text-lg font-medium text-gray-700 bg-white shadow-sm hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 min-w-[200px]"
-                  value={selected}
-                  onChange={e => setSelected(e.target.value)}>
-                  {categories.map(c => <option key={c}>{c}</option>)}
-                </select>
+              <div className="flex flex-wrap justify-center gap-4">
+                <div className="flex flex-col gap-2">
+                  <label className="text-sm font-medium text-gray-700">Select Category</label>
+                  <div className="relative">
+                    <select
+                      className="appearance-none border-2 border-gray-300 rounded-lg px-6 py-3 text-lg font-medium text-gray-700 bg-white shadow-sm hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 min-w-[200px] pr-10 cursor-pointer"
+                      value={selected}
+                      onChange={e => setSelected(e.target.value)}>
+                      {categories.map(c => <option key={c}>{c}</option>)}
+                    </select>
+                    <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                      <svg className="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                        <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-col gap-2">
+                  <label className="text-sm font-medium text-gray-700">Select Year</label>
+                  <div className="relative">
+                    <select
+                      className="appearance-none border-2 border-gray-300 rounded-lg px-6 py-3 text-lg font-medium text-gray-700 bg-white shadow-sm hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 min-w-[200px] pr-10 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
+                      value={selectedYear}
+                      onChange={e => setSelectedYear(e.target.value)}
+                      disabled={years.length === 0}>
+                      {years.length === 0 ? (
+                        <option value="">No data available</option>
+                      ) : (
+                        years.map(year => <option key={year}>{year}</option>)
+                      )}
+                    </select>
+                    <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                      <svg className="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                        <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-11/12 mx-auto">
               <ResponsiveContainer width="100%" height={400}>
-                <LineChart data={lineData} margin={{ top: 20, right: 30, bottom: 20, left: 20 }}>
+                <LineChart data={filteredLineData} margin={{ top: 20, right: 30, bottom: 20, left: 20 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#E5E7EB" />
                   <XAxis 
                     dataKey="date" 
@@ -261,6 +314,7 @@ export default function App() {
                       if (value >= 1000) return `${(value / 1000).toFixed(1)}K`;
                       return value;
                     }}
+                    domain={['auto', 'auto']}
                     label={{ value: 'Weight (lbs)', angle: -90, position: 'left', style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <Tooltip 
