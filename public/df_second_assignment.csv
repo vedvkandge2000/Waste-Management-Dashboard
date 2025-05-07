@@ -1,0 +1,4366 @@
+Year,Month,Category,Material Type,Weight (lbs)
+2005,Jan,Recycle,R-Mixed recycling,"43,857"
+2005,Feb,Recycle,R-Mixed recycling,"38,734"
+2005,Mar,Recycle,R-Mixed recycling,"41,562"
+2005,Apr,Recycle,R-Mixed recycling,"41,390"
+2005,May,Recycle,R-Mixed recycling,"51,570"
+2005,Jun,Recycle,R-Mixed recycling,"52,310"
+2005,Jul,Recycle,R-Mixed recycling,"16,900"
+2005,Aug,Recycle,R-Mixed recycling,"51,640"
+2005,Sep,Recycle,R-Mixed recycling,"52,655"
+2005,Oct,Recycle,R-Mixed recycling,"45,376"
+2005,Nov,Recycle,R-Mixed recycling,"47,454"
+2005,Dec,Recycle,R-Mixed recycling,"28,200"
+2005,Jan,Landfill,L-Landfill,"244,980"
+2005,Feb,Landfill,L-Landfill,"195,980"
+2005,Mar,Landfill,L-Landfill,"190,340"
+2005,Apr,Landfill,L-Landfill,"274,060"
+2005,May,Landfill,L-Landfill,"226,340"
+2005,Jun,Landfill,L-Landfill,"306,820"
+2005,Jul,Landfill,L-Landfill,"126,700"
+2005,Aug,Landfill,L-Landfill,"218,540"
+2005,Sep,Landfill,L-Landfill,"243,480"
+2005,Oct,Landfill,L-Landfill,"245,920"
+2005,Nov,Landfill,L-Landfill,"243,000"
+2005,Dec,Landfill,L-Landfill,"170,900"
+2006,Jan,Recycle,R-Mixed recycling,"42,515"
+2006,Feb,Recycle,R-Mixed recycling,"34,395"
+2006,Mar,Recycle,R-Mixed recycling,"50,976"
+2006,Apr,Recycle,R-Mixed recycling,"46,795"
+2006,May,Recycle,R-Mixed recycling,"59,962"
+2006,Jun,Recycle,R-Mixed recycling,"42,600"
+2006,Jul,Recycle,R-Mixed recycling,"36,530"
+2006,Aug,Recycle,R-Mixed recycling,"41,090"
+2006,Sep,Recycle,R-Mixed recycling,"51,775"
+2006,Oct,Recycle,R-Mixed recycling,"56,995"
+2006,Nov,Recycle,R-Mixed recycling,"7,540"
+2006,Dec,Recycle,R-Mixed recycling,"8,826"
+2006,Jan,Landfill,L-Landfill,"253,780"
+2006,Feb,Landfill,L-Landfill,"226,980"
+2006,Mar,Landfill,L-Landfill,"242,760"
+2006,Apr,Landfill,L-Landfill,"218,520"
+2006,May,Landfill,L-Landfill,"304,480"
+2006,Jun,Landfill,L-Landfill,"287,400"
+2006,Jul,Landfill,L-Landfill,"135,460"
+2006,Aug,Landfill,L-Landfill,"197,360"
+2006,Sep,Landfill,L-Landfill,"267,520"
+2006,Oct,Landfill,L-Landfill,"322,680"
+2006,Nov,Landfill,L-Landfill,"239,420"
+2006,Dec,Landfill,L-Landfill,"160,960"
+2007,Jan,Recycle,R-Mixed recycling,"61,710"
+2007,Feb,Recycle,R-Mixed recycling,"30,520"
+2007,Mar,Recycle,R-Mixed recycling,"43,339"
+2007,Apr,Recycle,R-Mixed recycling,"32,180"
+2007,May,Recycle,R-Mixed recycling,"28,670"
+2007,Jun,Recycle,R-Mixed recycling,"46,749"
+2007,Jul,Recycle,R-Mixed recycling,"61,260"
+2007,Aug,Recycle,R-Mixed recycling,"27,580"
+2007,Sep,Recycle,R-Mixed recycling,"34,920"
+2007,Oct,Recycle,R-Mixed recycling,"52,863"
+2007,Nov,Recycle,R-Mixed recycling,"34,060"
+2007,Dec,Recycle,R-Mixed recycling,"31,488"
+2007,Jan,Landfill,L-Landfill,"219,740"
+2007,Feb,Landfill,L-Landfill,"225,620"
+2007,Mar,Landfill,L-Landfill,"244,440"
+2007,Apr,Landfill,L-Landfill,"215,820"
+2007,May,Landfill,L-Landfill,"252,980"
+2007,Jun,Landfill,L-Landfill,"557,180"
+2007,Jul,Landfill,L-Landfill,"191,680"
+2007,Aug,Landfill,L-Landfill,"150,920"
+2007,Sep,Landfill,L-Landfill,"260,360"
+2007,Oct,Landfill,L-Landfill,"272,960"
+2007,Nov,Landfill,L-Landfill,"255,180"
+2007,Dec,Landfill,L-Landfill,"148,380"
+2008,Jan,Recycle,R-Mixed recycling,"36,718"
+2008,Feb,Recycle,R-Mixed recycling,"33,980"
+2008,Mar,Recycle,R-Mixed recycling,"53,860"
+2008,Apr,Recycle,R-Mixed recycling,"57,280"
+2008,May,Recycle,R-Mixed recycling,"65,255"
+2008,Jun,Recycle,R-Mixed recycling,"73,620"
+2008,Jul,Recycle,R-Mixed recycling,"39,440"
+2008,Aug,Recycle,R-Mixed recycling,"45,020"
+2008,Sep,Recycle,R-Mixed recycling,"43,660"
+2008,Oct,Recycle,R-Mixed recycling,"38,600"
+2008,Nov,Recycle,R-Mixed recycling,"39,239"
+2008,Dec,Recycle,R-Mixed recycling,"24,760"
+2008,Jan,Landfill,L-Landfill,"239,020"
+2008,Feb,Landfill,L-Landfill,"261,460"
+2008,Mar,Landfill,L-Landfill,"237,360"
+2008,Apr,Landfill,L-Landfill,"260,220"
+2008,May,Landfill,L-Landfill,"245,320"
+2008,Jun,Landfill,L-Landfill,"358,380"
+2008,Jul,Landfill,L-Landfill,"160,180"
+2008,Aug,Landfill,L-Landfill,"181,260"
+2008,Sep,Landfill,L-Landfill,"209,820"
+2008,Oct,Landfill,L-Landfill,"281,400"
+2008,Nov,Landfill,L-Landfill,"232,620"
+2008,Dec,Landfill,L-Landfill,"205,880"
+2009,Jan,Recycle,R-Mixed recycling,"39,260"
+2009,Feb,Recycle,R-Mixed recycling,"27,200"
+2009,Mar,Recycle,R-Mixed recycling,"1,100"
+2009,Apr,Recycle,R-Mixed recycling,"51,420"
+2009,May,Recycle,R-Mixed recycling,"41,257"
+2009,Jun,Recycle,R-Mixed recycling,"39,608"
+2009,Jul,Recycle,R-Mixed recycling,"46,101"
+2009,Aug,Recycle,R-Mixed recycling,"25,160"
+2009,Sep,Recycle,R-Mixed recycling,"50,815"
+2009,Oct,Recycle,R-Mixed recycling,"69,793"
+2009,Nov,Recycle,R-Mixed recycling,"60,866"
+2009,Dec,Recycle,R-Mixed recycling,"26,937"
+2009,Jan,Landfill,L-Landfill,"231,060"
+2009,Feb,Landfill,L-Landfill,"220,460"
+2009,Mar,Landfill,L-Landfill,"272,260"
+2009,Apr,Landfill,L-Landfill,"226,240"
+2009,May,Landfill,L-Landfill,"231,540"
+2009,Jun,Landfill,L-Landfill,"281,260"
+2009,Jul,Landfill,L-Landfill,"142,520"
+2009,Aug,Landfill,L-Landfill,"150,320"
+2009,Sep,Landfill,L-Landfill,"173,880"
+2009,Oct,Landfill,L-Landfill,"224,960"
+2009,Nov,Landfill,L-Landfill,"164,440"
+2009,Dec,Landfill,L-Landfill,"156,420"
+2010,Jan,Recycle,R-Mixed recycling,"37,977"
+2010,Feb,Recycle,R-Mixed recycling,"59,046"
+2010,Mar,Recycle,R-Mixed recycling,"67,465"
+2010,Apr,Recycle,R-Mixed recycling,"38,185"
+2010,May,Recycle,R-Mixed recycling,"61,349"
+2010,Jun,Recycle,R-Mixed recycling,"71,076"
+2010,Jul,Recycle,R-Mixed recycling,"32,651"
+2010,Aug,Recycle,R-Mixed recycling,"37,472"
+2010,Sep,Recycle,R-Mixed recycling,"69,899"
+2010,Oct,Recycle,R-Mixed recycling,"58,664"
+2010,Nov,Recycle,R-Mixed recycling,"37,228"
+2010,Dec,Recycle,R-Mixed recycling,"34,471"
+2010,Jan,Compost,C-Organics,0
+2010,Feb,Compost,C-Organics,0
+2010,Mar,Compost,C-Organics,"25,756"
+2010,Apr,Compost,C-Organics,0
+2010,May,Compost,C-Organics,"16,720"
+2010,Jun,Compost,C-Organics,"10,812"
+2010,Jul,Compost,C-Organics,"7,524"
+2010,Aug,Compost,C-Organics,"11,514"
+2010,Sep,Compost,C-Organics,"2,622"
+2010,Oct,Compost,C-Organics,"5,472"
+2010,Nov,Compost,C-Organics,"8,208"
+2010,Dec,Compost,C-Organics,"27,360"
+2010,Jan,Landfill,L-Landfill,"211,808"
+2010,Feb,Landfill,L-Landfill,"214,949"
+2010,Mar,Landfill,L-Landfill,"180,020"
+2010,Apr,Landfill,L-Landfill,"196,860"
+2010,May,Landfill,L-Landfill,"181,180"
+2010,Jun,Landfill,L-Landfill,"314,359"
+2010,Jul,Landfill,L-Landfill,"133,216"
+2010,Aug,Landfill,L-Landfill,"185,086"
+2010,Sep,Landfill,L-Landfill,"190,725"
+2010,Oct,Landfill,L-Landfill,"259,448"
+2010,Nov,Landfill,L-Landfill,"210,320"
+2010,Dec,Landfill,L-Landfill,"200,712"
+2011,Jan,Recycle,R-Mixed recycling,"45,054"
+2011,Feb,Recycle,R-Mixed recycling,"48,462"
+2011,Mar,Recycle,R-Mixed recycling,"45,994"
+2011,Apr,Recycle,R-Mixed recycling,"52,843"
+2011,May,Recycle,R-Mixed recycling,"57,642"
+2011,Jun,Recycle,R-Mixed recycling,"96,892"
+2011,Jul,Recycle,R-Mixed recycling,"44,441"
+2011,Aug,Recycle,R-Mixed recycling,"88,223"
+2011,Sep,Recycle,R-Mixed recycling,"72,444"
+2011,Oct,Recycle,R-Mixed recycling,"50,949"
+2011,Nov,Recycle,R-Mixed recycling,"31,327"
+2011,Dec,Recycle,R-Mixed recycling,"15,966"
+2011,Jan,Compost,C-Organics,0
+2011,Feb,Compost,C-Organics,"2,730"
+2011,Mar,Compost,C-Organics,"8,208"
+2011,Apr,Compost,C-Organics,"6,496"
+2011,May,Compost,C-Organics,"17,100"
+2011,Jun,Compost,C-Organics,"20,520"
+2011,Jul,Compost,C-Organics,"19,494"
+2011,Aug,Compost,C-Organics,"25,992"
+2011,Sep,Compost,C-Organics,"30,096"
+2011,Oct,Compost,C-Organics,"15,732"
+2011,Nov,Compost,C-Organics,"20,520"
+2011,Dec,Compost,C-Organics,"15,732"
+2011,Jan,Landfill,L-Landfill,"306,632"
+2011,Feb,Landfill,L-Landfill,"109,824"
+2011,Mar,Landfill,L-Landfill,"275,820"
+2011,Apr,Landfill,L-Landfill,"253,216"
+2011,May,Landfill,L-Landfill,"265,060"
+2011,Jun,Landfill,L-Landfill,"316,616"
+2011,Jul,Landfill,L-Landfill,"107,628"
+2011,Aug,Landfill,L-Landfill,"156,748"
+2011,Sep,Landfill,L-Landfill,"179,030"
+2011,Oct,Landfill,L-Landfill,"271,568"
+2011,Nov,Landfill,L-Landfill,"252,982"
+2011,Dec,Landfill,L-Landfill,"152,840"
+2012,Jan,Recycle,R-Mixed recycling,"37,246"
+2012,Feb,Recycle,R-Mixed recycling,"42,816"
+2012,Mar,Recycle,R-Mixed recycling,"56,945"
+2012,Apr,Recycle,R-Mixed recycling,"62,603"
+2012,May,Recycle,R-Mixed recycling,"91,554"
+2012,Jun,Recycle,R-Mixed recycling,"90,682"
+2012,Jul,Recycle,R-Mixed recycling,"45,283"
+2012,Aug,Recycle,R-Mixed recycling,"48,795"
+2012,Sep,Recycle,R-Mixed recycling,"91,217"
+2012,Oct,Recycle,R-Mixed recycling,"82,292"
+2012,Nov,Recycle,R-Mixed recycling,"87,154"
+2012,Dec,Recycle,R-Mixed recycling,"42,388"
+2012,Jan,Compost,C-Organics,"12,996"
+2012,Feb,Compost,C-Organics,"64,296"
+2012,Mar,Compost,C-Organics,"70,056"
+2012,Apr,Compost,C-Organics,"99,960"
+2012,May,Compost,C-Organics,"93,000"
+2012,Jun,Compost,C-Organics,"97,480"
+2012,Jul,Compost,C-Organics,"77,704"
+2012,Aug,Compost,C-Organics,"115,164"
+2012,Sep,Compost,C-Organics,"97,328"
+2012,Oct,Compost,C-Organics,"155,860"
+2012,Nov,Compost,C-Organics,"122,712"
+2012,Dec,Compost,C-Organics,"74,580"
+2012,Jan,Landfill,L-Landfill,"228,608"
+2012,Feb,Landfill,L-Landfill,"177,272"
+2012,Mar,Landfill,L-Landfill,"161,804"
+2012,Apr,Landfill,L-Landfill,"139,600"
+2012,May,Landfill,L-Landfill,"181,920"
+2012,Jun,Landfill,L-Landfill,"232,356"
+2012,Jul,Landfill,L-Landfill,"76,876"
+2012,Aug,Landfill,L-Landfill,"102,920"
+2012,Sep,Landfill,L-Landfill,"125,176"
+2012,Oct,Landfill,L-Landfill,"158,428"
+2012,Nov,Landfill,L-Landfill,"137,520"
+2012,Dec,Landfill,L-Landfill,"85,320"
+2013,Jan,Recycle,R-Mixed recycling,"94,287"
+2013,Feb,Recycle,R-Mixed recycling,"75,867"
+2013,Mar,Recycle,R-Mixed recycling,"80,279"
+2013,Apr,Recycle,R-Mixed recycling,"87,315"
+2013,May,Recycle,R-Mixed recycling,"84,843"
+2013,Jun,Recycle,R-Mixed recycling,"108,971"
+2013,Jul,Recycle,R-Mixed recycling,"67,543"
+2013,Aug,Recycle,R-Mixed recycling,"51,101"
+2013,Sep,Recycle,R-Mixed recycling,"100,348"
+2013,Oct,Recycle,R-Mixed recycling,"85,760"
+2013,Nov,Recycle,R-Mixed recycling,"67,536"
+2013,Dec,Recycle,R-Mixed recycling,"53,544"
+2013,Jan,Compost,C-Organics,"107,524"
+2013,Feb,Compost,C-Organics,"95,828"
+2013,Mar,Compost,C-Organics,"96,092"
+2013,Apr,Compost,C-Organics,"128,660"
+2013,May,Compost,C-Organics,"140,744"
+2013,Jun,Compost,C-Organics,"107,380"
+2013,Jul,Compost,C-Organics,"96,812"
+2013,Aug,Compost,C-Organics,"101,028"
+2013,Sep,Compost,C-Organics,"103,792"
+2013,Oct,Compost,C-Organics,"131,356"
+2013,Nov,Compost,C-Organics,"110,728"
+2013,Dec,Compost,C-Organics,"86,492"
+2013,Jan,Landfill,L-Landfill,"138,000"
+2013,Feb,Landfill,L-Landfill,"136,420"
+2013,Mar,Landfill,L-Landfill,"141,880"
+2013,Apr,Landfill,L-Landfill,"151,500"
+2013,May,Landfill,L-Landfill,"156,600"
+2013,Jun,Landfill,L-Landfill,"173,820"
+2013,Jul,Landfill,L-Landfill,"116,200"
+2013,Aug,Landfill,L-Landfill,"85,580"
+2013,Sep,Landfill,L-Landfill,"120,148"
+2013,Oct,Landfill,L-Landfill,"142,260"
+2013,Nov,Landfill,L-Landfill,"140,740"
+2013,Dec,Landfill,L-Landfill,"111,540"
+2013,May,Reuse,D-Swap For Good,800
+2014,Jun,Reuse,D-Donations,10074
+2014,Jan,Recycle,R-Mixed recycling,"70,381"
+2014,Feb,Recycle,R-Mixed recycling,"78,520"
+2014,Mar,Recycle,R-Mixed recycling,"68,800"
+2014,Apr,Recycle,R-Mixed recycling,"89,350"
+2014,May,Recycle,R-Mixed recycling,"95,027"
+2014,Jun,Recycle,R-Mixed recycling,"121,129"
+2014,Jul,Recycle,R-Mixed recycling,"80,207"
+2014,Aug,Recycle,R-Mixed recycling,"122,920"
+2014,Sep,Recycle,R-Mixed recycling,"96,575"
+2014,Oct,Recycle,R-Mixed recycling,"79,914"
+2014,Nov,Recycle,R-Mixed recycling,"74,980"
+2014,Dec,Recycle,R-Mixed recycling,"67,971"
+2014,Jan,Compost,C-Organics,"93,932"
+2014,Feb,Compost,C-Organics,"88,264"
+2014,Mar,Compost,C-Organics,"103,340"
+2014,Apr,Compost,C-Organics,"84,300"
+2014,May,Compost,C-Organics,"68,932"
+2014,Jun,Compost,C-Organics,"71,132"
+2014,Jul,Compost,C-Organics,"82,536"
+2014,Aug,Compost,C-Organics,"79,272"
+2014,Sep,Compost,C-Organics,"72,656"
+2014,Oct,Compost,C-Organics,"121,892"
+2014,Nov,Compost,C-Organics,"54,948"
+2014,Dec,Compost,C-Organics,"71,768"
+2014,Jan,Landfill,L-Landfill,"126,240"
+2014,Feb,Landfill,L-Landfill,"131,920"
+2014,Mar,Landfill,L-Landfill,"122,880"
+2014,Apr,Landfill,L-Landfill,"153,140"
+2014,May,Landfill,L-Landfill,"165,296"
+2014,Jun,Landfill,L-Landfill,"149,620"
+2014,Jul,Landfill,L-Landfill,"68,920"
+2014,Aug,Landfill,L-Landfill,"78,220"
+2014,Sep,Landfill,L-Landfill,"95,400"
+2014,Oct,Landfill,L-Landfill,"162,600"
+2014,Nov,Landfill,L-Landfill,"127,740"
+2014,Dec,Landfill,L-Landfill,"112,132"
+2014,Jan,Compost,C-Organics,"36,000"
+2014,Feb,Compost,C-Organics,"36,000"
+2014,Mar,Compost,C-Organics,"36,000"
+2014,Apr,Compost,C-Organics,"36,000"
+2014,May,Compost,C-Organics,"36,000"
+2014,Jun,Compost,C-Organics,"36,000"
+2014,Jul,Compost,C-Organics,"36,000"
+2014,Aug,Compost,C-Organics,"36,000"
+2014,Sep,Compost,C-Organics,"36,000"
+2014,Oct,Compost,C-Organics,"36,000"
+2014,Nov,Compost,C-Organics,"36,000"
+2014,Dec,Compost,C-Organics,"36,000"
+2015,Aug,Reuse,D-Food Recovery Network,321
+2015,Sep,Reuse,D-Food Recovery Network,381
+2015,Oct,Reuse,D-Food Recovery Network,487.25
+2015,Nov,Reuse,D-Food Recovery Network,650
+2015,Dec,Reuse,D-Food Recovery Network,150
+2015,Jun,Reuse,D-Donations,13980
+2015,Dec,Recycle,R-Construction & Demolition,"3,497"
+2015,Jan,Recycle,R-Mixed recycling,"50,976"
+2015,Feb,Recycle,R-Mixed recycling,"57,631"
+2015,Mar,Recycle,R-Mixed recycling,"65,373"
+2015,Apr,Recycle,R-Mixed recycling,"81,706"
+2015,May,Recycle,R-Mixed recycling,"94,619"
+2015,Jun,Recycle,R-Mixed recycling,"120,178"
+2015,Jul,Recycle,R-Mixed recycling,"58,063"
+2015,Aug,Recycle,R-Mixed recycling,"62,658"
+2015,Sep,Recycle,R-Mixed recycling,"92,585"
+2015,Oct,Recycle,R-Mixed recycling,"101,345"
+2015,Nov,Recycle,R-Mixed recycling,"73,666"
+2015,Dec,Recycle,R-Mixed recycling,"73,696"
+2015,Jan,Compost,C-Organics,"78,096"
+2015,Feb,Compost,C-Organics,"84,708"
+2015,Mar,Compost,C-Organics,"71,684"
+2015,Apr,Compost,C-Organics,"57,456"
+2015,May,Compost,C-Organics,"73,948"
+2015,Jun,Compost,C-Organics,"89,600"
+2015,Jul,Compost,C-Organics,"100,716"
+2015,Aug,Compost,C-Organics,"79,092"
+2015,Sep,Compost,C-Organics,"59,028"
+2015,Oct,Compost,C-Organics,"143,032"
+2015,Nov,Compost,C-Organics,"122,836"
+2015,Dec,Compost,C-Organics,"98,876"
+2015,Jan,Landfill,L-Landfill,"145,060"
+2015,Feb,Landfill,L-Landfill,"149,310"
+2015,Mar,Landfill,L-Landfill,"139,612"
+2015,Apr,Landfill,L-Landfill,"151,820"
+2015,May,Landfill,L-Landfill,"130,560"
+2015,Jun,Landfill,L-Landfill,"110,000"
+2015,Jul,Landfill,L-Landfill,"85,260"
+2015,Aug,Landfill,L-Landfill,"57,000"
+2015,Sep,Landfill,L-Landfill,"90,740"
+2015,Oct,Landfill,L-Landfill,"116,040"
+2015,Nov,Landfill,L-Landfill,"97,080"
+2015,Dec,Landfill,L-Landfill,"83,180"
+2015,Apr,Compost,C-Organics,"72,000"
+2015,Jan,Compost,C-Organics,"72,000"
+2015,Feb,Compost,C-Organics,"72,000"
+2015,Mar,Compost,C-Organics,"72,000"
+2015,May,Compost,C-Organics,"72,000"
+2015,Jun,Compost,C-Organics,"72,000"
+2015,Jul,Compost,C-Organics,"72,000"
+2015,Aug,Compost,C-Organics,"72,000"
+2015,Sep,Compost,C-Organics,"72,000"
+2015,Oct,Compost,C-Organics,"72,000"
+2015,Nov,Compost,C-Organics,"72,000"
+2015,Dec,Compost,C-Organics,"72,000"
+2016,Apr,Compost,C-Yardwaste,11740
+2016,Apr,Compost,C-Yardwaste,10800
+2016,Apr,Compost,C-Yardwaste,9380
+2016,Apr,Compost,C-Yardwaste,8480
+2016,Apr,Compost,C-Foodscraps,
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,1800
+2016,Apr,Compost,C-Foodscraps,72000
+2016,Aug,Compost,C-Yardwaste,10240
+2016,Aug,Compost,C-Yardwaste,10880
+2016,Aug,Compost,C-Yardwaste,16060
+2016,Aug,Compost,C-Yardwaste,8840
+2016,Aug,Compost,C-Yardwaste,10280
+2016,Aug,Compost,C-Foodscraps,1800
+2016,Aug,Compost,C-Foodscraps,1800
+2016,Aug,Compost,C-Foodscraps,1800
+2016,Aug,Compost,C-Foodscraps,72000
+2016,Dec,Compost,C-Yardwaste,11860
+2016,Dec,Compost,C-Yardwaste,9960
+2016,Dec,Compost,C-Yardwaste,10360
+2016,Dec,Compost,C-Yardwaste,10420
+2016,Dec,Compost,C-Organics,48600
+2016,Dec,Compost,C-Foodscraps,72000
+2016,Feb,Compost,C-Yardwaste,10620
+2016,Feb,Compost,C-Yardwaste,8580
+2016,Feb,Compost,C-Yardwaste,10980
+2016,Feb,Compost,C-Yardwaste,11740
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,1800
+2016,Feb,Compost,C-Foodscraps,72000
+2016,Jan,Compost,C-Yardwaste,14580
+2016,Jan,Compost,C-Yardwaste,11420
+2016,Jan,Compost,C-Yardwaste,8700
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,1800
+2016,Jan,Compost,C-Foodscraps,72000
+2016,Jul,Compost,C-Yardwaste,10380
+2016,Jul,Compost,C-Yardwaste,13360
+2016,Jul,Compost,C-Yardwaste,11280
+2016,Jul,Compost,C-Yardwaste,4560
+2016,Jul,Compost,C-Foodscraps,1800
+2016,Jul,Compost,C-Foodscraps,1800
+2016,Jul,Compost,C-Foodscraps,72000
+2016,Jun,Compost,C-Yardwaste,9240
+2016,Jun,Compost,C-Yardwaste,8540
+2016,Jun,Compost,C-Yardwaste,10420
+2016,Jun,Compost,C-Yardwaste,7560
+2016,Jun,Compost,C-Yardwaste,11300
+2016,Jun,Compost,C-Yardwaste,7820
+2016,Jun,Compost,C-Yardwaste,7840
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,1800
+2016,Jun,Compost,C-Yardwaste,72000
+2016,Mar,Compost,C-Yardwaste,11020
+2016,Mar,Compost,C-Yardwaste,13900
+2016,Mar,Compost,C-Yardwaste,9840
+2016,Mar,Compost,C-Yardwaste,10040
+2016,Mar,Compost,C-Yardwaste,13620
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Foodscraps,1800
+2016,Mar,Compost,C-Organics,72000
+2016,May,Compost,C-Yardwaste,10660
+2016,May,Compost,C-Yardwaste,11760
+2016,May,Compost,C-Yardwaste,10720
+2016,May,Compost,C-Yardwaste,10240
+2016,May,Compost,C-Yardwaste,7640
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,1800
+2016,May,Compost,C-Foodscraps,72000
+2016,Nov,Compost,C-Yardwaste,18000
+2016,Nov,Compost,C-Yardwaste,8200
+2016,Nov,Compost,C-Yardwaste,12260
+2016,Nov,Compost,C-Foodscraps,72000
+2016,Nov,Compost,C-Organics,48600
+2016,Oct,Compost,C-Organics,"136,456"
+2016,Sep,Compost,C-Yardwaste,13320
+2016,Sep,Compost,C-Yardwaste,13620
+2016,Sep,Compost,C-Yardwaste,12780
+2016,Sep,Compost,C-Yardwaste,2620
+2016,Sep,Compost,C-Yardwaste,6180
+2016,Sep,Compost,C-Foodscraps,1800
+2016,Sep,Compost,C-Foodscraps,1800
+2016,Sep,Compost,C-Foodscraps,1800
+2016,Sep,Compost,C-Foodscraps,1800
+2016,Sep,Compost,C-Foodscraps,1800
+2016,Sep,Compost,C-Foodscraps,72000
+2016,Apr,Landfill,L-Landfill,552
+2016,Apr,Landfill,L-Landfill,12880
+2016,Apr,Landfill,L-Landfill,15600
+2016,Apr,Landfill,L-Landfill,11640
+2016,Apr,Landfill,L-Landfill,12300
+2016,Apr,Landfill,L-Landfill,16860
+2016,Apr,Landfill,L-Landfill,10080
+2016,Apr,Landfill,L-Landfill,17400
+2016,Apr,Landfill,L-Landfill,11440
+2016,Apr,Landfill,L-Landfill,12800
+2016,Apr,Landfill,L-Landfill,1104
+2016,Apr,Landfill,L-Landfill,276
+2016,Apr,Landfill,L-Landfill,1104
+2016,Apr,Landfill,L-Landfill,1656
+2016,Aug,Landfill,L-Landfill,552
+2016,Aug,Landfill,L-Landfill,15160
+2016,Aug,Landfill,L-Landfill,12800
+2016,Aug,Landfill,L-Landfill,13960
+2016,Aug,Landfill,L-Landfill,16740
+2016,Aug,Landfill,L-Landfill,1104
+2016,Aug,Landfill,L-Landfill,1104
+2016,Aug,Landfill,L-Landfill,2208
+2016,Dec,Landfill,L-Landfill,552
+2016,Dec,Landfill,L-Landfill,10460
+2016,Dec,Landfill,L-Landfill,14700
+2016,Dec,Landfill,L-Landfill,19000
+2016,Dec,Landfill,L-Landfill,15640
+2016,Dec,Landfill,L-Landfill,9600
+2016,Dec,Landfill,L-Landfill,8180
+2016,Dec,Landfill,L-Landfill,1104
+2016,Dec,Landfill,L-Landfill,1104
+2016,Dec,Landfill,L-Landfill,1656
+2016,Feb,Landfill,L-Landfill,552
+2016,Feb,Landfill,L-Landfill,11240
+2016,Feb,Landfill,L-Landfill,15980
+2016,Feb,Landfill,L-Landfill,11840
+2016,Feb,Landfill,L-Landfill,14980
+2016,Feb,Landfill,L-Landfill,9440
+2016,Feb,Landfill,L-Landfill,16360
+2016,Feb,Landfill,L-Landfill,12400
+2016,Feb,Landfill,L-Landfill,12920
+2016,Feb,Landfill,L-Landfill,1104
+2016,Feb,Landfill,L-Landfill,1104
+2016,Feb,Landfill,L-Landfill,1656
+2016,Jan,Landfill,L-Landfill,552
+2016,Jan,Landfill,L-Landfill,14940
+2016,Jan,Landfill,L-Landfill,12460
+2016,Jan,Landfill,L-Landfill,14280
+2016,Jan,Landfill,L-Landfill,13900
+2016,Jan,Landfill,L-Landfill,7980
+2016,Jan,Landfill,L-Landfill,14000
+2016,Jan,Landfill,L-Landfill,14280
+2016,Jan,Landfill,L-Landfill,15540
+2016,Jan,Landfill,L-Landfill,1104
+2016,Jan,Landfill,L-Landfill,1104
+2016,Jan,Landfill,L-Landfill,1656
+2016,Jul,Landfill,L-Landfill,552
+2016,Jul,Landfill,L-Landfill,17400
+2016,Jul,Landfill,L-Landfill,11660
+2016,Jul,Landfill,L-Landfill,13540
+2016,Jul,Landfill,L-Landfill,17280
+2016,Jul,Landfill,L-Landfill,14620
+2016,Jul,Landfill,L-Landfill,1104
+2016,Jul,Landfill,L-Landfill,1104
+2016,Jul,Landfill,L-Landfill,1656
+2016,Jun,Landfill,L-Landfill,552
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,1380
+2016,Jun,Landfill,L-Landfill,1380
+2016,Jun,Landfill,L-Landfill,17120
+2016,Jun,Landfill,L-Landfill,17840
+2016,Jun,Landfill,L-Landfill,4480
+2016,Jun,Landfill,L-Landfill,11120
+2016,Jun,Landfill,L-Landfill,14260
+2016,Jun,Landfill,L-Landfill,13280
+2016,Jun,Landfill,L-Landfill,17560
+2016,Jun,Landfill,L-Landfill,16200
+2016,Jun,Landfill,L-Landfill,13680
+2016,Jun,Landfill,L-Landfill,1104
+2016,Jun,Landfill,L-Landfill,1104
+2016,Jun,Landfill,L-Landfill,1656
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Jun,Landfill,L-Landfill,2760
+2016,Mar,Landfill,L-Landfill,552
+2016,Mar,Landfill,L-Landfill,15640
+2016,Mar,Landfill,L-Landfill,16920
+2016,Mar,Landfill,L-Landfill,12780
+2016,Mar,Landfill,L-Landfill,16220
+2016,Mar,Landfill,L-Landfill,11380
+2016,Mar,Landfill,L-Landfill,14720
+2016,Mar,Landfill,L-Landfill,12220
+2016,Mar,Landfill,L-Landfill,22300
+2016,Mar,Landfill,L-Landfill,1104
+2016,Mar,Landfill,L-Landfill,1104
+2016,Mar,Landfill,L-Landfill,1656
+2016,May,Landfill,L-Landfill,552
+2016,May,Landfill,L-Landfill,14580
+2016,May,Landfill,L-Landfill,14580
+2016,May,Landfill,L-Landfill,13580
+2016,May,Landfill,L-Landfill,14700
+2016,May,Landfill,L-Landfill,12660
+2016,May,Landfill,L-Landfill,14560
+2016,May,Landfill,L-Landfill,15760
+2016,May,Landfill,L-Landfill,19680
+2016,May,Landfill,L-Landfill,7280
+2016,May,Landfill,L-Landfill,1104
+2016,May,Landfill,L-Landfill,1104
+2016,May,Landfill,L-Landfill,1656
+2016,Nov,Landfill,L-Landfill,552
+2016,Nov,Landfill,L-Landfill,552
+2016,Nov,Landfill,L-Landfill,13520
+2016,Nov,Landfill,L-Landfill,15900
+2016,Nov,Landfill,L-Landfill,13400
+2016,Nov,Landfill,L-Landfill,13140
+2016,Nov,Landfill,L-Landfill,13920
+2016,Nov,Landfill,L-Landfill,16700
+2016,Nov,Landfill,L-Landfill,12060
+2016,Nov,Landfill,L-Landfill,12240
+2016,Oct,Landfill,L-Landfill,"121,820"
+2016,Sep,Landfill,L-Landfill,552
+2016,Sep,Landfill,L-Landfill,8580
+2016,Sep,Landfill,L-Landfill,13000
+2016,Sep,Landfill,L-Landfill,12580
+2016,Sep,Landfill,L-Landfill,8060
+2016,Sep,Landfill,L-Landfill,12400
+2016,Sep,Landfill,L-Landfill,14860
+2016,Sep,Landfill,L-Landfill,14140
+2016,Sep,Landfill,L-Landfill,11160
+2016,Sep,Landfill,L-Landfill,13880
+2016,Sep,Landfill,L-Landfill,1104
+2016,Sep,Landfill,L-Landfill,1104
+2016,Sep,Landfill,L-Landfill,1656
+2016,Apr,Recycle,R-Mixed recycling,"108,732"
+2016,Apr,Recycle,R-Mixed recycling,2096
+2016,Apr,Recycle,R-Mixed recycling,2096
+2016,Apr,Recycle,R-Mixed recycling,1048
+2016,Apr,Recycle,R-Mixed recycling,3144
+2016,Aug,Recycle,R-Mixed recycling,"67,842"
+2016,Aug,Recycle,R-Mixed recycling,2096
+2016,Aug,Recycle,R-Mixed recycling,2096
+2016,Aug,Recycle,R-Mixed recycling,3144
+2016,Aug,Recycle,R-Mixed recycling,4192
+2016,Dec,Recycle,R-Mixed recycling,"46,243"
+2016,Dec,Recycle,R-Mixed recycling,9320
+2016,Dec,Recycle,R-Mixed recycling,11060
+2016,Dec,Recycle,R-Mixed recycling,12020
+2016,Dec,Recycle,R-Mixed recycling,7760
+2016,Dec,Recycle,R-Mixed recycling,6420
+2016,Dec,Recycle,R-Mixed recycling,9520
+2016,Dec,Recycle,R-Mixed recycling,2096
+2016,Dec,Recycle,R-Mixed recycling,2096
+2016,Dec,Recycle,R-Mixed recycling,2096
+2016,Dec,Recycle,R-Mixed recycling,3144
+2016,Feb,Recycle,R-E-waste,4266
+2016,Feb,Recycle,R-Paper,11420
+2016,Feb,Recycle,R-Metal,4440
+2016,Feb,Recycle,R-Plastic,28600
+2016,Feb,Recycle,R-Cardboard,26360
+2016,Feb,Recycle,R-Mixed recycling,11420
+2016,Feb,Recycle,R-Mixed recycling,"95,722"
+2016,Feb,Recycle,R-Mixed recycling,2096
+2016,Feb,Recycle,R-Mixed recycling,2096
+2016,Feb,Recycle,R-Mixed recycling,1048
+2016,Feb,Recycle,R-Mixed recycling,393
+2016,Feb,Recycle,R-Mixed recycling,3144
+2016,Feb,Recycle,R-Mixed recycling,3144
+2016,Jan,Recycle,R-E-waste,4295
+2016,Jan,Recycle,R-Paper,7620
+2016,Jan,Recycle,R-Plastic,30020
+2016,Jan,Recycle,R-Cardboard,31040
+2016,Jan,Recycle,R-Mixed recycling,7620
+2016,Jan,Recycle,R-Mixed recycling,"90,023"
+2016,Jan,Recycle,R-Mixed recycling,2096
+2016,Jan,Recycle,R-Mixed recycling,2096
+2016,Jan,Recycle,R-Mixed recycling,1048
+2016,Jan,Recycle,R-Mixed recycling,1572
+2016,Jul,Recycle,R-Mixed recycling,"87,272"
+2016,Jul,Recycle,R-Mixed recycling,2096
+2016,Jul,Recycle,R-Mixed recycling,2096
+2016,Jul,Recycle,R-Mixed recycling,3144
+2016,Jul,Recycle,R-Mixed recycling,3144
+2016,Jun,Recycle,R-Mixed recycling,"99,460"
+2016,Jun,Recycle,R-Mixed recycling,2096
+2016,Jun,Recycle,R-Mixed recycling,2096
+2016,Jun,Recycle,R-Mixed recycling,1048
+2016,Jun,Recycle,R-Mixed recycling,3144
+2016,Mar,Recycle,R-E-waste,2112
+2016,Mar,Recycle,R-Paper,12780
+2016,Mar,Recycle,R-Plastic,33140
+2016,Mar,Recycle,R-Cardboard,27120
+2016,Mar,Recycle,R-Mixed recycling,9860
+2016,Mar,Recycle,R-Mixed recycling,"95,130"
+2016,Mar,Recycle,R-Mixed recycling,2096
+2016,Mar,Recycle,R-Mixed recycling,2096
+2016,Mar,Recycle,R-Mixed recycling,1048
+2016,Mar,Recycle,R-Mixed recycling,3144
+2016,May,Recycle,R-Mixed recycling,"128,161"
+2016,May,Recycle,R-Mixed recycling,2096
+2016,May,Recycle,R-Mixed recycling,2096
+2016,May,Recycle,R-Mixed recycling,1048
+2016,May,Recycle,R-Mixed recycling,3144
+2016,Nov,Recycle,R-Mixed recycling,8300
+2016,Nov,Recycle,R-Mixed recycling,10080
+2016,Nov,Recycle,R-Mixed recycling,8720
+2016,Nov,Recycle,R-Mixed recycling,9220
+2016,Nov,Recycle,R-Mixed recycling,10180
+2016,Nov,Recycle,R-Mixed recycling,11140
+2016,Nov,Recycle,R-Mixed recycling,6600
+2016,Nov,Recycle,R-Mixed recycling,11000
+2016,Nov,Recycle,R-Mixed recycling,"8,783"
+2016,Oct,Recycle,R-E-waste,4033
+2016,Oct,Recycle,R-Mixed recycling,"99,574"
+2016,Sep,Recycle,R-Mixed recycling,"95,430"
+2016,Sep,Recycle,R-Mixed recycling,2096
+2016,Sep,Recycle,R-Mixed recycling,2096
+2016,Sep,Recycle,R-Mixed recycling,1048
+2016,Sep,Recycle,R-Mixed recycling,3144
+2016,Apr,Reuse,D-Food Recovery Network,790
+2016,Aug,Reuse,D-Food Recovery Network,357
+2016,Dec,Reuse,D-Food Recovery Network,235
+2016,Feb,Reuse,D-Food Recovery Network,629
+2016,Jan,Reuse,D-Food Recovery Network,472
+2016,Jul,Reuse,D-Food Recovery Network,392.5
+2016,Jun,Reuse,D-Food Recovery Network,417.5
+2016,Jun,Reuse,D-Donations,12333
+2016,Mar,Reuse,D-Food Recovery Network,611
+2016,May,Reuse,D-Food Recovery Network,574
+2016,Nov,Reuse,D-Food Recovery Network,540.6
+2016,Oct,Reuse,D-Food Recovery Network,1086.9
+2016,Sep,Reuse,D-Food Recovery Network,864
+2016,May,Reuse,D-Swap For Good,230
+2017,Apr,Compost,C-Yardwaste,17580
+2017,Apr,Compost,C-Yardwaste,12660
+2017,Apr,Compost,C-Yardwaste,14860
+2017,Apr,Compost,C-Foodscraps,72000
+2017,Apr,Compost,C-Organics,48600
+2017,Aug,Compost,C-Yardwaste,12620
+2017,Aug,Compost,C-Yardwaste,13200
+2017,Aug,Compost,C-Yardwaste,9620
+2017,Aug,Compost,C-Yardwaste,9580
+2017,Aug,Compost,C-Foodscraps,72000
+2017,Aug,Compost,C-Organics,48600
+2017,Feb,Compost,C-Yardwaste,10700
+2017,Feb,Compost,C-Yardwaste,10500
+2017,Feb,Compost,C-Yardwaste,7900
+2017,Feb,Compost,C-Yardwaste,11660
+2017,Feb,Compost,C-Yardwaste,8840
+2017,Feb,Compost,C-Foodscraps,72000
+2017,Feb,Compost,C-Organics,48600
+2017,Jan,Compost,C-Yardwaste,61680
+2017,Jan,Compost,C-Foodscraps,72000
+2017,Jan,Compost,C-Organics,48600
+2017,Jul,Compost,C-Yardwaste,7280
+2017,Jul,Compost,C-Yardwaste,7740
+2017,Jul,Compost,C-Yardwaste,12920
+2017,Jul,Compost,C-Yardwaste,7040
+2017,Jul,Compost,C-Yardwaste,9120
+2017,Jul,Compost,C-Foodscraps,72000
+2017,Jul,Compost,C-Organics,48600
+2017,Jun,Compost,C-Foodscraps,72000
+2017,Jun,Compost,C-Yardwaste,6960
+2017,Jun,Compost,C-Yardwaste,7260
+2017,Jun,Compost,C-Yardwaste,10020
+2017,Jun,Compost,C-Yardwaste,3200
+2017,Jun,Compost,C-Yardwaste,9200
+2017,Jun,Compost,C-Organics,48600
+2017,Mar,Compost,C-Yardwaste,11520
+2017,Mar,Compost,C-Yardwaste,9700
+2017,Mar,Compost,C-Yardwaste,9340
+2017,Mar,Compost,C-Foodscraps,72000
+2017,Mar,Compost,C-Organics,48600
+2017,May,Compost,C-Yardwaste,12340
+2017,May,Compost,C-Yardwaste,15040
+2017,May,Compost,C-Yardwaste,11980
+2017,May,Compost,C-Foodscraps,72000
+2017,May,Compost,C-Organics,48600
+2017,Nov,Compost,C-Yardwaste,14000
+2017,Nov,Compost,C-Yardwaste,10000
+2017,Nov,Compost,C-Yardwaste,15520
+2017,Nov,Compost,C-Yardwaste,10440
+2017,Nov,Compost,C-Foodscraps,72000
+2017,Nov,Compost,C-Organics,48600
+2017,Oct,Compost,C-Yardwaste,8340
+2017,Oct,Compost,C-Yardwaste,13080
+2017,Oct,Compost,C-Yardwaste,8760
+2017,Oct,Compost,C-Yardwaste,10400
+2017,Oct,Compost,C-Foodscraps,72000
+2017,Oct,Compost,C-Organics,48600
+2017,Sep,Compost,C-Yardwaste,8560
+2017,Sep,Compost,C-Yardwaste,15340
+2017,Sep,Compost,C-Yardwaste,9520
+2017,Sep,Compost,C-Yardwaste,11140
+2017,Sep,Compost,C-Foodscraps,72000
+2017,Sep,Compost,C-Organics,48600
+2017,Dec,Compost,C-Yardwaste,12200
+2017,Dec,Compost,C-Yardwaste,7280
+2017,Dec,Compost,C-Yardwaste,9420
+2017,Dec,Compost,C-Yardwaste,7700
+2017,Dec,Compost,C-Foodscraps,72000
+2017,Dec,Compost,C-Organics,48600
+2017,Jan,Landfill,L-Landfill,552
+2017,Jan,Landfill,L-Landfill,552
+2017,Jan,Landfill,L-Landfill,8920
+2017,Jan,Landfill,L-Landfill,7120
+2017,Jan,Landfill,L-Landfill,14100
+2017,Jan,Landfill,L-Landfill,6760
+2017,Jan,Landfill,L-Landfill,16940
+2017,Jan,Landfill,L-Landfill,13840
+2017,Jan,Landfill,L-Landfill,15520
+2017,Jan,Landfill,L-Landfill,13780
+2017,Jan,Landfill,L-Landfill,1104
+2017,Jan,Landfill,L-Landfill,1104
+2017,Jan,Landfill,L-Landfill,1656
+2017,Feb,Landfill,L-Landfill,552
+2017,Feb,Landfill,L-Landfill,552
+2017,Feb,Landfill,L-Landfill,13020
+2017,Feb,Landfill,L-Landfill,13260
+2017,Feb,Landfill,L-Landfill,14620
+2017,Feb,Landfill,L-Landfill,13060
+2017,Feb,Landfill,L-Landfill,11220
+2017,Feb,Landfill,L-Landfill,7760
+2017,Feb,Landfill,L-Landfill,19820
+2017,Feb,Landfill,L-Landfill,14620
+2017,Feb,Landfill,L-Landfill,1104
+2017,Feb,Landfill,L-Landfill,1104
+2017,Feb,Landfill,L-Landfill,1656
+2017,Feb,Landfill,L-Landfill,828
+2017,Mar,Landfill,L-Landfill,552
+2017,Mar,Landfill,L-Landfill,552
+2017,Mar,Landfill,L-Landfill,11800
+2017,Mar,Landfill,L-Landfill,14140
+2017,Mar,Landfill,L-Landfill,18700
+2017,Mar,Landfill,L-Landfill,9240
+2017,Mar,Landfill,L-Landfill,15280
+2017,Mar,Landfill,L-Landfill,13080
+2017,Mar,Landfill,L-Landfill,14200
+2017,Mar,Landfill,L-Landfill,14020
+2017,Mar,Landfill,L-Landfill,9400
+2017,Mar,Landfill,L-Landfill,1104
+2017,Mar,Landfill,L-Landfill,1104
+2017,Mar,Landfill,L-Landfill,1656
+2017,Mar,Landfill,L-Landfill,1656
+2017,Apr,Landfill,L-Landfill,552
+2017,Apr,Landfill,L-Landfill,552
+2017,Apr,Landfill,L-Landfill,8020
+2017,Apr,Landfill,L-Landfill,11440
+2017,Apr,Landfill,L-Landfill,14200
+2017,Apr,Landfill,L-Landfill,12080
+2017,Apr,Landfill,L-Landfill,10060
+2017,Apr,Landfill,L-Landfill,21080
+2017,Apr,Landfill,L-Landfill,11640
+2017,Apr,Landfill,L-Landfill,16980
+2017,Apr,Landfill,L-Landfill,1104
+2017,Apr,Landfill,L-Landfill,1104
+2017,Apr,Landfill,L-Landfill,1656
+2017,May,Landfill,L-Landfill,552
+2017,May,Landfill,L-Landfill,552
+2017,May,Landfill,L-Landfill,9780
+2017,May,Landfill,L-Landfill,12860
+2017,May,Landfill,L-Landfill,12040
+2017,May,Landfill,L-Landfill,16220
+2017,May,Landfill,L-Landfill,15720
+2017,May,Landfill,L-Landfill,16000
+2017,May,Landfill,L-Landfill,11720
+2017,May,Landfill,L-Landfill,14820
+2017,May,Landfill,L-Landfill,8840
+2017,May,Landfill,L-Landfill,1104
+2017,May,Landfill,L-Landfill,2208
+2017,May,Landfill,L-Landfill,1656
+2017,May,Landfill,L- Recycling Residual,15291
+2017,Jun,Landfill,L-Landfill,552
+2017,Jun,Landfill,L-Landfill,552
+2017,Jun,Landfill,L-Landfill,4000
+2017,Jun,Landfill,L-Landfill,3280
+2017,Jun,Landfill,L-Landfill,3760
+2017,Jun,Landfill,L-Landfill,5460
+2017,Jun,Landfill,L-Landfill,5420
+2017,Jun,Landfill,L-Landfill,6960
+2017,Jun,Landfill,L-Landfill,7340
+2017,Jun,Landfill,L-Landfill,4860
+2017,Jun,Landfill,L-Landfill,3600
+2017,Jun,Landfill,L-Landfill,7340
+2017,Jun,Landfill,L-Landfill,14120
+2017,Jun,Landfill,L-Landfill,12140
+2017,Jun,Landfill,L-Landfill,13220
+2017,Jun,Landfill,L-Landfill,12640
+2017,Jun,Landfill,L-Landfill,6720
+2017,Jun,Landfill,L-Landfill,7220
+2017,Jun,Landfill,L-Landfill,10280
+2017,Jun,Landfill,L-Landfill,21280
+2017,Jun,Landfill,L-Landfill,12540
+2017,Jun,Landfill,L-Landfill,16440
+2017,Jun,Landfill,L-Landfill,19540
+2017,Jun,Landfill,L-Landfill,1104
+2017,Jun,Landfill,L-Landfill,2208
+2017,Jun,Landfill,L-Landfill,1656
+2017,Jun,Landfill,L- Recycling Residual,11082
+2017,Jul,Landfill,L-Landfill,552
+2017,Jul,Landfill,L-Landfill,552
+2017,Jul,Landfill,L-Landfill,10880
+2017,Jul,Landfill,L-Landfill,11120
+2017,Jul,Landfill,L-Landfill,18760
+2017,Jul,Landfill,L-Landfill,13300
+2017,Jul,Landfill,L-Landfill,1104
+2017,Jul,Landfill,L-Landfill,2208
+2017,Jul,Landfill,L-Landfill,1656
+2017,Jul,Landfill,L- Recycling Residual,7708
+2017,Aug,Landfill,L-Landfill,552
+2017,Aug,Landfill,L-Landfill,552
+2017,Aug,Landfill,L-Landfill,14780
+2017,Aug,Landfill,L-Landfill,13740
+2017,Aug,Landfill,L-Landfill,12320
+2017,Aug,Landfill,L-Landfill,11340
+2017,Aug,Landfill,L-Landfill,1104
+2017,Aug,Landfill,L-Landfill,2208
+2017,Aug,Landfill,L-Landfill,1656
+2017,Aug,Landfill,L- Recycling Residual,12553
+2017,Sep,Landfill,L-Landfill,11460
+2017,Sep,Landfill,L-Landfill,9240
+2017,Sep,Landfill,L-Landfill,12620
+2017,Sep,Landfill,L-Landfill,16480
+2017,Sep,Landfill,L-Landfill,11080
+2017,Sep,Landfill,L-Landfill,15880
+2017,Sep,Landfill,L-Landfill,11560
+2017,Sep,Landfill,L-Landfill,552
+2017,Sep,Landfill,L-Landfill,552
+2017,Sep,Landfill,L-Landfill,1104
+2017,Sep,Landfill,L-Landfill,2208
+2017,Sep,Landfill,L-Landfill,1656
+2017,Sep,Landfill,L- Recycling Residual,12454
+2017,Oct,Landfill,L-Landfill,552
+2017,Oct,Landfill,L-Landfill,552
+2017,Oct,Landfill,L-Landfill,11620
+2017,Oct,Landfill,L-Landfill,12380
+2017,Oct,Landfill,L-Landfill,11500
+2017,Oct,Landfill,L-Landfill,15520
+2017,Oct,Landfill,L-Landfill,10360
+2017,Oct,Landfill,L-Landfill,13560
+2017,Oct,Landfill,L-Landfill,10220
+2017,Oct,Landfill,L-Landfill,13380
+2017,Oct,Landfill,L-Landfill,10160
+2017,Oct,Landfill,L-Landfill,1104
+2017,Oct,Landfill,L-Landfill,2208
+2017,Oct,Landfill,L-Landfill,1656
+2017,Oct,Landfill,L-Landfill,1104
+2017,Oct,Landfill,L- Recycling Residual,17815
+2017,Nov,Landfill,L-Landfill,552
+2017,Nov,Landfill,L-Landfill,552
+2017,Nov,Landfill,L-Landfill,16320
+2017,Nov,Landfill,L-Landfill,9980
+2017,Nov,Landfill,L-Landfill,13640
+2017,Nov,Landfill,L-Landfill,14260
+2017,Nov,Landfill,L-Landfill,15180
+2017,Nov,Landfill,L-Landfill,14880
+2017,Nov,Landfill,L-Landfill,5600
+2017,Nov,Landfill,L-Landfill,5560
+2017,Nov,Landfill,L-Landfill,1104
+2017,Nov,Landfill,L-Landfill,2208
+2017,Nov,Landfill,L-Landfill,1656
+2017,Nov,Landfill,L- Recycling Residual,15808
+2017,Dec,Landfill,L-Landfill,1104
+2017,Dec,Landfill,L-Landfill,11360
+2017,Dec,Landfill,L-Landfill,10160
+2017,Dec,Landfill,L-Landfill,15860
+2017,Dec,Landfill,L-Landfill,14580
+2017,Dec,Landfill,L-Landfill,11780
+2017,Dec,Landfill,L-Landfill,9220
+2017,Dec,Landfill,L-Landfill,552
+2017,Dec,Landfill,L-Landfill,552
+2017,Dec,Landfill,L-Landfill,1104
+2017,Dec,Landfill,L-Landfill,2208
+2017,Dec,Landfill,L-Landfill,1656
+2017,Dec,Landfill,L- Recycling Residual,8287
+2017,Apr,Recycle,R-E-waste,3611
+2017,Apr,Recycle,R-Mixed recycling,2096
+2017,Apr,Recycle,R-Mixed recycling,4192
+2017,Apr,Recycle,R-Mixed recycling,1048
+2017,Apr,Recycle,R-Mixed recycling,3144
+2017,Apr,Recycle,R-Mixed recycling,7580
+2017,Apr,Recycle,R-Mixed recycling,13020
+2017,Apr,Recycle,R-Mixed recycling,11040
+2017,Apr,Recycle,R-Mixed recycling,12120
+2017,Apr,Recycle,R-Mixed recycling,5140
+2017,Apr,Recycle,R-Mixed recycling,12120
+2017,Apr,Recycle,R-Mixed recycling,7380
+2017,Apr,Recycle,R-Mixed recycling,10080
+2017,Apr,Recycle,R-Confidential shredding,"4,650"
+2017,Aug,Recycle,R-E-waste,3725
+2017,Aug,Recycle,R-E-waste,3186
+2017,Aug,Recycle,R-Mixed recycling,2096
+2017,Aug,Recycle,R-Mixed recycling,4192
+2017,Aug,Recycle,R-Mixed recycling,1048
+2017,Aug,Recycle,R-Mixed recycling,3144
+2017,Feb,Recycle,R-Mixed recycling,2096
+2017,Feb,Recycle,R-Mixed recycling,2096
+2017,Feb,Recycle,R-Mixed recycling,1048
+2017,Feb,Recycle,R-Mixed recycling,3144
+2017,Feb,Recycle,R-Mixed recycling,3144
+2017,Feb,Recycle,R-Confidential shredding,7262.75
+2017,Feb,Recycle,R-Mixed recycling,8860
+2017,Feb,Recycle,R-Mixed recycling,10940
+2017,Feb,Recycle,R-Mixed recycling,7160
+2017,Feb,Recycle,R-Mixed recycling,8860
+2017,Feb,Recycle,R-Mixed recycling,6420
+2017,Feb,Recycle,R-Mixed recycling,5660
+2017,Feb,Recycle,R-Mixed recycling,17340
+2017,Feb,Recycle,R-Mixed recycling,12120
+2017,Jan,Recycle,R-Mixed recycling,8540
+2017,Jan,Recycle,R-Mixed recycling,4880
+2017,Jan,Recycle,R-Mixed recycling,12800
+2017,Jan,Recycle,R-Mixed recycling,5020
+2017,Jan,Recycle,R-Mixed recycling,10780
+2017,Jan,Recycle,R-Mixed recycling,12320
+2017,Jan,Recycle,R-Mixed recycling,8660
+2017,Jan,Recycle,R-Mixed recycling,2096
+2017,Jan,Recycle,R-Mixed recycling,2096
+2017,Jan,Recycle,R-Mixed recycling,1048
+2017,Jan,Recycle,R-Mixed recycling,3144
+2017,Jan,Recycle,R-Confidential shredding,8762.24
+2017,Jul,Recycle,R-Mixed recycling,2096
+2017,Jul,Recycle,R-Mixed recycling,4192
+2017,Jul,Recycle,R-Mixed recycling,1048
+2017,Jul,Recycle,R-Mixed recycling,3144
+2017,Jun,Recycle,R-Mixed recycling,2096
+2017,Jun,Recycle,R-Mixed recycling,4192
+2017,Jun,Recycle,R-Mixed recycling,1048
+2017,Jun,Recycle,R-Mixed recycling,3144
+2017,Jun,Recycle,R-E-waste,3490
+2017,Mar,Recycle,R-Mixed recycling,8440
+2017,Mar,Recycle,R-Mixed recycling,10020
+2017,Mar,Recycle,R-Mixed recycling,2096
+2017,Mar,Recycle,R-Mixed recycling,2096
+2017,Mar,Recycle,R-Mixed recycling,1048
+2017,Mar,Recycle,R-Mixed recycling,3144
+2017,Mar,Recycle,R-E-waste,2700
+2017,Mar,Recycle,R-Mixed recycling,10300
+2017,Mar,Recycle,R-Mixed recycling,13200
+2017,Mar,Recycle,R-Mixed recycling,8060
+2017,Mar,Recycle,R-Mixed recycling,12400
+2017,Mar,Recycle,R-Mixed recycling,12840
+2017,Mar,Recycle,R-Mixed recycling,7240
+2017,Mar,Recycle,R-Confidential shredding,"5,925"
+2017,May,Recycle,R-Mixed recycling,2096
+2017,May,Recycle,R-Mixed recycling,4192
+2017,May,Recycle,R-Mixed recycling,1048
+2017,May,Recycle,R-Mixed recycling,3144
+2017,May,Recycle,R-Confidential shredding,"4,275"
+2017,Nov,Recycle,R-Mixed recycling,2096
+2017,Nov,Recycle,R-Mixed recycling,4192
+2017,Nov,Recycle,R-Mixed recycling,1048
+2017,Nov,Recycle,R-Mixed recycling,3144
+2017,Nov,Recycle,R-E-waste,2503
+2017,Oct,Recycle,R-Confidential shredding,8052.24
+2017,Oct,Recycle,R-Mixed recycling,2096
+2017,Oct,Recycle,R-Mixed recycling,4192
+2017,Oct,Recycle,R-Mixed recycling,1048
+2017,Oct,Recycle,R-Mixed recycling,3144
+2017,Sep,Recycle,R-Confidential shredding,6653.52
+2017,Sep,Recycle,R-Mixed recycling,2096
+2017,Sep,Recycle,R-Mixed recycling,4192
+2017,Sep,Recycle,R-Mixed recycling,1048
+2017,Sep,Recycle,R-Mixed recycling,3144
+2017,Sep,Recycle,R-E-waste,2561
+2017,Aug,Recycle,R-Confidential shredding,7650
+2017,Jul,Recycle,R-Confidential shredding,6375
+2017,Jun,Recycle,R-Confidential shredding,11175
+2017,Nov,Recycle,R-Mixed recycling,2096
+2017,Jan,Recycle,R-Mixed recycling,2096
+2017,Feb,Recycle,R-Mixed recycling,1048
+2017,Apr,Recycle,R-Mixed recycling,3144
+2017,May,Recycle,R-Cardboard,28902
+2017,May,Recycle,R-Paper,24178
+2017,May,Recycle,R-Glass,3363
+2017,May,Recycle,R-Plastic,3122
+2017,May,Recycle,R-Plastic,881
+2017,May,Recycle,R-Metal,2882
+2017,May,Recycle,R-Metal,320
+2017,May,Recycle,R-Plastic,1121
+2017,Jun,Recycle,R-Cardboard,"20,945"
+2017,Jun,Recycle,R-Paper,17522
+2017,Jun,Recycle,R-Glass,2437
+2017,Jun,Recycle,R-Plastic,2263
+2017,Jun,Recycle,R-Plastic,638
+2017,Jun,Recycle,R-Metal,2089
+2017,Jun,Recycle,R-Metal,232
+2017,Jun,Recycle,R-Plastic,812
+2017,Jul,Recycle,R-Cardboard,"14,976"
+2017,Jul,Recycle,R-Paper,12437
+2017,Jul,Recycle,R-Glass,589
+2017,Jul,Recycle,R-Plastic,1637
+2017,Jul,Recycle,R-Plastic,718
+2017,Jul,Recycle,R-Metal,994
+2017,Jul,Recycle,R-Metal,166
+2017,Jul,Recycle,R-Plastic,515
+2017,Aug,Recycle,R-Cardboard,"24,390"
+2017,Aug,Recycle,R-Paper,20255
+2017,Aug,Recycle,R-Glass,959
+2017,Aug,Recycle,R-Plastic,2667
+2017,Aug,Recycle,R-Plastic,1169
+2017,Aug,Recycle,R-Metal,1618
+2017,Aug,Recycle,R-Metal,270
+2017,Aug,Recycle,R-Plastic,839
+2017,Sep,Recycle,R-Cardboard,"24,194"
+2017,Sep,Recycle,R-Paper,20092
+2017,Sep,Recycle,R-Glass,951
+2017,Sep,Recycle,R-Plastic,2645
+2017,Sep,Recycle,R-Plastic,1159
+2017,Sep,Recycle,R-Metal,1605
+2017,Sep,Recycle,R-Metal,268
+2017,Sep,Recycle,R-Plastic,832
+2017,Oct,Recycle,R-Cardboard,"36,856"
+2017,Oct,Recycle,R-Paper,27241
+2017,Oct,Recycle,R-Glass,3959
+2017,Oct,Recycle,R-Plastic,2828
+2017,Oct,Recycle,R-Plastic,1602
+2017,Oct,Recycle,R-Metal,2168
+2017,Oct,Recycle,R-Metal,283
+2017,Oct,Recycle,R-Plastic,1508
+2017,Nov,Recycle,R-Cardboard,"32,703"
+2017,Nov,Recycle,R-Paper,24172
+2017,Nov,Recycle,R-Glass,3513
+2017,Nov,Recycle,R-Plastic,2509
+2017,Nov,Recycle,R-Plastic,1422
+2017,Nov,Recycle,R-Metal,1924
+2017,Nov,Recycle,R-Metal,251
+2017,Nov,Recycle,R-Plastic,1338
+2017,Dec,Recycle,R-E-waste,4431
+2017,Dec,Recycle,R-Mixed recycling,2096
+2017,Dec,Recycle,R-Mixed recycling,4192
+2017,Dec,Recycle,R-Mixed recycling,1048
+2017,Dec,Recycle,R-Mixed recycling,3144
+2017,Sep,Recycle,R-Confidential shredding,6750
+2017,Oct,Recycle,R-Confidential shredding,8175
+2017,Nov,Recycle,R-Confidential shredding,6750
+2017,Dec,Recycle,R-Confidential shredding,6150
+2017,Dec,Recycle,R-Cardboard,17141
+2017,Dec,Recycle,R-Paper,12670
+2017,Dec,Recycle,R-Glass,1841
+2017,Dec,Recycle,R-Plastic,1315
+2017,Dec,Recycle,R-Plastic,745
+2017,Dec,Recycle,R-Metal,1008
+2017,Dec,Recycle,R-Metal,132
+2017,Dec,Recycle,R-Plastic,701
+2017,Jun,Recycle,R-Mixed recycling,680
+2017,Aug,Recycle,R-Metal,4480
+2017,Sep,Recycle,R-Metal,5000
+2017,Oct,Recycle,R-Metal,3420
+2017,Dec,Recycle,R-Metal,2060
+2017,Nov,Recycle,R-Metal,4320
+2017,Jan,Reuse,D-Food Recovery Network,920.3
+2017,Feb,Reuse,D-Food Recovery Network,2059.6
+2017,Mar,Reuse,D-Food Recovery Network,1111.7
+2017,Apr,Reuse,D-Food Recovery Network,764
+2017,May,Reuse,D-Food Recovery Network,1049.5
+2017,Jun,Reuse,D-Food Recovery Network,660
+2017,Jul,Reuse,D-Food Recovery Network,418.75
+2017,Aug,Reuse,D-Food Recovery Network,305
+2017,Sep,Reuse,D-Food Recovery Network,563
+2017,Oct,Reuse,D-Food Recovery Network,336
+2017,Nov,Reuse,D-Food Recovery Network,333
+2017,Dec,Reuse,D-Food Recovery Network,115
+2017,Jun,Reuse,D-Donations,1774
+2017,Jun,Reuse,D-Donations,327
+2017,Jun,Reuse,D-Donations,"1,838"
+2017,May,Reuse,D-Swap For Good,566
+2018,Jan,Reuse,D-Food Recovery Network,739
+2018,Jan,Compost,C-Yardwaste,7680
+2018,Jan,Compost,C-Yardwaste,6860
+2018,Jan,Compost,C-Yardwaste,7540
+2018,Jan,Compost,C-Yardwaste,9000
+2018,Jan,Compost,C-Yardwaste,7300
+2018,Jan,Landfill,L-Landfill,552
+2018,Jan,Landfill,L-Landfill,552
+2018,Jan,Landfill,L-Landfill,8600
+2018,Jan,Landfill,L-Landfill,10000
+2018,Jan,Landfill,L-Landfill,9240
+2018,Jan,Landfill,L-Landfill,7840
+2018,Jan,Landfill,L-Landfill,16460
+2018,Jan,Landfill,L-Landfill,10340
+2018,Jan,Landfill,L-Landfill,16340
+2018,Jan,Landfill,L-Landfill,10740
+2018,Jan,Compost,C-Foodscraps,72000
+2018,Jan,Compost,C-Organics,48600
+2018,Jan,Landfill,L-Landfill,1104
+2018,Jan,Recycle,R-Mixed recycling,2096
+2018,Jan,Landfill,L-Landfill,2208
+2018,Jan,Recycle,R-Mixed recycling,4192
+2018,Jan,Recycle,R-Mixed recycling,1048
+2018,Jan,Landfill,L-Landfill,1656
+2018,Jan,Recycle,R-Mixed recycling,3144
+2018,Feb,Compost,C-Yardwaste,6980
+2018,Feb,Compost,C-Yardwaste,9080
+2018,Feb,Compost,C-Yardwaste,5740
+2018,Feb,Compost,C-Yardwaste,9620
+2018,Feb,Compost,C-Foodscraps,72000
+2018,Feb,Compost,C-Organics,48600
+2018,Feb,Landfill,L-Landfill,552
+2018,Feb,Landfill,L-Landfill,552
+2018,Feb,Landfill,L-Landfill,13580
+2018,Feb,Landfill,L-Landfill,13120
+2018,Feb,Landfill,L-Landfill,15880
+2018,Feb,Landfill,L-Landfill,11380
+2018,Feb,Landfill,L-Landfill,13360
+2018,Jan,Recycle,R-Confidential shredding,9975
+2018,Feb,Landfill,L-Landfill,5980
+2018,Feb,Landfill,L-Landfill,7420
+2018,Feb,Landfill,L-Landfill,15640
+2018,Feb,Landfill,L-Landfill,2180
+2018,Feb,Landfill,L-Landfill,7380
+2018,Feb,Landfill,L-Landfill,15080
+2018,Feb,Landfill,L-Landfill,1104
+2018,Feb,Landfill,L-Landfill,2208
+2018,Apr,Reuse,D-Donations,141176
+2018,Feb,Landfill,L-Landfill,1656
+2018,Feb,Recycle,R-Confidential shredding,6750
+2018,Feb,Recycle,R-Mixed recycling,2096
+2018,Feb,Recycle,R-Mixed recycling,2096
+2018,Feb,Recycle,R-Mixed recycling,1048
+2018,Feb,Recycle,R-Mixed recycling,3144
+2018,Feb,Reuse,D-Food Recovery Network,1112
+2018,Apr,Recycle,R-Construction & Demolition,8389
+2018,Apr,Recycle,R-Construction & Demolition,932
+2018,Mar,Compost,C-Yardwaste,6920
+2018,Mar,Compost,C-Yardwaste,8920
+2018,Mar,Compost,C-Yardwaste,16880
+2018,Mar,Compost,C-Yardwaste,16760
+2018,Mar,Compost,C-Foodscraps,72000
+2018,Apr,Compost,C-Yardwaste,18420
+2018,Apr,Compost,C-Organics,13840
+2018,Apr,Compost,C-Organics,14460
+2018,Apr,Landfill,L-Landfill,1104
+2018,Apr,Landfill,L-Landfill,15320
+2018,Apr,Landfill,L-Landfill,11780
+2018,Apr,Landfill,L-Landfill,8840
+2018,Apr,Landfill,L-Landfill,16640
+2018,Apr,Landfill,L-Landfill,12680
+2018,Apr,Landfill,L-Landfill,15220
+2018,Apr,Landfill,L-Landfill,13320
+2018,Apr,Landfill,L-Landfill,16020
+2018,Apr,Compost,C-Foodscraps,72000
+2018,Apr,Compost,C-Organics,48600
+2018,Apr,Landfill,L-Landfill,1104
+2018,Apr,Recycle,R-Mixed recycling,2096
+2018,Apr,Landfill,L-Landfill,1104
+2018,Apr,Recycle,R-Mixed recycling,4192
+2018,Apr,Recycle,R-Mixed recycling,1048
+2018,Apr,Landfill,L-Landfill,1656
+2018,Apr,Recycle,R-Mixed recycling,3144
+2018,Mar,Compost,C-Organics,48600
+2018,Apr,Recycle,R-Confidential shredding,6000
+2018,May,Recycle,R-Confidential shredding,7125
+2018,May,Compost,C-Yardwaste,10880
+2018,May,Compost,C-Yardwaste,10600
+2018,May,Compost,C-Yardwaste,11880
+2018,May,Landfill,L-Landfill,552
+2018,May,Landfill,L-Landfill,552
+2018,May,Landfill,L-Landfill,13700
+2018,May,Compost,C-Foodscraps,72000
+2018,Apr,Recycle,R-Construction & Demolition,487.2
+2018,Apr,Landfill,L-Construction & Demolition,74
+2018,May,Recycle,R-Construction & Demolition,660
+2018,May,Landfill,L-Construction & Demolition,100
+2018,Mar,Landfill,L-Landfill,552
+2018,Mar,Landfill,L-Landfill,552
+2018,Mar,Landfill,L-Landfill,14080
+2018,Mar,Landfill,L-Landfill,11540
+2018,Mar,Landfill,L-Landfill,15440
+2018,Mar,Landfill,L-Landfill,13600
+2018,Jun,Recycle,R-Confidential shredding,6225
+2018,Mar,Landfill,L-Landfill,16680
+2018,Mar,Landfill,L-Landfill,17720
+2018,Mar,Landfill,L-Landfill,10980
+2018,Mar,Landfill,L-Landfill,19760
+2018,Mar,Landfill,L-Landfill,1104
+2018,Mar,Landfill,L-Landfill,2208
+2018,Mar,Landfill,L-Landfill,1656
+2018,Mar,Recycle,R-Construction & Demolition,4100
+2018,Mar,Recycle,R-Construction & Demolition,5700
+2018,Mar,Recycle,R-Construction & Demolition,6380
+2018,Mar,Recycle,R-Construction & Demolition,4240
+2018,Mar,Recycle,R-Construction & Demolition,5360
+2018,Mar,Recycle,R-Construction & Demolition,3400
+2018,Mar,Recycle,R-Construction & Demolition,7840
+2018,Mar,Recycle,R-Confidential shredding,9600
+2018,Mar,Recycle,R-Mixed recycling,2096
+2018,Mar,Recycle,R-Mixed recycling,4192
+2018,Mar,Recycle,R-Mixed recycling,1048
+2018,Mar,Recycle,R-Mixed recycling,3144
+2018,May,Landfill,L-Landfill,552
+2018,May,Recycle,R-Mixed recycling,1048
+2018,May,Recycle,R-Mixed recycling,8920
+2018,May,Recycle,R-Mixed recycling,8620
+2018,May,Recycle,R-Mixed recycling,11040
+2018,May,Recycle,R-Mixed recycling,7060
+2018,May,Recycle,R-Mixed recycling,8840
+2018,May,Recycle,R-Mixed recycling,8700
+2018,May,Recycle,R-Mixed recycling,5520
+2018,May,Recycle,R-Mixed recycling,11020
+2018,May,Recycle,R-Mixed recycling,6200
+2018,May,Landfill,L-Landfill,12000
+2018,May,Landfill,L-Landfill,11760
+2018,May,Landfill,L-Landfill,14740
+2018,May,Landfill,L-Landfill,13300
+2018,May,Landfill,L-Landfill,12740
+2018,May,Landfill,L-Landfill,13880
+2018,May,Landfill,L-Landfill,12720
+2018,May,Landfill,L-Landfill,14140
+2018,May,Compost,C-Organics,48600
+2018,May,Landfill,L-Landfill,1104
+2018,May,Recycle,R-Mixed recycling,2096
+2018,May,Landfill,L-Landfill,1104
+2018,May,Recycle,R-Mixed recycling,4192
+2018,May,Recycle,R-Mixed recycling,1048
+2018,May,Landfill,L-Landfill,1656
+2018,May,Recycle,R-Mixed recycling,3144
+2018,Jun,Compost,C-Yardwaste,12200
+2018,Jun,Compost,C-Yardwaste,13720
+2018,Jun,Compost,C-Yardwaste,6140
+2018,Jun,Compost,C-Yardwaste,10760
+2018,Jun,Landfill,L-Landfill,14500
+2018,Jun,Landfill,L-Landfill,11380
+2018,Jun,Landfill,L-Landfill,13560
+2018,Jun,Landfill,L-Landfill,8520
+2018,Jun,Landfill,L-Landfill,1620
+2018,Jun,Landfill,L-Landfill,2840
+2018,Jun,Landfill,L-Landfill,2020
+2018,Jun,Landfill,L-Landfill,2540
+2018,Jun,Landfill,L-Landfill,5400
+2018,Jun,Landfill,L-Landfill,1480
+2018,Jun,Landfill,L-Landfill,1260
+2018,Jun,Landfill,L-Landfill,1060
+2018,Jun,Landfill,L-Landfill,640
+2018,Jun,Landfill,L-Landfill,1460
+2018,Jun,Landfill,L-Landfill,840
+2018,Jun,Landfill,L-Landfill,5160
+2018,Jun,Landfill,L-Landfill,1580
+2018,Jun,Landfill,L-Landfill,3320
+2018,Jun,Landfill,L-Landfill,1940
+2018,Jun,Landfill,L-Landfill,1100
+2018,Jun,Landfill,L-Landfill,3200
+2018,Jun,Landfill,L-Landfill,1680
+2018,Jun,Landfill,L-Landfill,6340
+2018,Jun,Landfill,L-Landfill,6080
+2018,Jun,Landfill,L-Landfill,4140
+2018,Jun,Landfill,L-Landfill,7700
+2018,Jun,Landfill,L-Landfill,6120
+2018,Jun,Landfill,L-Landfill,4340
+2018,Jun,Landfill,L-Landfill,11540
+2018,Jun,Landfill,L-Landfill,2120
+2018,Jun,Landfill,L-Landfill,11360
+2018,Jun,Landfill,L-Landfill,11160
+2018,Jun,Landfill,L-Landfill,4180
+2018,Jun,Landfill,L-Landfill,7520
+2018,Jun,Landfill,L-Landfill,16220
+2018,Jun,Landfill,L-Landfill,552
+2018,Jun,Landfill,L-Landfill,552
+2018,Jun,Recycle,R-Mixed recycling,1048
+2018,Jun,Recycle,R-Mixed recycling,9340
+2018,Jun,Recycle,R-Mixed recycling,2000
+2018,Jun,Recycle,R-Mixed recycling,2000
+2018,Jun,Recycle,R-Mixed recycling,10420
+2018,Jun,Recycle,R-Mixed recycling,14360
+2018,Jun,Recycle,R-Mixed recycling,5460
+2018,Jun,Recycle,R-Mixed recycling,2000
+2018,Jun,Recycle,R-Mixed recycling,11400
+2018,Jun,Recycle,R-Mixed recycling,7900
+2018,Jun,Recycle,R-Mixed recycling,5960
+2018,Jun,Recycle,R-Mixed recycling,4000
+2018,Jun,Compost,C-Foodscraps,72000
+2018,Jun,Compost,C-Organics,48600
+2018,Jun,Landfill,L-Landfill,2208
+2018,Jun,Recycle,R-Mixed recycling,4192
+2018,Jun,Recycle,R-Mixed recycling,1048
+2018,Jun,Landfill,L-Landfill,1656
+2018,Jun,Recycle,R-Mixed recycling,3144
+2018,Jul,Compost,C-Yardwaste,8560
+2018,Jul,Compost,C-Yardwaste,13120
+2018,Jul,Compost,C-Yardwaste,13540
+2018,Jul,Landfill,L-Landfill,552
+2018,Jul,Landfill,L-Landfill,13880
+2018,Jul,Landfill,L-Landfill,12100
+2018,Jul,Landfill,L-Landfill,13120
+2018,Jul,Landfill,L-Landfill,12660
+2018,Jul,Recycle,R-Mixed recycling,5580
+2018,Jul,Recycle,R-Mixed recycling,9200
+2018,Jul,Recycle,R-Mixed recycling,10860
+2018,Jul,Recycle,R-Mixed recycling,10140
+2018,Jul,Compost,C-Foodscraps,72000
+2018,Jul,Compost,C-Organics,48600
+2018,Jul,Landfill,L-Landfill,1104
+2018,Jul,Recycle,R-Mixed recycling,2096
+2018,Jul,Landfill,L-Landfill,2208
+2018,Jul,Recycle,R-Mixed recycling,4192
+2018,Jul,Recycle,R-Mixed recycling,1048
+2018,Jul,Landfill,L-Landfill,1656
+2018,Jul,Recycle,R-Mixed recycling,3144
+2018,Mar,Reuse,D-Food Recovery Network,528
+2018,Apr,Reuse,D-Food Recovery Network,1193
+2018,May,Reuse,D-Food Recovery Network,860
+2018,Jun,Reuse,D-Food Recovery Network,538
+2018,Jul,Reuse,D-Food Recovery Network,252
+2018,Aug,Compost,C-Organics,"12,940"
+2018,Aug,Compost,C-Yardwaste,"8,880"
+2018,Aug,Compost,C-Yardwaste,"5,380"
+2018,Aug,Compost,C-Yardwaste,"8,860"
+2018,Aug,Compost,C-Yardwaste,"10,400"
+2018,Aug,Compost,C-Yardwaste,"7,700"
+2018,Aug,Landfill,L-Landfill,552
+2018,Aug,Landfill,L-Landfill,"13,080"
+2018,Aug,Landfill,L-Landfill,"7,960"
+2018,Aug,Landfill,L-Landfill,"14,060"
+2018,Aug,Landfill,L-Landfill,"13,180"
+2018,Aug,Landfill,L-Landfill,"9,980"
+2018,Aug,Landfill,L-Landfill,552
+2018,Aug,Recycle,R-Mixed recycling,"1,048"
+2018,Aug,Recycle,R-Mixed recycling,"8,760"
+2018,Aug,Recycle,R-Mixed recycling,"13,720"
+2018,Aug,Recycle,R-Mixed recycling,"12,440"
+2018,Aug,Recycle,R-Mixed recycling,"14,860"
+2018,Aug,Recycle,R-Mixed recycling,"10,620"
+2018,Aug,Compost,C-Foodscraps,"72,000"
+2018,Aug,compost,C-Organics,"48,600"
+2018,Aug,Landfill,L-Landfill,"1,104"
+2018,Aug,Recycle,R-Mixed recycling,"2,096"
+2018,Aug,Landfill,L-Landfill,"2,208"
+2018,Aug,Recycle,R-Mixed recycling,"4,192"
+2018,Aug,Recycle,R-Mixed recycling,"1,048"
+2018,Aug,Landfill,L-Landfill,"1,656"
+2018,Aug,Recycle,R-Mixed recycling,"3,144"
+2018,Aug,Recycle,R-Confidential shredding,"7,125"
+2018,Jul,Recycle,R-Confidential shredding,"6,150"
+2018,Sep,Compost,C-Yardwaste,"10,440"
+2018,Sep,Compost,C-Yardwaste,"8,140"
+2018,Sep,Compost,C-Yardwaste,"10,880"
+2018,Sep,Compost,C-Yardwaste,"7,700"
+2018,Sep,Landfill,L-Landfill,552
+2018,Sep,Landfill,L-Landfill,"10,700"
+2018,Sep,Landfill,L-Landfill,"5,200"
+2018,Sep,Landfill,L-Landfill,"8,820"
+2018,Sep,Landfill,L-Landfill,"10,160"
+2018,Sep,Landfill,L-Landfill,"5,280"
+2018,Sep,Landfill,L-Landfill,"12,080"
+2018,Sep,Landfill,L-Construction & Demolition,"10,120"
+2018,Sep,Landfill,L-Landfill,"11,720"
+2018,Sep,Landfill,L-Construction & Demolition,"10,440"
+2018,Sep,Landfill,L-Landfill,"9,500"
+2018,Sep,Landfill,L-Landfill,552
+2018,Sep,Recycle,R-Mixed recycling,"1,048"
+2018,Sep,Recycle,R-Mixed recycling,"8,920"
+2018,Sep,Recycle,R-Mixed recycling,"12,420"
+2018,Sep,Recycle,R-Mixed recycling,"6,720"
+2018,Sep,Recycle,R-Mixed recycling,"11,880"
+2018,Sep,Recycle,R-Mixed recycling,"9,500"
+2018,Sep,Recycle,R-Mixed recycling,"10,280"
+2018,Sep,Recycle,R-Mixed recycling,"10,240"
+2018,Sep,Compost,C-Foodscraps,"72,000"
+2018,Sep,Compost,C-Organics,"48,600"
+2018,Sep,Landfill,L-Landfill,"1,104"
+2018,Sep,Recycle,R-Mixed recycling,"2,096"
+2018,Sep,Recycle,R-Mixed recycling,"1,048"
+2018,Sep,Landfill,L-Landfill,"1,656"
+2018,Sep,Recycle,R-Mixed recycling,"3,144"
+2018,Sep,Landfill,L-Landfill,"2,208"
+2018,Sep,Recycle,R-Mixed recycling,"4,192"
+2018,Sep,Recycle,R-Confidential shredding,"5,325"
+2018,Oct,Compost,C-Yardwaste,"11,440"
+2018,Oct,Compost,C-Yardwaste,"14,140"
+2018,Oct,Compost,C-Yardwaste,"14,120"
+2018,Oct,Compost,C-Yardwaste,"9,420"
+2018,Oct,Compost,C-Yardwaste,"7,400"
+2018,Oct,Landfill,L-Landfill,552
+2018,Oct,Landfill,L-Landfill,552
+2018,Oct,Landfill,L-Landfill,"9,340"
+2018,Oct,Landfill,L-Landfill,"10,500"
+2018,Oct,Landfill,L-Landfill,"11,920"
+2018,Oct,Landfill,L-Landfill,"5,500"
+2018,Oct,Landfill,L-Landfill,"11,960"
+2018,Oct,Landfill,L-Landfill,"11,080"
+2018,Oct,Landfill,L-Landfill,"12,580"
+2018,Oct,Landfill,L-Landfill,"14,140"
+2018,Oct,Landfill,L-Landfill,"12,060"
+2018,Oct,Recycle,R-Mixed recycling,"10,740"
+2018,Oct,Recycle,R-Mixed recycling,"9,260"
+2018,Oct,Recycle,R-Mixed recycling,"9,280"
+2018,Oct,Recycle,R-Mixed recycling,"6,100"
+2018,Oct,Recycle,R-Mixed recycling,"17,160"
+2018,Oct,Recycle,R-Mixed recycling,"7,420"
+2018,Oct,Recycle,R-Mixed recycling,"6,920"
+2018,Oct,Recycle,R-Mixed recycling,"10,200"
+2018,Oct,Recycle,R-Mixed recycling,"7,040"
+2018,Oct,Compost,C-Foodscraps,"72,000"
+2018,Oct,Compost,C-Organics,"32,076"
+2018,Oct,Landfill,L-Landfill,"2,208"
+2018,Oct,Recycle,R-Mixed recycling,"4,192"
+2018,Oct,Landfill,L-Landfill,"2,208"
+2018,Oct,Recycle,R-Mixed recycling,"4,192"
+2018,Oct,Recycle,R-Mixed recycling,"1,048"
+2018,Oct,Landfill,L-Landfill,"1,656"
+2018,Oct,Recycle,R-Mixed recycling,"3,144"
+2018,Apr,Recycle,R-Cardboard,"24,677"
+2018,Apr,Recycle,R-Paper,"18,962"
+2018,Apr,Recycle,R-Glass,"2,727"
+2018,Apr,Recycle,R-Plastic,"2,987"
+2018,Apr,Recycle,R-Metal,"1,689"
+2018,Apr,Recycle,L- Recycling Residual,"13,898"
+2018,Jan,Recycle,R-Mixed recycling,"90,000"
+2018,Feb,Recycle,R-Mixed recycling,"90,000"
+2018,Mar,Recycle,R-Mixed recycling,"90,000"
+2018,Dec,Compost,C-Yardwaste,"8,800"
+2018,Dec,Compost,C-Yardwaste,"11,020"
+2018,Dec,Compost,C-Yardwaste,"8,200"
+2018,Dec,Compost,C-Yardwaste,"12,180"
+2018,Dec,Compost,C-Yardwaste,"13,540"
+2018,Dec,Landfill,L-Landfill,552
+2018,Dec,Landfill,L-Landfill,"12,740"
+2018,Dec,Landfill,L-Landfill,"16,720"
+2018,Dec,Landfill,L-Landfill,"12,880"
+2018,Dec,Landfill,L-Landfill,"7,640"
+2018,Dec,Landfill,L-Landfill,"4,980"
+2018,Dec,Landfill,L-Landfill,"6,060"
+2018,Dec,Landfill,L-Landfill,552
+2018,Dec,Recycle,R-Mixed recycling,"1,048"
+2018,Dec,Recycle,R-Mixed recycling,"5,200"
+2018,Dec,Recycle,R-Mixed recycling,"10,780"
+2018,Dec,Recycle,R-Mixed recycling,"17,660"
+2018,Dec,Recycle,R-Mixed recycling,"5,460"
+2018,Dec,Recycle,R-Mixed recycling,"5,400"
+2018,Dec,Recycle,R-Mixed recycling,"3,160"
+2018,Dec,Compost,C-Foodscraps,"72,000"
+2018,Dec,Compost,C-Organics,"32,076"
+2018,Dec,Landfill,L-Landfill,"1,104"
+2018,Dec,Recycle,R-Mixed recycling,"2,096"
+2018,Dec,Landfill,L-Landfill,"2,208"
+2018,Dec,Recycle,R-Mixed recycling,"4,192"
+2018,Dec,Recycle,R-Mixed recycling,"1,048"
+2018,Dec,Landfill,L-Landfill,"1,656"
+2018,Dec,Recycle,R-Mixed recycling,"3,144"
+2018,Nov,Compost,C-Yardwaste,"11,240"
+2018,Nov,Compost,C-Yardwaste,"10,500"
+2018,Nov,Compost,C-Yardwaste,"6,280"
+2018,Nov,Compost,C-Yardwaste,"15,060"
+2018,Nov,Landfill,L-Landfill,552
+2018,Nov,Landfill,L-Landfill,"13,360"
+2018,Nov,Landfill,L-Landfill,"13,320"
+2018,Nov,Landfill,L-Landfill,"13,060"
+2018,Nov,Landfill,L-Landfill,"23,040"
+2018,Nov,Landfill,L-Landfill,"1,380"
+2018,Nov,Landfill,L-Landfill,"11,980"
+2018,Nov,Landfill,L-Landfill,"9,000"
+2018,Nov,Landfill,L-Landfill,"9,060"
+2018,Nov,Landfill,L-Landfill,"12,200"
+2018,Nov,Landfill,L-Landfill,552
+2018,Nov,Recycle,R-Mixed recycling,"1,048"
+2018,Nov,Recycle,R-Mixed recycling,"7,260"
+2018,Nov,Recycle,R-Mixed recycling,"7,900"
+2018,Nov,Recycle,R-Mixed recycling,"8,300"
+2018,Nov,Recycle,R-Mixed recycling,"8,020"
+2018,Nov,Recycle,R-Mixed recycling,"8,920"
+2018,Nov,Recycle,R-Mixed recycling,"11,520"
+2018,Nov,Recycle,R-Mixed recycling,"10,800"
+2018,Nov,Compost,C-Foodscraps,"72,000"
+2018,Nov,Compost,C-Organics,"32,076"
+2018,Nov,Landfill,L-Landfill,"1,104"
+2018,Nov,Recycle,R-Mixed recycling,"2,096"
+2018,Nov,Landfill,L-Landfill,"2,208"
+2018,Nov,Recycle,R-Mixed recycling,"2,096"
+2018,Nov,Recycle,R-Mixed recycling,"1,048"
+2018,Nov,Landfill,L-Landfill,"1,656"
+2018,Nov,Recycle,R-Mixed recycling,"3,144"
+2018,Feb,Recycle,R-Mixed recycling,"84,680"
+2018,Jan,Recycle,R-Mixed recycling,"56,540"
+2018,Mar,Recycle,R-Mixed recycling,"69,900"
+2018,Oct,Recycle,R-Confidential shredding,"5,175"
+2018,Nov,Recycle,R-Confidential shredding,"6,150"
+2018,Mar,Reuse,D-Food Recovery Network,528
+2018,Apr,Reuse,D-Food Recovery Network,"1,193"
+2018,May,Reuse,D-Food Recovery Network,860
+2018,Jun,Reuse,D-Food Recovery Network,538
+2018,Jul,Reuse,D-Food Recovery Network,252
+2018,Dec,Recycle,R-Confidential shredding,"7,575"
+2018,Jul,Recycle,R-E-waste,"3,841"
+2018,Aug,Reuse,D-Food Recovery Network,270
+2018,Sep,Reuse,D-Food Recovery Network,275
+2018,Oct,Reuse,D-Food Recovery Network,443
+2018,Nov,Reuse,D-Food Recovery Network,253
+2018,Dec,Reuse,D-Food Recovery Network,133
+2018,Sep,Recycle,R-E-waste,"3,241"
+2018,May,Recycle,R-E-waste,"3,752"
+2018,Apr,Recycle,R-E-waste,"2,528"
+2018,Mar,Recycle,R-E-waste,"4,224"
+2018,Mar,Landfill,L-Construction & Demolition,"5,420"
+2018,Mar,Recycle,R-Construction & Demolition,"36,220"
+2018,Apr,Landfill,L-Construction & Demolition,5700
+2018,Apr,Recycle,R-Construction & Demolition,"38,160"
+2018,Apr,Landfill,L-Construction & Demolition,580
+2018,Apr,Recycle,R-Construction & Demolition,"11,080"
+2018,Feb,Landfill,L-Construction & Demolition,5990.4
+2018,Feb,Recycle,R-Construction & Demolition,"40,090"
+2018,Jun,Reuse,D-Donations,"3,330"
+2018,Sep,Reuse,D-Donations,964
+2018,Jun,Reuse,D-Donations,293
+2018,Jun,Reuse,D-Donations,455
+2018,May,Reuse,D-Donations,802
+2018,May,Reuse,D-Swap For Good,"3,815"
+2019,Apr,Compost,C-Foodscraps,"72,000"
+2019,Apr,Compost,C-Organics,"48,600"
+2019,Apr,Compost,C-Yardwaste,"10,300"
+2019,Apr,Compost,C-Yardwaste,"10,380"
+2019,Apr,Compost,C-Yardwaste,"8,980"
+2019,Apr,Compost,C-Yardwaste,"10,920"
+2019,Apr,Compost,C-Yardwaste,"8,160"
+2019,Apr,Compost,C-Yardwaste,"11,320"
+2019,Apr,Reuse,D-Food Recovery Network,695
+2019,Apr,Recycle,R-Confidential shredding,"5,775"
+2019,Apr,Recycle,R-Mixed recycling,"1,048"
+2019,Apr,Recycle,R-Mixed recycling,"2,096"
+2019,Apr,Recycle,R-Mixed recycling,"2,096"
+2019,Apr,Recycle,R-Mixed recycling,"1,048"
+2019,Apr,Recycle,R-Mixed recycling,"3,930"
+2019,Apr,Recycle,R-Mixed recycling,"9,060"
+2019,Apr,Recycle,R-Mixed recycling,"9,900"
+2019,Apr,Recycle,R-Mixed recycling,"9,820"
+2019,Apr,Recycle,R-Mixed recycling,"9,840"
+2019,Apr,Recycle,R-Mixed recycling,"9,840"
+2019,Apr,Reuse,D-Gleaning, 
+2019,Apr,Reuse,D-Share Shelf,4.83
+2019,Aug,Compost,C-Yardwaste,"9,720"
+2019,Aug,Compost,C-Yardwaste,"11,400"
+2019,Aug,Compost,C-Yardwaste,"10,340"
+2019,Aug,Compost,C-Yardwaste,"7,400"
+2019,Aug,Compost,C-Yardwaste,"6,140"
+2019,Aug,Compost,C-Yardwaste,"10,200"
+2019,Aug,Compost,C-Yardwaste,"10,320"
+2019,Aug,Reuse,D-Food Recovery Network,0
+2019,Aug,Recycle,R-Mixed recycling,"2,096"
+2019,Aug,Recycle,R-Mixed recycling,"4,192"
+2019,Aug,Recycle,R-Mixed recycling,"2,096"
+2019,Aug,Recycle,R-Mixed recycling,"3,930"
+2019,Aug,Recycle,R-Confidential shredding,"7,050"
+2019,Aug,Recycle,R-Mixed recycling,"11,700"
+2019,Aug,Recycle,R-Mixed recycling,"10,300"
+2019,Aug,Recycle,R-Mixed recycling,"9,620"
+2019,Aug,Recycle,R-Mixed recycling,"11,140"
+2019,Aug,Recycle,R-Mixed recycling,"9,400"
+2019,Aug,Compost,C-Foodscraps,"72,000"
+2019,Aug,Compost,C-Organics,"48,600"
+2019,Dec,Reuse,D-Food Recovery Network,0
+2019,Dec,Recycle,R-Confidential shredding,"5,400"
+2019,Dec,Recycle,R-E-waste,"3,152"
+2019,Dec,Recycle,R-E-waste,291
+2019,Dec,Recycle,R-E-waste,"4,293"
+2019,Dec,Recycle,R-Mixed recycling,"1,048"
+2019,Dec,Compost,C-Foodscraps,"72,000"
+2019,Dec,Compost,C-Organics,"48,600"
+2019,Dec,Recycle,R-Mixed recycling,"2,096"
+2019,Dec,Recycle,R-Mixed recycling,"4,192"
+2019,Dec,Recycle,R-Mixed recycling,"2,096"
+2019,Aug,Landfill,L-Landfill,"1,104"
+2019,Dec,Recycle,R-Mixed recycling,"3,930"
+2019,Dec,Reuse,D-Gleaning,78
+2019,Aug,Landfill,L-Landfill,276
+2019,Dec,Compost,C-Yardwaste,"13,860"
+2019,Aug,Landfill,L-Landfill,"1,656"
+2019,Dec,Compost,C-Yardwaste,"13,040"
+2019,Dec,Compost,C-Yardwaste,"15,940"
+2019,Dec,Compost,C-Yardwaste,"14,540"
+2019,Dec,Compost,C-Yardwaste,"14,780"
+2019,Dec,Compost,C-Yardwaste,"8,980"
+2019,Dec,Recycle,R-Mixed recycling,"6,360"
+2019,Dec,Recycle,R-Mixed recycling,"8,260"
+2019,Dec,Recycle,R-Mixed recycling,"9,080"
+2019,Dec,Recycle,R-Mixed recycling,"9,740"
+2019,Dec,Recycle,R-Mixed recycling,"9,920"
+2019,Dec,Recycle,R-Mixed recycling,"6,000"
+2019,Feb,Landfill,L-Construction & Demolition,"693,958"
+2019,Jan,Landfill,L-Construction & Demolition,66000
+2019,Mar,Landfill,L-Construction & Demolition,"50,664"
+2019,Apr,Landfill,L-Landfill,552
+2019,Apr,Landfill,L-Landfill,552
+2019,Apr,Landfill,L-Landfill,952
+2019,Apr,Landfill,L-Landfill,"1,104"
+2019,Apr,Landfill,L-Landfill,276
+2019,Apr,Landfill,L-Landfill,"1,656"
+2019,Apr,Landfill,L-Landfill,"15,360"
+2019,Apr,Landfill,L-Landfill,"10,820"
+2019,Apr,Landfill,L-Landfill,"12,020"
+2019,Apr,Landfill,L-Landfill,"8,400"
+2019,Apr,Landfill,L-Landfill,"8,540"
+2019,Apr,Landfill,L-Landfill,"7,460"
+2019,Apr,Landfill,L-Landfill,"11,200"
+2019,Apr,Landfill,L-Landfill,"11,680"
+2019,Apr,Landfill,L-Landfill,"10,920"
+2019,Apr,Landfill,L-Landfill,"8,220"
+2019,Apr,Landfill,L-Landfill,"6,500"
+2019,Apr,Landfill,L-Landfill,"6,140"
+2019,Apr,Landfill,L-Landfill,"12,060"
+2019,Apr,Landfill,L-Landfill,"8,580"
+2019,Apr,Landfill,L-Landfill,"4,340"
+2019,Apr,Landfill,L-Landfill,"14,900"
+2019,Feb,Landfill,L-Landfill,552
+2019,Feb,Landfill,L-Landfill,"2,208"
+2019,Feb,Landfill,L-Landfill,"2,208"
+2019,Feb,Landfill,L-Landfill,"1,656"
+2019,Feb,Landfill,L-Landfill,"11,840"
+2019,Feb,Landfill,L-Landfill,"12,080"
+2019,Feb,Landfill,L-Landfill,"13,300"
+2019,Feb,Landfill,L-Landfill,"12,280"
+2019,Feb,Landfill,L-Landfill,"14,340"
+2019,Feb,Landfill,L-Landfill,"11,500"
+2019,Feb,Landfill,L-Landfill,"15,180"
+2019,Feb,Landfill,L-Landfill,"12,740"
+2019,Jan,Landfill,L-Landfill,552
+2019,Jan,Landfill,L-Landfill,552
+2019,Jan,Landfill,L-Landfill,"12,720"
+2019,Jan,Landfill,L-Landfill,"13,240"
+2019,Jan,Landfill,L-Landfill,"10,200"
+2019,Jan,Landfill,L-Landfill,"15,420"
+2019,Jan,Landfill,L-Landfill,"9,140"
+2019,Jan,Landfill,L-Landfill,"15,420"
+2019,Jan,Landfill,L-Landfill,"14,780"
+2019,Jan,Landfill,L-Landfill,"6,200"
+2019,Jul,Landfill,L-Landfill,552
+2019,Jul,Landfill,L-Landfill,552
+2019,Jul,Landfill,L-Landfill,552
+2019,Jul,Landfill,L-Landfill,"1,104"
+2019,Jul,Landfill,L-Landfill,"2,208"
+2019,Jul,Landfill,L-Landfill,"1,656"
+2019,Jun,Landfill,L-Landfill,552
+2019,Jun,Landfill,L-Landfill,552
+2019,Jun,Landfill,L-Landfill,"1,960"
+2019,Jun,Landfill,L-Landfill,"2,540"
+2019,Jun,Landfill,L-Landfill,"1,840"
+2019,Jun,Landfill,L-Landfill,"2,200"
+2019,Jun,Landfill,L-Landfill,980
+2019,Jun,Landfill,L-Landfill,"1,160"
+2019,Jun,Landfill,L-Landfill,"2,680"
+2019,Jun,Landfill,L-Landfill,"1,920"
+2019,Jun,Landfill,L-Landfill,"2,500"
+2019,Jun,Landfill,L-Landfill,"1,860"
+2019,Jun,Landfill,L-Landfill,"2,420"
+2019,Jun,Landfill,L-Landfill,"4,840"
+2019,Jun,Landfill,L-Landfill,"3,140"
+2019,Jun,Landfill,L-Landfill,"7,060"
+2019,Jun,Landfill,L-Landfill,"6,800"
+2019,Jun,Landfill,L-Landfill,"4,000"
+2019,Jun,Landfill,L-Landfill,"5,260"
+2019,Jun,Landfill,L-Landfill,"11,440"
+2019,Jun,Landfill,L-Landfill,"12,820"
+2019,Jun,Landfill,L-Landfill,"10,380"
+2019,Jun,Landfill,L-Landfill,"9,700"
+2019,Jun,Landfill,L-Landfill,"7,060"
+2019,Jun,Landfill,L-Landfill,"4,600"
+2019,Jun,Landfill,L-Landfill,"14,540"
+2019,Jun,Landfill,L-Landfill,"12,180"
+2019,Jun,Landfill,L-Landfill,"6,480"
+2019,Jun,Landfill,L-Landfill,"15,920"
+2019,Jun,Landfill,L-Landfill,"19,120"
+2019,Mar,Landfill,L-Landfill,552
+2019,Mar,Landfill,L-Landfill,552
+2019,Mar,Landfill,L-Landfill,552
+2019,Mar,Landfill,L-Landfill,"1,104"
+2019,Mar,Landfill,L-Landfill,"2,208"
+2019,Mar,Landfill,L-Landfill,"1,656"
+2019,Mar,Landfill,L-Landfill,"13,860"
+2019,Mar,Landfill,L-Landfill,"13,120"
+2019,Mar,Landfill,L-Landfill,"13,080"
+2019,Mar,Landfill,L-Landfill,"12,080"
+2019,Mar,Landfill,L-Landfill,"12,780"
+2019,Mar,Landfill,L-Landfill,"10,960"
+2019,Mar,Landfill,L-Landfill,"14,060"
+2019,Mar,Landfill,L-Landfill,"12,280"
+2019,May,Landfill,L-Landfill,552
+2019,May,Landfill,L-Landfill,552
+2019,May,Landfill,L-Landfill,552
+2019,May,Landfill,L-Landfill,"1,104"
+2019,May,Landfill,L-Landfill,"2,208"
+2019,May,Landfill,L-Landfill,"1,656"
+2019,May,Landfill,L-Landfill,"12,300"
+2019,May,Landfill,L-Landfill,"11,700"
+2019,May,Landfill,L-Landfill,"13,580"
+2019,May,Landfill,L-Landfill,"12,180"
+2019,May,Landfill,L-Landfill,"12,720"
+2019,May,Landfill,L-Landfill,"13,440"
+2019,May,Landfill,L-Landfill,"13,340"
+2019,May,Landfill,L-Landfill,"9,940"
+2019,May,Landfill,L-Landfill,"13,400"
+2019,Feb,Compost,C-Foodscraps,"72,000"
+2019,Feb,Compost,C-Organics,"48,600"
+2019,Feb,Compost,C-Yardwaste,"9,360"
+2019,Feb,Compost,C-Yardwaste,"9,560"
+2019,Feb,Compost,C-Yardwaste,"10,340"
+2019,Feb,Compost,C-Yardwaste,"6,260"
+2019,Feb,Compost,C-Yardwaste,"7,260"
+2019,Feb,Reuse,D-Food Recovery Network,380
+2019,Feb,Recycle,R-Confidential shredding,"5,352"
+2019,Feb,Recycle,R-Construction & Demolition,"5,548,242"
+2019,Feb,Recycle,R-Mixed recycling,"1,048"
+2019,Feb,Recycle,R-Mixed recycling,"4,192"
+2019,Feb,Recycle,R-Mixed recycling,"4,192"
+2019,Feb,Recycle,R-Mixed recycling,"1,048"
+2019,Feb,Recycle,R-Mixed recycling,"3,144"
+2019,Feb,Recycle,R-Mixed recycling,"10,040"
+2019,Feb,Recycle,R-Mixed recycling,"10,480"
+2019,Feb,Recycle,R-Mixed recycling,"7,700"
+2019,Feb,Recycle,R-Mixed recycling,"10,980"
+2019,Feb,Recycle,R-Mixed recycling,"5,840"
+2019,Feb,Recycle,R-Mixed recycling,"7,760"
+2019,Feb,Recycle,R-Mixed recycling,"11,120"
+2019,Feb,Recycle,R-Mixed recycling,"6,220"
+2019,Feb,Reuse,D-Share Shelf,7.31
+2019,Jan,Compost,C-Yardwaste,"10,080"
+2019,Jan,Compost,C-Yardwaste,"10,360"
+2019,Jan,Compost,C-Yardwaste,"5,840"
+2019,Jan,Compost,C-Yardwaste,"12,520"
+2019,Jan,Compost,C-Yardwaste,"13,480"
+2019,Jan,Reuse,D-Food Recovery Network,440
+2019,Jan,Recycle,R-Confidential shredding,"6,600"
+2019,Jan,Recycle,R-Construction & Demolition,"1,254,000"
+2019,Jan,Recycle,R-E-waste,85
+2019,Jan,Recycle,R-E-waste,290
+2019,Jan,Recycle,R-Mixed recycling,"11,700"
+2019,Jan,Recycle,R-Mixed recycling,"9,440"
+2019,Jan,Recycle,R-Mixed recycling,"3,540"
+2019,Jan,Recycle,R-Mixed recycling,"9,460"
+2019,Jan,Recycle,R-Mixed recycling,"9,500"
+2019,Jan,Recycle,R-Mixed recycling,"9,420"
+2019,Jan,Recycle,R-Mixed recycling,"8,260"
+2019,Jan,Recycle,R-Mixed recycling,"7,400"
+2019,Jan,Recycle,R-Mixed recycling,"5,760"
+2019,Jan,Reuse,D-Share Shelf,15.36
+2019,Jul,Compost,C-Yardwaste,"11,700"
+2019,Jul,Compost,C-Yardwaste,"10,840"
+2019,Jul,Compost,C-Yardwaste,"11,440"
+2019,Jul,Compost,C-Yardwaste,"12,020"
+2019,Jul,Reuse,D-Food Recovery Network,68
+2019,Jul,Recycle,R-Confidential shredding,"8,025"
+2019,Jul,Recycle,R-E-waste,"2,268"
+2019,Jul,Recycle,R-E-waste,455
+2019,Jul,Recycle,R-Mixed recycling,"1,048"
+2019,Jul,Recycle,R-Mixed recycling,"2,096"
+2019,Jul,Recycle,R-Mixed recycling,"4,192"
+2019,Jul,Recycle,R-Mixed recycling,"1,048"
+2019,Jul,Recycle,R-Mixed recycling,"3,144"
+2019,Jul,Compost,C-Foodscraps,"72,000"
+2019,Jul,Compost,C-Organics,"48,600"
+2019,Jul,Recycle,R-Mixed recycling,0
+2019,Jul,Recycle,R-Mixed recycling,"11,320"
+2019,Jul,Recycle,R-Mixed recycling,"8,380"
+2019,Jul,Recycle,R-Mixed recycling,"10,220"
+2019,Jul,Reuse,D-Share Shelf,2.73
+2019,Jun,Compost,C-Foodscraps,"72,000"
+2019,Jun,Compost,C-Yardwaste,"8,200"
+2019,Jun,Compost,C-Yardwaste,"8,260"
+2019,Jun,Compost,C-Yardwaste,"10,620"
+2019,Jun,Compost,C-Yardwaste,"10,280"
+2019,Jun,Compost,C-Yardwaste,"48,600"
+2019,Jun,Reuse,D-Food Recovery Network,40
+2019,Jun,Recycle,R-Confidential shredding,"6,750"
+2019,Jun,Recycle,R-E-waste,"2,334"
+2019,Jun,Recycle,R-E-waste,"1,775"
+2019,Jun,Recycle,R-Mixed recycling,"7,660"
+2019,Jun,Recycle,R-Mixed recycling,"6,500"
+2019,Jun,Recycle,R-Mixed recycling,"11,580"
+2019,Jun,Recycle,R-Mixed recycling,"5,980"
+2019,Jun,Recycle,R-Mixed recycling,"4,420"
+2019,Jun,Recycle,R-Mixed recycling,"19,260"
+2019,Jun,Recycle,R-Mixed recycling,"5,160"
+2019,Jun,Recycle,R-Mixed recycling,"5,000"
+2019,Jun,Recycle,R-Mixed recycling,"14,500"
+2019,Jun,Recycle,R-Mixed recycling,"11,500"
+2019,Jun,Reuse,D-Donations,"91,847"
+2019,Jun,Reuse,D-Donations,"6,750"
+2019,Jun,Reuse,D-Donations,160
+2019,Jun,Reuse,D-Donations,"1,688"
+2019,Jun,Reuse,D-Share Shelf,6.62
+2019,Mar,Compost,C-Foodscraps,"72,000"
+2019,Mar,Compost,C-Yardwaste,"48,600"
+2019,Mar,Compost,C-Yardwaste,"6,720"
+2019,Mar,Compost,C-Yardwaste,"5,280"
+2019,Mar,Compost,C-Yardwaste,"15,520"
+2019,Mar,Compost,C-Yardwaste,"8,340"
+2019,Mar,Compost,C-Yardwaste,"10,800"
+2019,Mar,Reuse,D-Food Recovery Network,230
+2019,Mar,Recycle,R-Confidential shredding,"6,000"
+2019,Mar,Recycle,R-Construction & Demolition,"14,800"
+2019,Mar,Recycle,R-Construction & Demolition,"23,379,836"
+2019,Aug,Landfill,L-Landfill,552
+2019,Aug,Landfill,L-Landfill,552
+2019,Aug,Landfill,L-Landfill,"15,480"
+2019,Aug,Landfill,L-Landfill,"12,020"
+2019,Aug,Landfill,L-Landfill,"1,520"
+2019,Aug,Landfill,L-Landfill,"13,800"
+2019,Aug,Landfill,L-Landfill,"12,900"
+2019,Sep,Landfill,L-Landfill,552
+2019,Mar,Recycle,R-E-waste,"1,759"
+2019,Mar,Recycle,R-E-waste,855
+2019,Mar,Recycle,R-Mixed recycling,"1,048"
+2019,Mar,Recycle,R-Mixed recycling,"2,096"
+2019,Mar,Recycle,R-Mixed recycling,"4,192"
+2019,Mar,Recycle,R-Mixed recycling,"1,048"
+2019,Mar,Recycle,R-Mixed recycling,"3,144"
+2019,Mar,Recycle,R-Mixed recycling,"13,060"
+2019,Sep,Landfill,L-Landfill,"1,104"
+2019,Sep,Landfill,L-Landfill,"2,208"
+2019,Sep,Landfill,L-Landfill,"1,656"
+2019,Mar,Recycle,R-Mixed recycling,"10,020"
+2019,Mar,Recycle,R-Mixed recycling,"9,060"
+2019,Mar,Recycle,R-Mixed recycling,"7,680"
+2019,Mar,Recycle,R-Mixed recycling,"8,540"
+2019,Jul,Landfill,L-Landfill,"15,220"
+2019,Jul,Landfill,L-Landfill,"11,000"
+2019,Jul,Landfill,L-Landfill,"13,320"
+2019,Jul,Landfill,L-Landfill,"13,140"
+2019,Mar,Recycle,R-Mixed recycling,"9,600"
+2019,Mar,Recycle,R-Mixed recycling,"8,800"
+2019,Mar,Reuse,D-Share Shelf,7.70
+2019,May,Compost,C-Foodscraps,"72,000"
+2019,May,Compost,C-Yardwaste,"48,600"
+2019,May,Compost,C-Yardwaste,"10,200"
+2019,May,Compost,C-Yardwaste,"8,840"
+2019,May,Compost,C-Yardwaste,"9,580"
+2019,May,Compost,C-Yardwaste,"8,440"
+2019,May,Compost,C-Yardwaste,"10,500"
+2019,May,Reuse,D-Food Recovery Network,142
+2019,May,Recycle,R-Confidential shredding,"5,850"
+2019,May,Recycle,R-Mixed recycling,"1,048"
+2019,Oct,Landfill,L-Landfill,552
+2019,Oct,Landfill,L-Landfill,552
+2019,Sep,Landfill,L-Landfill,"9,820"
+2019,Sep,Landfill,L-Landfill,"12,900"
+2019,Sep,Landfill,L-Landfill,"4,480"
+2019,Sep,Landfill,L-Landfill,"8,240"
+2019,Sep,Landfill,L-Landfill,"11,200"
+2019,Sep,Landfill,L-Landfill,"13,400"
+2019,Oct,Landfill,L-Landfill,552
+2019,May,Recycle,R-Mixed recycling,"2,096"
+2019,May,Recycle,R-Mixed recycling,"4,192"
+2019,May,Recycle,R-Mixed recycling,"1,048"
+2019,May,Recycle,R-Mixed recycling,"3,144"
+2019,May,Recycle,R-Mixed recycling,"9,740"
+2019,May,Recycle,R-Mixed recycling,"9,680"
+2019,May,Recycle,R-Mixed recycling,"9,400"
+2019,May,Recycle,R-Mixed recycling,"8,260"
+2019,May,Recycle,R-Mixed recycling,"9,900"
+2019,May,Recycle,R-Mixed recycling,"9,740"
+2019,May,Recycle,R-Mixed recycling,"9,360"
+2019,May,Recycle,R-Mixed recycling,"8,460"
+2019,Oct,Landfill,L-Landfill,"1,104"
+2019,May,Recycle,R-Mixed recycling,"7,540"
+2019,May,Reuse,D-Donations,"1,318"
+2019,Oct,Landfill,L-Landfill,276
+2019,May,Reuse,D-Gleaning,272
+2019,Oct,Landfill,L-Landfill,"1,656"
+2019,May,Reuse,D-Swap For Good,"1,318"
+2019,Nov,Reuse,D-Food Recovery Network,25
+2019,Nov,Recycle,R-Confidential shredding,"6,450"
+2019,Nov,Recycle,R-Mixed recycling,"1,048"
+2019,Nov,Compost,C-Foodscraps,"72,000"
+2019,Nov,Compost,C-Organics,"48,600"
+2019,Nov,Landfill,L-Landfill,552
+2019,Nov,Landfill,L-Landfill,552
+2019,Oct,Landfill,L-Landfill,"13,480"
+2019,Oct,Landfill,L-Landfill,"11,120"
+2019,Oct,Landfill,L-Landfill,"14,200"
+2019,Oct,Landfill,L-Landfill,"14,640"
+2019,Oct,Landfill,L-Landfill,"13,820"
+2019,Oct,Landfill,L-Landfill,"12,560"
+2019,Oct,Landfill,L-Landfill,"13,080"
+2019,Oct,Landfill,L-Landfill,"13,080"
+2019,Oct,Landfill,L-Landfill,"13,000"
+2019,Nov,Landfill,L-Landfill,552
+2019,Nov,Recycle,R-Mixed recycling,"2,096"
+2019,Nov,Recycle,R-Mixed recycling,"4,192"
+2019,Nov,Recycle,R-Mixed recycling,"2,096"
+2019,Nov,Recycle,R-Mixed recycling,"3,930"
+2019,Nov,Compost,C-Yardwaste,"11,160"
+2019,Nov,Compost,C-Yardwaste,"13,460"
+2019,Nov,Compost,C-Yardwaste,"12,660"
+2019,Nov,Recycle,R-Mixed recycling,"9,700"
+2019,Nov,Recycle,R-Mixed recycling,"10,380"
+2019,Nov,Recycle,R-Mixed recycling,"8,560"
+2019,Nov,Recycle,R-Mixed recycling,"8,480"
+2019,Nov,Recycle,R-Mixed recycling,"7,780"
+2019,Nov,Landfill,L-Landfill,"1,104"
+2019,Nov,Recycle,R-Mixed recycling,"9,960"
+2019,Nov,Recycle,R-Mixed recycling,"9,380"
+2019,Nov,Landfill,L-Landfill,276
+2019,Nov,Reuse,D-Gleaning,257
+2019,Nov,Landfill,L-Landfill,"1,656"
+2019,Oct,Reuse,D-Food Recovery Network,5
+2019,Oct,Recycle,R-Confidential shredding,"6,750"
+2019,Oct,Recycle,R-Mixed recycling,"1,048"
+2019,Oct,Compost,C-Foodscraps,"72,000"
+2019,Dec,Landfill,L-Landfill,552
+2019,Dec,Landfill,L-Landfill,552
+2019,Nov,Landfill,L-Landfill,"11,600"
+2019,Nov,Landfill,L-Landfill,"12,060"
+2019,Nov,Landfill,L-Landfill,"12,140"
+2019,Nov,Landfill,L-Landfill,"12,300"
+2019,Nov,Landfill,L-Landfill,"13,640"
+2019,Nov,Landfill,L-Landfill,"14,120"
+2019,Nov,Landfill,L-Landfill,"12,560"
+2019,Nov,Landfill,L-Landfill,"13,800"
+2019,Dec,Landfill,L-Landfill,552
+2019,Oct,Compost,C-Organics,"48,600"
+2019,Oct,Recycle,R-Mixed recycling,"2,096"
+2019,Oct,Recycle,R-Mixed recycling,"4,192"
+2019,Oct,Recycle,R-Mixed recycling,"1,048"
+2019,Oct,Recycle,R-Mixed recycling,"3,930"
+2019,Oct,Compost,C-Yardwaste,"15,160"
+2019,Oct,Compost,C-Yardwaste,"11,460"
+2019,Oct,Compost,C-Yardwaste,"10,320"
+2019,Oct,Compost,C-Yardwaste,"11,980"
+2019,Oct,Compost,C-Yardwaste,"13,440"
+2019,Dec,Landfill,L-Landfill,"1,104"
+2019,Oct,Recycle,R-Mixed recycling,"11,620"
+2019,Oct,Recycle,R-Mixed recycling,"6,360"
+2019,Dec,Landfill,L-Landfill,276
+2019,Oct,Recycle,R-Mixed recycling,"9,960"
+2019,Dec,Landfill,L-Landfill,"1,656"
+2019,Oct,Recycle,R-Mixed recycling,"10,720"
+2019,Oct,Recycle,R-Mixed recycling,"10,060"
+2019,Oct,Recycle,R-Mixed recycling,"9,580"
+2019,Oct,Recycle,R-Mixed recycling,8440
+2019,Oct,Recycle,R-Mixed recycling,"8,620"
+2019,Oct,Recycle,R-Mixed recycling,"8,280"
+2019,Oct,Reuse,D-Gleaning,239
+2019,Sep,Reuse,D-Food Recovery Network,60
+2019,Sep,Recycle,R-Confidential shredding,"4,725"
+2019,Sep,Recycle,R-Mixed recycling,"1,048"
+2019,Sep,Compost,C-Foodscraps,"72,000"
+2019,Sep,Compost,C-Organics,"48,600"
+2019,Sep,Recycle,R-Mixed recycling,"2,096"
+2019,Sep,Recycle,R-Mixed recycling,"4,192"
+2019,Sep,Recycle,R-Mixed recycling,"1,048"
+2019,Sep,Recycle,R-Mixed recycling,"3,930"
+2019,Sep,Reuse,D-Donations,"1,478"
+2019,Sep,Compost,C-Yardwaste,"13,860"
+2019,Dec,Landfill,L-Landfill,"10,200"
+2019,Dec,Landfill,L-Landfill,"12,680"
+2019,Dec,Landfill,L-Landfill,"12,660"
+2019,Dec,Landfill,L-Landfill,"13,460"
+2019,Dec,Landfill,L-Landfill,"14,940"
+2019,Dec,Landfill,L-Landfill,"7,800"
+2019,Dec,Landfill,L-Landfill,"12,380"
+2019,Sep,Compost,C-Yardwaste,"13,340"
+2019,Sep,Compost,C-Yardwaste,"9,580"
+2019,Sep,Compost,C-Yardwaste,"11,840"
+2019,Sep,Compost,C-Yardwaste,"11,560"
+2019,Sep,Recycle,R-Mixed recycling,"9,860"
+2019,Sep,Recycle,R-Mixed recycling,"14,360"
+2019,Sep,Recycle,R-Mixed recycling,"6,840"
+2019,Sep,Recycle,R-Mixed recycling,"12,460"
+2019,Sep,Recycle,R-Mixed recycling,"2,320"
+2019,Sep,Recycle,R-Mixed recycling,"3,920"
+2019,Sep,Recycle,R-Mixed recycling,"14,800"
+2019,Sep,Recycle,R-Mixed recycling,"11,720"
+2019,Sep,Recycle,R-Mixed recycling,"8,480"
+2019,Sep,Reuse,D-Bronco Surplus,"1,327"
+2019,Sep,Reuse,D-Share Shelf,40.37
+2019,Dec,Recycle,R-Metal,"3,220"
+2019,Jan,Compost,C-Foodscraps,"72,000"
+2020,Jan,Landfill,L-Landfill,552
+2020,Jan,Landfill,L-Landfill,552
+2020,Jan,Landfill,L-Landfill,552
+2020,Jan,Recycle,R-Mixed recycling,"1,048"
+2020,Jan,Compost,C-Foodscraps,"72,000"
+2020,Jan,Compost,C-Organics,"48,600"
+2020,Jan,Landfill,L-Landfill,"1,104"
+2020,Jan,Recycle,R-Mixed recycling,"2,096"
+2020,Jan,Recycle,R-Mixed recycling,"4,192"
+2020,Jan,Landfill,L-Landfill,276
+2020,Jan,Recycle,R-Mixed recycling,"2,096"
+2020,Jan,Landfill,L-Landfill,"1,656"
+2020,Jan,Recycle,R-Mixed recycling,"3,930"
+2020,Jan,Reuse,D-Bronco Surplus,151.55
+2020,Feb,Recycle,R-Metal,"8,680"
+2020,Jan,Compost,C-Yardwaste,"10,860"
+2020,Jan,Compost,C-Yardwaste,"8,280"
+2020,Jan,Compost,C-Yardwaste,"9,400"
+2020,Jan,Compost,C-Yardwaste,"8,720"
+2020,Feb,Landfill,L-Landfill,552
+2020,Feb,Landfill,L-Landfill,552
+2020,Jan,Landfill,L-Landfill,"5,820"
+2020,Jan,Landfill,L-Landfill,"9,920"
+2020,Jan,Landfill,L-Landfill,"15,580"
+2020,Jan,Landfill,L-Landfill,"10,960"
+2020,Jan,Landfill,L-Landfill,"12,140"
+2020,Jan,Landfill,L-Landfill,"10,760"
+2020,Jan,Landfill,L-Landfill,"8,300"
+2020,Jan,Landfill,L-Landfill,"13,840"
+2020,Jan,Landfill,L-Landfill,"13,780"
+2020,Jan,Landfill,L-Landfill,"13,560"
+2020,Feb,Landfill,L-Landfill,552
+2020,Feb,Recycle,R-Mixed recycling,"1,048"
+2020,Jan,Recycle,R-Mixed recycling,"9,020"
+2020,Jan,Recycle,R-Mixed recycling,"9,500"
+2020,Jan,Recycle,R-Mixed recycling,"7,880"
+2020,Jan,Recycle,R-Mixed recycling,"9,640"
+2020,Jan,Recycle,R-Mixed recycling,7400
+2020,Jan,Recycle,R-Mixed recycling,"10,440"
+2020,Jan,Recycle,R-Mixed recycling,"8,880"
+2020,Jan,Recycle,R-Mixed recycling,"8,220"
+2020,Feb,Compost,C-Foodscraps,"72,000"
+2020,Feb,Compost,C-Organics,"48,600"
+2020,Feb,Landfill,L-Landfill,"1,104"
+2020,Feb,Recycle,R-Mixed recycling,"2,096"
+2020,Feb,Recycle,R-Mixed recycling,"4,192"
+2020,Feb,Landfill,L-Landfill,"2,208"
+2020,Feb,Recycle,R-Mixed recycling,"1,048"
+2020,Feb,Landfill,L-Landfill,"1,656"
+2020,Feb,Recycle,R-Mixed recycling,"3,144"
+2020,Jan,Recycle,R-Confidential shredding,"5,625"
+2020,Mar,Recycle,R-Confidential shredding,"2,700"
+2020,Mar,Compost,C-Yardwaste,"8,320"
+2020,Mar,Compost,C-Yardwaste,"12,500"
+2020,Mar,Compost,C-Yardwaste,"14,020"
+2020,Apr,Landfill,L-Landfill,552
+2020,Apr,Landfill,L-Landfill,552
+2020,Mar,Landfill,L-Landfill,"15,020"
+2020,Mar,Landfill,L-Landfill,"11,660"
+2020,Mar,Landfill,L-Landfill,"11,720"
+2020,Mar,Landfill,L-Landfill,"14,120"
+2020,Mar,Landfill,L-Landfill,"16,160"
+2020,Mar,Landfill,L-Landfill,"14,520"
+2020,Mar,Landfill,L-Landfill,"2,880"
+2020,Mar,Landfill,L-Landfill,"11,100"
+2020,Apr,Landfill,L-Landfill,552
+2020,Apr,Landfill,L-Landfill,"1,048"
+2020,Mar,Recycle,R-Mixed recycling,"9,080"
+2020,Mar,Recycle,R-Mixed recycling,"9,400"
+2020,Mar,Recycle,R-Mixed recycling,"8,000"
+2020,Mar,Recycle,R-Mixed recycling,"8,480"
+2020,Mar,Recycle,R-Mixed recycling,"13,580"
+2020,Mar,Recycle,R-Mixed recycling,"9,380"
+2020,Apr,Compost,C-Foodscraps,72000
+2020,Apr,Compost,C-Yardwaste,"48,600"
+2020,Apr,Landfill,L-Landfill,"1,104"
+2020,Apr,Recycle,R-Mixed recycling,"2,096"
+2020,Apr,Recycle,R-Mixed recycling,"4,192"
+2020,Apr,Landfill,L-Landfill,"2,208"
+2020,Apr,Recycle,R-Mixed recycling,"1,048"
+2020,Apr,Landfill,L-Landfill,"1,656"
+2020,Apr,Recycle,R-Mixed recycling,"3,144"
+2020,Feb,Compost,C-Yardwaste,"8,460"
+2020,Feb,Compost,C-Yardwaste,"7,760"
+2020,Feb,Compost,C-Yardwaste,"6,160"
+2020,Feb,Compost,C-Yardwaste,"8,740"
+2020,Mar,Landfill,L-Landfill,552
+2020,Mar,Landfill,L-Landfill,552
+2020,Feb,Landfill,L-Landfill,"14,720"
+2020,Feb,Landfill,L-Landfill,"12,900"
+2020,Feb,Landfill,L-Landfill,"12,100"
+2020,Feb,Landfill,L-Landfill,"14,640"
+2020,Feb,Landfill,L-Landfill,"9,600"
+2020,Feb,Landfill,L-Landfill,"16,920"
+2020,Feb,Landfill,L-Landfill,"12,580"
+2020,Feb,Landfill,L-Landfill,"13,280"
+2020,Mar,Landfill,L-Landfill,552
+2020,Mar,Recycle,R-Mixed recycling,"1,048"
+2020,Feb,Recycle,R-Mixed recycling,"6,740"
+2020,Feb,Recycle,R-Mixed recycling,"9,000"
+2020,Feb,Recycle,R-Mixed recycling,"5,320"
+2020,Feb,Recycle,R-Mixed recycling,"12,000"
+2020,Feb,Recycle,R-Mixed recycling,"11,620"
+2020,Feb,Recycle,R-Mixed recycling,"3,860"
+2020,Feb,Recycle,R-Mixed recycling,"8,800"
+2020,Feb,Recycle,R-Mixed recycling,"9,400"
+2020,Mar,Compost,C-Foodscraps,"72,000"
+2020,Mar,Compost,C-Yardwaste,"48,600"
+2020,Mar,Landfill,L-Landfill,"1,104"
+2020,Mar,Recycle,R-Mixed recycling,"2,096"
+2020,Mar,Recycle,R-Mixed recycling,"4,192"
+2020,Mar,Landfill,L-Landfill,"2,208"
+2020,Mar,Recycle,R-Mixed recycling,"1,048"
+2020,Mar,Landfill,L-Landfill,"1,656"
+2020,Mar,Recycle,R-Mixed recycling,"3,144"
+2020,May,Compost,C-Yardwaste,"7,560"
+2020,May,Compost,C-Yardwaste,"12,360"
+2020,Jun,Landfill,L-Landfill,552
+2020,Jun,Landfill,L-Landfill,552
+2020,May,Landfill,L-Landfill,"4,800"
+2020,May,Landfill,L-Landfill,"5,980"
+2020,May,Landfill,L-Landfill,"4,780"
+2020,May,Landfill,L-Landfill,"5,940"
+2020,Jun,Compost,C-Foodscraps,"72,000"
+2020,Jun,Compost,C-Yardwaste,"48,600"
+2020,Jun,Compost,C-Yardwaste,"6,520"
+2020,Jun,Compost,C-Yardwaste,"5,760"
+2020,Jun,Compost,C-Yardwaste,"12,820"
+2020,Jun,Compost,C-Yardwaste,"12,120"
+2020,Jun,Compost,C-Yardwaste,"9,360"
+2020,Jul,Landfill,L-Landfill,552
+2020,Jul,Landfill,L-Landfill,552
+2020,Jun,Landfill,L-Landfill,"9,920"
+2020,Jun,Landfill,L-Landfill,"8,140"
+2020,Jun,Landfill,L-Landfill,"2,680"
+2020,Jun,Landfill,L-Landfill,"8,560"
+2020,Jun,Landfill,L-Landfill,"9,580"
+2020,Jun,Recycle,R-Mixed recycling,"15,160"
+2020,Jul,Compost,C-Yardwaste,"12,460"
+2020,Jul,Compost,C-Yardwaste,"12,340"
+2020,Jul,Compost,C-Yardwaste,"10,120"
+2020,Jul,Compost,C-Yardwaste,"11,500"
+2020,Jul,Compost,C-Yardwaste,"9,880"
+2020,Aug,Landfill,L-Landfill,276
+2020,Aug,Landfill,L-Landfill,276
+2020,Jul,Landfill,L-Landfill,"8,440"
+2020,Jul,Landfill,L-Landfill,"8,700"
+2020,Jul,Landfill,L-Landfill,"3,740"
+2020,Jul,Landfill,L-Landfill,"6,700"
+2020,Jul,Landfill,L-Landfill,"2,880"
+2020,Jul,Landfill,L-Landfill,"4,000"
+2020,Jul,Landfill,L-Landfill,"6,320"
+2020,Jul,Landfill,L-Landfill,"4,180"
+2020,Jul,Landfill,L-Landfill,"6,580"
+2020,Jul,Landfill,L-Landfill,"4,100"
+2020,Jul,Landfill,L-Landfill,"7,540"
+2020,Jul,Recycle,R-Mixed recycling,"11,460"
+2020,Jul,Recycle,R-Mixed recycling,"10,520"
+2020,Aug,Compost,C-Organics,"48,600"
+2020,Aug,Compost,C-Foodscraps,"72,000"
+2020,Aug,Compost,C-Yardwaste,"11,040"
+2020,Aug,Compost,C-Yardwaste,"11,940"
+2020,Aug,Compost,C-Yardwaste,"7,400"
+2020,Aug,Compost,C-Yardwaste,"12,640"
+2020,Sep,Landfill,L-Landfill,552
+2020,Sep,Landfill,L-Landfill,552
+2020,Aug,Landfill,L-Landfill,"5,120"
+2020,Aug,Landfill,L-Landfill,"5,080"
+2020,Aug,Landfill,L-Landfill,"8,780"
+2020,Aug,Recycle,R-Mixed recycling,"13,300"
+2020,Sep,Compost,C-Organics,"48,600"
+2020,Sep,Compost,C-Foodscraps,"72,000"
+2020,Sep,Compost,C-Yardwaste,"13,200"
+2020,Sep,Compost,C-Yardwaste,"12,480"
+2020,Sep,Compost,C-Yardwaste,"16,560"
+2020,Sep,Compost,C-Yardwaste,"8,300"
+2020,Oct,Landfill,L-Landfill,552
+2020,Oct,Landfill,L-Landfill,552
+2020,Aug,Landfill,L-Landfill,"10,640"
+2020,Sep,Landfill,L-Landfill,"6,600"
+2020,Sep,Landfill,L-Landfill,"5,360"
+2020,Sep,Landfill,L-Landfill,"2,540"
+2020,Sep,Landfill,L-Landfill,"6,720"
+2020,Sep,Recycle,R-Mixed recycling,"15,400"
+2020,Oct,Compost,C-Organics,"48,600"
+2020,Oct,Compost,C-Foodscraps,"72,000"
+2020,Oct,Compost,C-Yardwaste,"12,300"
+2020,Apr,Compost,C-Yardwaste,"10,160"
+2020,May,Landfill,L-Landfill,552
+2020,May,Landfill,L-Landfill,552
+2020,Apr,Landfill,L-Landfill,"4,880"
+2020,Apr,Landfill,L-Landfill,"7,580"
+2020,Apr,Landfill,L-Landfill,"3,880"
+2020,Apr,Landfill,L-Landfill,"3,140"
+2020,Apr,Recycle,R-Mixed recycling,"4,700"
+2020,Apr,Recycle,R-Mixed recycling,"3,680"
+2020,Apr,Recycle,R-Mixed recycling,"2,740"
+2020,May,Compost,C-Foodscraps,"72,000"
+2020,May,Compost,C-Yardwaste,"48,600"
+2020,Oct,Compost,C-Organics,"17,940"
+2020,Oct,Compost,C-Yardwaste,"12,000"
+2020,Oct,Compost,C-Yardwaste,"8,540"
+2020,Oct,Compost,C-Yardwaste,"10,240"
+2020,Oct,Landfill,L-Landfill,"5,920"
+2020,Oct,Landfill,L-Landfill,"9,860"
+2020,Oct,Landfill,L-Landfill,"7,480"
+2020,Oct,Landfill,L-Landfill,"6,620"
+2020,Oct,Landfill,L-Landfill,"5,840"
+2020,Oct,Landfill,L-Landfill,"8,520"
+2020,Oct,Recycle,R-Mixed recycling,"11,560"
+2020,Oct,Recycle,R-Mixed recycling,"12,360"
+2020,Nov,Compost,C-Organics,"10,340"
+2020,Nov,Compost,C-Yardwaste,"9,720"
+2020,Nov,Compost,C-Yardwaste,"9,320"
+2020,Nov,Compost,C-Yardwaste,"10,040"
+2020,Nov,Landfill,L-Landfill,"10,260"
+2020,Nov,Landfill,L-Landfill,"10,300"
+2020,Nov,Landfill,L-Landfill,"11,780"
+2020,Nov,Landfill,L-Landfill,"7,580"
+2020,Nov,Landfill,L-Landfill,"5,620"
+2020,Dec,Compost,C-Yardwaste,"7,800"
+2020,Dec,Compost,C-Yardwaste,"11,940"
+2020,Dec,Compost,C-Yardwaste,"11,840"
+2020,Dec,Compost,C-Organics,"10,980"
+2020,Dec,Compost,C-Organics,"12,880"
+2020,Dec,Landfill,L-Landfill,"13,520"
+2020,Dec,Landfill,L-Landfill,"11,680"
+2020,Dec,Landfill,L-Landfill,"5,220"
+2020,Dec,Landfill,L-Landfill,"6,400"
+2020,Dec,Recycle,R-Mixed recycling,"14,500"
+2020,Dec,Landfill,L-Landfill,"11,340"
+2020,Dec,Landfill,L-Landfill,"6,880"
+2020,Aug,Recycle,R-Metal,"5,260"
+2020,Mar,Recycle,R-Metal,"6,480"
+2020,Jan,Recycle,R-Metal,"4,220"
+2020,Jan,Recycle,R-Metal,"29,720"
+2020,Jan,Recycle,R-Construction & Demolition,"137,631"
+2020,Jan,Landfill,L-Construction & Demolition,"57,386"
+2020,Feb,Recycle,R-Construction & Demolition,"129,398"
+2020,Feb,Landfill,L-Construction & Demolition,"27,563"
+2020,Mar,Recycle,R-Construction & Demolition,"56,924"
+2020,Mar,Landfill,L-Construction & Demolition,"38,396"
+2020,Apr,Recycle,R-Construction & Demolition,"7,876"
+2020,Apr,Landfill,L-Construction & Demolition,"6,444"
+2020,May,Recycle,R-Construction & Demolition,"33,458"
+2020,May,Landfill,L-Construction & Demolition,"19,482"
+2020,Jun,Recycle,R-Construction & Demolition,"92,695"
+2020,Jun,Landfill,L-Construction & Demolition,"36,605"
+2020,Jul,Recycle,R-Construction & Demolition,"165,168"
+2020,Jul,Landfill,L-Construction & Demolition,"37,892"
+2020,Aug,Recycle,R-Construction & Demolition,"149,033"
+2020,Aug,Landfill,L-Construction & Demolition,"64,847"
+2020,Sep,Recycle,R-Construction & Demolition,"113,218"
+2020,Sep,Landfill,L-Construction & Demolition,"50,082"
+2020,Oct,Recycle,R-Construction & Demolition,"204,688"
+2020,Oct,Landfill,L-Construction & Demolition,"28,072"
+2020,Nov,Recycle,R-Construction & Demolition,"111,557"
+2020,Nov,Landfill,L-Construction & Demolition,"55,743"
+2020,Dec,Recycle,R-Construction & Demolition,"88,248"
+2020,Dec,Landfill,L-Construction & Demolition,"41,972"
+,,,,
+,,,,
+,,,,
+,,,,
+2021,Jan,Compost,C-Yardwaste,"7,800"
+2021,Jan,Compost,C-Yardwaste,"7,760"
+2021,Jan,Compost,C-Yardwaste,"7,220"
+2021,Jan,Compost,C-Yardwaste,"9,200"
+2021,Jan,Compost,C-Yardwaste,"10,020"
+2021,Jan,Landfill,L-Landfill,"4,920"
+2021,Jan,Landfill,L-Landfill,"5,660"
+2021,Jan,Landfill,L-Landfill,"5,200"
+2021,Jan,Landfill,L-Landfill,"4,360"
+2021,Jan,Recycle,R-Mixed recycling,"16,200"
+2021,Jan,Landfill,L-Landfill,"1,104"
+2021,Jan,Compost,C-Foodscraps,"72,000"
+2021,Jan,Compost,C-Organics,"48,600"
+2021,Feb,Compost,C-Yardwaste,"14,360"
+2021,Feb,Compost,C-Yardwaste,"10,020"
+2021,Feb,Compost,C-Yardwaste,"9,880"
+2021,Feb,Compost,C-Yardwaste,"10,460"
+2021,Feb,Landfill,L-Landfill,"11,980"
+2021,Feb,Landfill,L-Landfill,"7,840"
+2021,Feb,Landfill,L-Landfill,"6,120"
+2021,Feb,Landfill,L-Landfill,"7,300"
+2021,Feb,Recycle,R-Mixed recycling,"15,800"
+2021,Feb,Landfill,L-Landfill,"1,104"
+2021,Feb,Compost,C-Foodscraps,"72,000"
+2021,Feb,Compost,C-Organics,"48,600"
+2021,Mar,Compost,C-Yardwaste,"8,720"
+2021,Mar,Compost,C-Yardwaste,"8,680"
+2021,Mar,Compost,C-Yardwaste,"10,220"
+2021,Mar,Compost,C-Yardwaste,"11,260"
+2021,Mar,Landfill,L-Landfill,"7,460"
+2021,Mar,Landfill,L-Landfill,"10,560"
+2021,Mar,Landfill,L-Landfill,"7,540"
+2021,Mar,Landfill,L-Landfill,"11,440"
+2021,Mar,Recycle,R-Mixed recycling,"14,720"
+2021,Apr,Landfill,L-Landfill,"1,104"
+2021,Apr,Compost,C-Foodscraps,"72,000"
+2021,Apr,Compost,C-Organics,"48,600"
+2021,May,Compost,C-Yardwaste,"13,880"
+2021,May,Compost,C-Yardwaste,"14,880"
+2021,May,Compost,C-Yardwaste,"10,840"
+2021,May,Landfill,L-Landfill,"13,280"
+2021,May,Landfill,L-Landfill,"10,300"
+2021,May,Landfill,L-Landfill,"13,300"
+2021,May,Landfill,L-Landfill,"12,420"
+2021,May,Recycle,R-Mixed recycling,"5,480"
+2021,May,Recycle,R-Mixed recycling,"5,800"
+2021,May,Recycle,R-Mixed recycling,"4,780"
+2021,May,Recycle,R-Mixed recycling,"5,780"
+2021,Jun,Compost,C-Yardwaste,"10,660"
+2021,Jun,Compost,C-Yardwaste,"12,200"
+2021,Jun,Landfill,L-Landfill,"4,380"
+2021,Jun,Landfill,L-Landfill,"4,200"
+2021,Jun,Landfill,L-Landfill,"2,660"
+2021,Jun,Landfill,L-Landfill,"5,480"
+2021,Jun,Landfill,L-Landfill,"11,280"
+2021,Jun,Landfill,L-Landfill,"9,700"
+2021,Jun,Landfill,L-Landfill,"14,220"
+2021,Jun,Landfill,L-Landfill,"9,960"
+2021,Jun,Recycle,R-Mixed recycling,"4,680"
+2021,Jun,Recycle,R-Mixed recycling,"6,400"
+2021,Jun,Recycle,R-Mixed recycling,"7,700"
+2021,Jun,Recycle,R-Mixed recycling,"6,280"
+2021,Jun,Compost,C-Yardwaste,"10,940"
+2021,Jul,Compost,C-Yardwaste,"12,120"
+2021,Jul,Compost,C-Yardwaste,"12,700"
+2021,Jul,Landfill,L-Landfill,"9,140"
+2021,Jul,Landfill,L-Landfill,"9,960"
+2021,Jul,Landfill,L-Landfill,"7,480"
+2021,Jul,Landfill,L-Landfill,"8,720"
+2021,Jul,Recycle,R-Mixed recycling,"7,840"
+2021,Jul,Recycle,R-Mixed recycling,"8,940"
+2021,Jul,Recycle,R-Mixed recycling,"7,860"
+2021,Jul,Recycle,R-Mixed recycling,"6,860"
+2021,Aug,Compost,C-Yardwaste,"7,780"
+2021,Aug,Compost,C-Yardwaste,"9,160"
+2021,Aug,Compost,C-Yardwaste,"10,580"
+2021,Aug,Compost,C-Yardwaste,"12,940"
+2021,Aug,Compost,C-Yardwaste,"10,220"
+2021,Aug,Landfill,L-Landfill,"9,000"
+2021,Aug,Landfill,L-Landfill,"10,240"
+2021,Aug,Landfill,L-Landfill,"6,780"
+2021,Aug,Landfill,L-Landfill,"8,500"
+2021,Aug,Recycle,R-Mixed recycling,"10,120"
+2021,Aug,Recycle,R-Mixed recycling,"13,220"
+2021,Aug,Recycle,R-Mixed recycling,"9,340"
+2021,Aug,Recycle,R-Mixed recycling,"8,100"
+2021,Sep,Compost,C-Yardwaste,"8,380"
+2021,Sep,Compost,C-Yardwaste,"11,040"
+2021,Sep,Compost,C-Yardwaste,"10,960"
+2021,Sep,Compost,C-Yardwaste,"9,600"
+2021,Sep,Landfill,L-Landfill,"11,900"
+2021,Sep,Landfill,L-Landfill,"13,000"
+2021,Sep,Landfill,L-Landfill,"14,700"
+2021,Sep,Landfill,L-Landfill,"11,700"
+2021,Sep,Landfill,L-Landfill,"15,000"
+2021,Sep,Landfill,L-Landfill,"14,280"
+2021,Sep,Landfill,L-Landfill,"13,480"
+2021,Sep,Recycle,R-Mixed recycling,"7,560"
+2021,Sep,Recycle,R-Mixed recycling,"8,340"
+2021,Sep,Recycle,R-Mixed recycling,"12,600"
+2021,Sep,Recycle,R-Mixed recycling,"17,800"
+2021,Sep,Recycle,R-Mixed recycling,"16,320"
+2021,Sep,Recycle,R-Mixed recycling,"12,120"
+2021,Sep,Landfill,L-Landfill,"1,104"
+2021,Sep,Landfill,L-Landfill,552
+2021,Sep,Recycle,R-Mixed recycling,"1,048"
+2021,Sep,Compost,C-Organics,
+2021,Sep,Compost,C-Foodscraps,
+2021,Oct,Landfill,L-Landfill,"1,104"
+2021,Oct,Landfill,L-Landfill,552
+2021,Oct,Recycle,R-Mixed recycling,"1,048"
+2021,Oct,Compost,C-Organics,"48,600"
+2021,Oct,Compost,C-Foodscraps,"72,000"
+2021,Nov,Compost,C-Yardwaste,"8,940"
+2021,Nov,Compost,C-Yardwaste,"9,460"
+2021,Nov,Compost,C-Yardwaste,"11,240"
+2021,Nov,Compost,C-Yardwaste,"9,080"
+2021,Nov,Compost,C-Yardwaste,"8,640"
+2021,Nov,Compost,C-Yardwaste,"16,200"
+2021,Nov,Landfill,L-Landfill,"13,960"
+2021,Nov,Landfill,L-Landfill,"14,880"
+2021,Nov,Landfill,L-Landfill,"13,620"
+2021,Nov,Landfill,L-Landfill,"14,340"
+2021,Nov,Landfill,L-Landfill,"14,740"
+2021,Nov,Landfill,L-Landfill,"13,200"
+2021,Nov,Landfill,L-Landfill,"13,800"
+2021,Nov,Recycle,R-Mixed recycling,"7,740"
+2021,Nov,Recycle,R-Mixed recycling,"8,420"
+2021,Nov,Recycle,R-Mixed recycling,"6,940"
+2021,Nov,Recycle,R-Mixed recycling,"8,220"
+2021,Nov,Recycle,R-Mixed recycling,"6,860"
+2021,Nov,Recycle,R-Mixed recycling,"8,440"
+2021,Nov,Recycle,R-Mixed recycling,"7,620"
+2021,Dec,Landfill,L-Landfill,"1,104"
+2021,Dec,Landfill,L-Landfill,552
+2021,Dec,Recycle,R-Mixed recycling,"1,048"
+2021,Dec,Compost,C-Organics,"48,600"
+2021,Dec,Compost,C-Foodscraps,"72,000"
+2021,Mar,Recycle,R-Metal,"4,380"
+2021,Aug,Recycle,R-Metal,"5,780"
+2021,Jul,Recycle,R-Metal,"6,400"
+2021,Oct,Recycle,R-Metal,"5,540"
+2021,Nov,Recycle,R-Metal,"4,460"
+2021,Jan,Recycle,R-E-waste,"7,642"
+2021,Feb,Recycle,R-E-waste,"6,921"
+2021,May,Recycle,R-E-waste,"8,343"
+2021,Jul,Recycle,R-E-waste,"6,476"
+2021,Aug,Recycle,R-E-waste,"6,927"
+2021,Sep,Recycle,R-E-waste,"8,723"
+2021,Nov,Recycle,R-E-waste,"5,432"
+2021,Nov,Recycle,R-E-waste,"7,789"
+2021,Jan,Recycle,R-Confidential shredding,"3,237"
+2021,Apr,Compost,C-Yardwaste,"11,140"
+2021,Apr,Compost,C-Yardwaste,"10,180"
+2021,Apr,Compost,C-Yardwaste,"13,720"
+2021,Apr,Landfill,L-Landfill,"11,500"
+2021,Apr,Landfill,L-Landfill,"10,000"
+2021,Apr,Landfill,L-Landfill,"12,100"
+2021,Apr,Landfill,L-Landfill,"12,280"
+2021,Apr,Landfill,L-Landfill,"11,820"
+2021,Apr,Recycle,R-Mixed recycling,"5,220"
+2021,Apr,Recycle,R-Mixed recycling,"3,300"
+2021,Apr,Recycle,R-Mixed recycling,"4,940"
+2021,Apr,Recycle,R-Mixed recycling,"3,780"
+2021,Apr,Recycle,R-Mixed recycling,"4,460"
+2021,Oct,Compost,C-Yardwaste,"14,980"
+2021,Oct,Compost,C-Yardwaste,"10,160"
+2021,Oct,Compost,C-Yardwaste,"10,840"
+2021,Oct,Landfill,L-Landfill,"13,020"
+2021,Oct,Landfill,L-Landfill,"14,760"
+2021,Oct,Landfill,L-Landfill,"15,740"
+2021,Oct,Landfill,L-Landfill,"16,480"
+2021,Oct,Landfill,L-Landfill,"13,540"
+2021,Oct,Landfill,L-Landfill,"15,940"
+2021,Oct,Landfill,L-Landfill,"15,360"
+2021,Oct,Landfill,L-Landfill,"12,400"
+2021,Oct,Recycle,R-Mixed recycling,"8,420"
+2021,Oct,Recycle,R-Mixed recycling,"6,680"
+2021,Oct,Recycle,R-Mixed recycling,"9,040"
+2021,Oct,Recycle,R-Mixed recycling,"13,260"
+2021,Oct,Recycle,R-Mixed recycling,"8,560"
+2021,Oct,Recycle,R-Mixed recycling,"7,620"
+2021,Oct,Recycle,R-Mixed recycling,"7,060"
+2021,Oct,Recycle,R-Mixed recycling,"9,020"
+2021,Oct,Recycle,R-Mixed recycling,"7,840"
+2021,Dec,Compost,C-Yardwaste,"9,860"
+2021,Dec,Compost,C-Yardwaste,"10,960"
+2021,Dec,Compost,C-Yardwaste,"16,840"
+2021,Dec,Compost,C-Yardwaste,"14,000"
+2021,Dec,Landfill,L-Landfill,"19,360"
+2021,Dec,Landfill,L-Landfill,"21,120"
+2021,Dec,Landfill,L-Landfill,"15,820"
+2021,Dec,Recycle,R-Mixed recycling,"10,940"
+2021,Dec,Recycle,R-Mixed recycling,"18,100"
+2021,Dec,Recycle,R-Mixed recycling,"19,080"
+2021,Dec,Recycle,R-Metal,"6,300"
+2019,Jun,Landfill,L-Construction & Demolition,"11,844"
+2019,Jul,Landfill,L-Construction & Demolition,"20,294"
+2019,Aug,Landfill,L-Construction & Demolition,"42,732"
+2019,Sep,Landfill,L-Construction & Demolition,"10,724"
+2019,Oct,Landfill,L-Construction & Demolition,"19,306"
+2019,Nov,Landfill,L-Construction & Demolition,"37,037"
+2019,Dec,Landfill,L-Construction & Demolition,"104,138"
+2021,Mar,Landfill,L-Construction & Demolition,"7,052"
+2021,Apr,Landfill,L-Construction & Demolition,"3,760"
+2021,May,Landfill,L-Construction & Demolition,"5,687"
+2021,Jan,Landfill,L-Construction & Demolition,"39,330"
+2021,Feb,Landfill,L-Construction & Demolition,"41,712"
+2021,Mar,Landfill,L-Construction & Demolition,"40,390"
+2021,Apr,Landfill,L-Construction & Demolition,"37,499"
+2021,May,Landfill,L-Construction & Demolition,"28,577"
+2021,Jun,Landfill,L-Construction & Demolition,"14,238"
+,,,,
+2019,Mar,Recycle,R-Construction & Demolition,"4,208"
+2019,May,Recycle,R-Construction & Demolition,"6,413"
+2019,Jun,Recycle,R-Construction & Demolition,"13,356"
+2019,Jul,Recycle,R-Construction & Demolition,"21,986"
+2019,Aug,Recycle,R-Construction & Demolition,"93,828"
+2019,Sep,Recycle,R-Construction & Demolition,"22,836"
+2019,Oct,Recycle,R-Construction & Demolition,"20,094"
+2019,Nov,Recycle,R-Construction & Demolition,"40,123"
+2019,Dec,Recycle,R-Construction & Demolition,"87,942"
+2021,Jan,Recycle,R-Construction & Demolition,"72,770"
+2021,Feb,Recycle,R-Construction & Demolition,"77,208"
+2021,Mar,Recycle,R-Construction & Demolition,"75,010"
+2021,Apr,Recycle,R-Construction & Demolition,"66,021"
+2021,May,Recycle,R-Construction & Demolition,"47,503"
+,,,,
+2021,Feb,Recycle,R-Confidential shredding,"6,540"
+2021,Jun,Recycle,R-Confidential shredding,"8,710"
+2021,Jul,Recycle,R-Confidential shredding,"6,197"
+2021,Aug,Recycle,R-Confidential shredding,"9,076"
+2021,Sep,Recycle,R-Confidential shredding,"3,168"
+2021,Oct,Recycle,R-Confidential shredding,"8,159"
+2021,Nov,Recycle,R-Confidential shredding,"7,670"
+2021,Nov,Recycle,R-E-waste,"3,100"
+2022,Jan,Compost,C-Yardwaste,"14,180"
+2022,Jan,Compost,C-Yardwaste,"13,500"
+2022,Jan,Compost,C-Yardwaste,"9,880"
+2022,Jan,Compost,C-Yardwaste,"9,960"
+2022,Jan,Compost,C-Yardwaste,"8,580"
+2022,Jan,Compost,C-Yardwaste,"8,780"
+2022,Jan,Landfill,L-Landfill,"13,780"
+2022,Jan,Landfill,L-Landfill,"11,840"
+2022,Jan,Landfill,L-Landfill,"8,760"
+2022,Jan,Landfill,L-Landfill,"10,060"
+2022,Jan,Landfill,L-Landfill,"8,180"
+2022,Jan,Landfill,L-Landfill,"13,980"
+2022,Jan,Landfill,L-Landfill,"12,220"
+2022,Jan,Landfill,L-Landfill,"12,340"
+2022,Jan,Landfill,L-Landfill,"14,920"
+2022,Jan,Recycle,R-Mixed recycling,"13,840"
+2022,Jan,Recycle,R-Mixed recycling,"4,000"
+2022,Jan,Recycle,R-Mixed recycling,"4,940"
+2022,Jan,Recycle,R-Mixed recycling,"5,040"
+2022,Jan,Recycle,R-Mixed recycling,"3,540"
+2022,Jan,Recycle,R-Mixed recycling,"6,380"
+2022,Jan,Recycle,R-Mixed recycling,"5,420"
+2022,Jan,Recycle,R-Mixed recycling,"5,300"
+2022,Feb,Landfill,L-Landfill,"1,104"
+2022,Feb,Landfill,L-Landfill,552
+2022,Feb,Recycle,R-Mixed recycling,"1,048"
+2022,Feb,Compost,C-Organics,"48,600"
+2022,Feb,Compost,C-Foodscraps,"72,000"
+2022,Feb,Recycle,R-Metal,"4,800"
+2022,Mar,Recycle,R-Metal,"7,120"
+2022,Jan,Recycle,R-Confidential shredding,"3,409"
+2022,Apr,Recycle,R-Metal,"14,480"
+2022,Feb,Compost,C-Yardwaste,"10,480"
+2022,Feb,Compost,C-Yardwaste,"6,640"
+2022,Feb,Compost,C-Yardwaste,"11,860"
+2022,Feb,Compost,C-Yardwaste,"7,800"
+2022,Feb,Landfill,L-Landfill,"11,000"
+2022,Feb,Landfill,L-Landfill,"12,640"
+2022,Feb,Landfill,L-Landfill,"11,160"
+2022,Feb,Landfill,L-Landfill,"14,860"
+2022,Feb,Landfill,L-Landfill,"12,340"
+2022,Feb,Landfill,L-Landfill,"13,820"
+2022,Feb,Landfill,L-Landfill,"12,300"
+2022,Feb,Landfill,L-Landfill,"13,780"
+2022,Feb,Recycle,R-Mixed recycling,"6,760"
+2022,Feb,Recycle,R-Mixed recycling,"6,840"
+2022,Feb,Recycle,R-Mixed recycling,"5,840"
+2022,Feb,Recycle,R-Mixed recycling,"6,120"
+2022,Feb,Recycle,R-Mixed recycling,"6,420"
+2022,Feb,Recycle,R-Mixed recycling,"5,920"
+2022,Feb,Recycle,R-Mixed recycling,"4,780"
+2022,Mar,Compost,C-Yardwaste,"7,520"
+2022,Mar,Compost,C-Yardwaste,"10,160"
+2022,Mar,Compost,C-Yardwaste,"7,180"
+2022,Mar,Landfill,L-Landfill,"13,720"
+2022,Mar,Landfill,L-Landfill,"12,440"
+2022,Mar,Landfill,L-Landfill,"5,060"
+2022,Mar,Landfill,L-Landfill,"13,520"
+2022,Mar,Landfill,L-Landfill,"14,340"
+2022,Mar,Landfill,L-Landfill,"12,260"
+2022,Mar,Landfill,L-Landfill,"12,120"
+2022,Mar,Landfill,L-Landfill,"8,860"
+2022,Mar,Landfill,L-Landfill,"7,660"
+2022,Mar,Landfill,L-Landfill,"9,940"
+2022,Mar,Recycle,R-Mixed recycling,"12,380"
+2022,Mar,Recycle,R-Mixed recycling,"8,540"
+2022,Mar,Recycle,R-Mixed recycling,"6,600"
+2022,Mar,Recycle,R-Mixed recycling,"8,280"
+2022,Mar,Recycle,R-Mixed recycling,"7,700"
+2022,Mar,Recycle,R-Mixed recycling,"6,740"
+2022,Mar,Recycle,R-Mixed recycling,"1,280"
+2022,Mar,Recycle,R-Mixed recycling,"3,180"
+2022,Mar,Recycle,R-Mixed recycling,"3,400"
+2022,Apr,Compost,C-Yardwaste,"15,220"
+2022,Apr,Compost,C-Yardwaste,"10,280"
+2022,Apr,Compost,C-Yardwaste,"10,020"
+2022,Apr,Landfill,L-Landfill,"10,260"
+2022,Apr,Landfill,L-Landfill,"14,980"
+2022,Apr,Landfill,L-Landfill,"13,880"
+2022,Apr,Landfill,L-Landfill,"19,240"
+2022,Apr,Landfill,L-Landfill,"12,560"
+2022,Apr,Landfill,L-Landfill,"11,340"
+2022,Apr,Landfill,L-Landfill,"13,040"
+2022,Apr,Landfill,L-Landfill,"15,580"
+2022,Apr,Recycle,R-Mixed recycling,"6,320"
+2022,Apr,Recycle,R-Mixed recycling,"6,140"
+2022,Apr,Recycle,R-Mixed recycling,"8,560"
+2022,Apr,Recycle,R-Mixed recycling,"7,260"
+2022,Apr,Recycle,R-Mixed recycling,"7,240"
+2022,Apr,Recycle,R-Mixed recycling,"5,460"
+2022,Apr,Recycle,R-Mixed recycling,"6,060"
+2022,Apr,Recycle,R-Mixed recycling,"5,160"
+2022,Apr,Recycle,R-Mixed recycling,"8,340"
+2022,Mar,Landfill,L-Landfill,"1,104"
+2022,Mar,Landfill,L-Landfill,552
+2022,Mar,Recycle,R-Mixed recycling,"1,048"
+2022,Mar,Compost,C-Foodscraps,"72,000"
+2022,Mar,Compost,C-Organics,"48,600"
+2022,Apr,Landfill,L-Landfill,"1,104"
+2022,Apr,Landfill,L-Landfill,552
+2022,Apr,Recycle,R-Mixed recycling,"1,048"
+2022,Apr,Compost,C-Foodscraps,"72,000"
+2022,Apr,Compost,C-Organics,"48,600"
+2022,May,Landfill,L-Landfill,"1,104"
+2022,May,Landfill,L-Landfill,552
+2022,May,Recycle,R-Mixed recycling,"1,048"
+2022,May,Compost,C-Foodscraps,"72,000"
+2022,May,Compost,C-Organics,"48,600"
+2022,Jun,Compost,C-Yardwaste,"9,200"
+2022,Jun,Compost,C-Yardwaste,"8,440"
+2022,Jun,Landfill,L-Landfill,"1,720"
+2022,Jun,Landfill,L-Landfill,"4,200"
+2022,Jun,Landfill,L-Landfill,"3,820"
+2022,Jun,Landfill,L-Landfill,"3,780"
+2022,Jun,Landfill,L-Landfill,"4,240"
+2022,Jun,Landfill,L-Landfill,900
+2022,Jun,Landfill,L-Landfill,"1,440"
+2022,Jun,Landfill,L-Landfill,"2,620"
+2022,Jun,Landfill,L-Landfill,"3,440"
+2022,Jun,Landfill,L-Landfill,"5,100"
+2022,Jun,Landfill,L-Landfill,"6,760"
+2022,Jun,Landfill,L-Landfill,"6,240"
+2022,Jun,Landfill,L-Landfill,"5,380"
+2022,Jun,Landfill,L-Landfill,"5,820"
+2022,Jun,Landfill,L-Landfill,"3,420"
+2022,Jun,Landfill,L-Landfill,"12,100"
+2022,Jun,Landfill,L-Landfill,"6,260"
+2022,Jun,Landfill,L-Landfill,"14,640"
+2022,Jun,Landfill,L-Landfill,"4,400"
+2022,Jun,Landfill,L-Landfill,"5,240"
+2022,Jun,Landfill,L-Landfill,"9,740"
+2022,Jun,Landfill,L-Landfill,"12,740"
+2022,Jun,Landfill,L-Landfill,"12,360"
+2022,Jun,Landfill,L-Landfill,"10,880"
+2022,Jun,Landfill,L-Landfill,"15,580"
+2022,Jun,Landfill,L-Landfill,"6,300"
+2022,Jun,Landfill,L-Landfill,"9,560"
+2022,Jun,Landfill,L-Landfill,"5,060"
+2022,Jun,Landfill,L-Landfill,"8,220"
+2022,Jun,Recycle,R-Mixed recycling,"8,380"
+2022,Jun,Recycle,R-Mixed recycling,"7,480"
+2022,Jun,Recycle,R-Mixed recycling,"2,620"
+2022,Jun,Recycle,R-Mixed recycling,"3,740"
+2022,Jun,Recycle,R-Mixed recycling,"4,660"
+2022,Jun,Recycle,R-Mixed recycling,"5,780"
+2022,Jun,Recycle,R-Mixed recycling,"7,320"
+2022,Jun,Recycle,R-Mixed recycling,"10,660"
+2022,Jun,Recycle,R-Mixed recycling,"9,020"
+2022,Jun,Recycle,R-Mixed recycling,"1,760"
+2022,Jun,Recycle,R-Mixed recycling,"4,200"
+2022,Jun,Recycle,R-Mixed recycling,"4,660"
+2022,Jul,Landfill,L-Landfill,"1,656"
+2022,Jul,Recycle,R-Mixed recycling,262
+2022,Jul,Compost,C-Foodscraps,"72,000"
+2022,Jul,Compost,C-Organics,"48,600"
+2022,Jun,Recycle,R-Metal,"13,280"
+2022,Jul,Compost,C-Yardwaste,"10,660"
+2022,Jul,Compost,C-Yardwaste,"9,120"
+2022,Jul,Compost,C-Yardwaste,"9,980"
+2022,Jul,Compost,C-Yardwaste,"10,760"
+2022,Jul,Landfill,L-Landfill,"4,560"
+2022,Jul,Landfill,L-Landfill,"3,120"
+2022,Jul,Landfill,L-Landfill,"3,400"
+2022,Jul,Landfill,L-Landfill,"7,000"
+2022,Jul,Landfill,L-Landfill,"5,800"
+2022,Jul,Landfill,L-Landfill,"10,600"
+2022,Aug,Compost,C-Yardwaste,"8,260"
+2022,Aug,Compost,C-Yardwaste,"8,800"
+2022,Aug,Compost,C-Yardwaste,"9,840"
+2022,Aug,Compost,C-Yardwaste,"7,820"
+2022,Aug,Compost,C-Yardwaste,"8,660"
+2022,Aug,Recycle,R-Mixed recycling,"7,260"
+2022,Aug,Recycle,R-Mixed recycling,"3,960"
+2022,Aug,Recycle,R-Mixed recycling,"10,280"
+2022,Aug,Recycle,R-Mixed recycling,"8,660"
+2022,Aug,Recycle,R-Mixed recycling,"2,900"
+2022,Aug,Recycle,R-Mixed recycling,"2,540"
+2022,Aug,Landfill,L-Landfill,"13,520"
+2022,Aug,Landfill,L-Landfill,"4,700"
+2022,Aug,Landfill,L-Landfill,"14,880"
+2022,Aug,Landfill,L-Landfill,"13,200"
+2022,Aug,Landfill,L-Landfill,"3,860"
+2022,Aug,Landfill,L-Landfill,"6,440"
+2022,Jul,Recycle,R-Mixed recycling,"3,580"
+2022,Jul,Recycle,R-Mixed recycling,"6,860"
+2022,Jul,Recycle,R-Mixed recycling,"5,680"
+2022,Jul,Recycle,R-Mixed recycling,"10,400"
+2022,Aug,Compost,C-Foodscraps,"72,000"
+2022,Aug,Compost,C-Organics,"48,600"
+2022,Aug,Recycle,R-Mixed recycling,262
+2022,Aug,Landfill,L-Landfill,"1,656"
+2022,Sep,Compost,C-Foodscraps,"72,000"
+2022,Oct,Compost,C-Organics,"48,600"
+2022,Nov,Recycle,R-Mixed recycling,262
+2022,Dec,Landfill,L-Landfill,"1,656"
+2022,Jul,Recycle,R-Metal,"5,300"
+2022,Jul,Recycle,R-Metal,"5,240"
+2022,Jul,Recycle,R-Metal,"6,000"
+2022,Sep,Recycle,R-Metal,"5,280"
+2022,Jul,Recycle,R-Metal,"3,820"
+2022,Oct,Recycle,R-Metal,"5,180"
+2022,Aug,Recycle,R-Metal,"4,000"
+2022,Oct,Recycle,R-Metal,"3,420"
+2022,Oct,Recycle,R-Metal,"9,680"
+2020,Jan,Recycle,R-E-waste,200
+2020,Aug,Recycle,R-E-waste,49
+2020,Oct,Recycle,R-E-waste,"8,107"
+2020,Dec,Recycle,R-E-waste,80
+2022,Dec,Recycle,R-Metal,"9,240"
+2022,May,Compost,C-Yardwaste,"9,960"
+2022,May,Compost,C-Yardwaste,"11,660"
+2022,May,Compost,C-Yardwaste,"11,060"
+2022,May,Landfill,L-Landfill,"13,860"
+2022,May,Landfill,L-Landfill,"13,300"
+2022,May,Landfill,L-Landfill,"13,920"
+2022,May,Landfill,L-Landfill,"15,140"
+2022,May,Landfill,L-Landfill,"13,320"
+2022,May,Landfill,L-Landfill,"14,280"
+2022,May,Landfill,L-Landfill,"16,540"
+2022,May,Landfill,L-Landfill,"11,900"
+2022,May,Landfill,L-Landfill,"13,680"
+2022,May,Recycle,R-Mixed recycling,"7,640"
+2022,May,Recycle,R-Mixed recycling,"6,980"
+2022,May,Recycle,R-Mixed recycling,"5,200"
+2022,May,Recycle,R-Mixed recycling,"7,400"
+2022,May,Recycle,R-Mixed recycling,"7,640"
+2022,May,Recycle,R-Mixed recycling,"9,040"
+2022,May,Recycle,R-Mixed recycling,"8,660"
+2022,May,Recycle,R-Mixed recycling,"7,320"
+2022,May,Recycle,R-Mixed recycling,"4,780"
+2022,Sep,Compost,C-Yardwaste,"6,880"
+2022,Sep,Compost,C-Yardwaste,"5,060"
+2022,Sep,Compost,C-Yardwaste,"6,500"
+2022,Sep,Compost,C-Yardwaste,"7,480"
+2022,Sep,Landfill,L-Landfill,"5,200"
+2022,Sep,Landfill,L-Landfill,"6,740"
+2022,Sep,Landfill,L-Landfill,"19,540"
+2022,Sep,Landfill,L-Landfill,"8,100"
+2022,Sep,Landfill,L-Landfill,"8,120"
+2022,Sep,Landfill,L-Landfill,"8,100"
+2022,Sep,Landfill,L-Landfill,"11,020"
+2022,Sep,Landfill,L-Landfill,"13,580"
+2022,Sep,Landfill,L-Landfill,"15,040"
+2022,Sep,Landfill,L-Landfill,"13,300"
+2022,Sep,Recycle,R-Mixed recycling,"12,440"
+2022,Sep,Recycle,R-Mixed recycling,"6,280"
+2022,Sep,Recycle,R-Mixed recycling,"7,280"
+2022,Sep,Recycle,R-Mixed recycling,"11,740"
+2022,Sep,Recycle,R-Mixed recycling,"11,080"
+2022,Sep,Recycle,R-Mixed recycling,"10,940"
+2022,Sep,Recycle,R-Mixed recycling,"9,340"
+2022,Sep,Recycle,R-Mixed recycling,"7,760"
+2022,Oct,Compost,C-Yardwaste,"12,660"
+2022,Oct,Compost,C-Yardwaste,"13,200"
+2022,Oct,Compost,C-Yardwaste,"9,620"
+2022,Oct,Compost,C-Yardwaste,"9,400"
+2022,Oct,Landfill,L-Landfill,"14,740"
+2022,Oct,Landfill,L-Landfill,"15,280"
+2022,Oct,Landfill,L-Landfill,"16,520"
+2022,Oct,Landfill,L-Landfill,"16,260"
+2022,Oct,Landfill,L-Landfill,"15,260"
+2022,Oct,Landfill,L-Landfill,"15,200"
+2022,Oct,Landfill,L-Landfill,"15,520"
+2022,Oct,Landfill,L-Landfill,"14,000"
+2022,Oct,Landfill,L-Landfill,"6,720"
+2022,Oct,Recycle,R-Mixed recycling,"8,760"
+2022,Oct,Recycle,R-Mixed recycling,"9,740"
+2022,Oct,Recycle,R-Mixed recycling,"8,620"
+2022,Oct,Recycle,R-Mixed recycling,"9,880"
+2022,Oct,Recycle,R-Mixed recycling,"6,780"
+2022,Oct,Recycle,R-Mixed recycling,"8,240"
+2022,Oct,Recycle,R-Mixed recycling,"5,240"
+2022,Oct,Recycle,R-Mixed recycling,"8,060"
+2022,Oct,Recycle,R-Mixed recycling,"14,260"
+2022,Nov,Compost,C-Yardwaste,"13,160"
+2022,Nov,Compost,C-Yardwaste,"12,200"
+2022,Nov,Landfill,L-Landfill,"20,260"
+2022,Nov,Landfill,L-Landfill,"15,840"
+2022,Nov,Landfill,L-Landfill,"15,700"
+2022,Nov,Landfill,L-Landfill,"14,720"
+2022,Nov,Landfill,L-Landfill,"15,740"
+2022,Nov,Landfill,L-Landfill,"13,640"
+2022,Nov,Landfill,L-Landfill,"13,320"
+2022,Nov,Recycle,R-Mixed recycling,"9,500"
+2022,Nov,Recycle,R-Mixed recycling,"9,400"
+2022,Nov,Recycle,R-Mixed recycling,"6,060"
+2022,Nov,Recycle,R-Mixed recycling,"9,300"
+2022,Nov,Recycle,R-Mixed recycling,"6,540"
+2022,Nov,Recycle,R-Mixed recycling,"4,900"
+2022,Dec,Compost,C-Yardwaste,"9,240"
+2022,Dec,Compost,C-Yardwaste,"8,860"
+2022,Dec,Compost,C-Yardwaste,"17,060"
+2022,Dec,Compost,C-Yardwaste,"15,820"
+2022,Dec,Compost,C-Yardwaste,"15,360"
+2022,Dec,Compost,C-Yardwaste,"12,840"
+2022,Dec,Compost,C-Yardwaste,"9,240"
+2022,Dec,Compost,C-Yardwaste,"8,860"
+2022,Dec,Compost,C-Yardwaste,"17,060"
+2022,Dec,Compost,C-Yardwaste,"15,820"
+2022,Dec,Compost,C-Yardwaste,"15,360"
+2022,Dec,Compost,C-Yardwaste,"12,840"
+2022,Dec,Landfill,L-Landfill,"12,120"
+2022,Dec,Landfill,L-Landfill,"12,980"
+2022,Dec,Landfill,L-Landfill,"11,700"
+2022,Dec,Landfill,L-Landfill,"13,900"
+2022,Dec,Landfill,L-Landfill,"16,800"
+2022,Dec,Landfill,L-Landfill,"7,500"
+2022,Dec,Landfill,L-Landfill,"4,000"
+2022,Dec,Recycle,R-Mixed recycling,"7,920"
+2022,Dec,Recycle,R-Mixed recycling,"5,660"
+2022,Dec,Recycle,R-Mixed recycling,"8,040"
+2022,Dec,Recycle,R-Mixed recycling,"8,760"
+2022,Dec,Recycle,R-Mixed recycling,"6,520"
+2022,Dec,Recycle,R-Mixed recycling,"3,840"
+2022,Dec,Recycle,R-Mixed recycling,"3,400"
+2022,Dec,Compost,C-Yardwaste,"15,820"
+2023,Mar,Recycle,R-Metal,"7,840"
+2023,Apr,Recycle,R-Metal,"7,140"
+2023,Apr,Recycle,R-Metal,"4,960"
+2023,Jan,Landfill,L-Landfill,"10,220"
+2023,Jan,Landfill,L-Landfill,"6,240"
+2023,Jan,Landfill,L-Landfill,"12,340"
+2023,Jan,Landfill,L-Landfill,"13,560"
+2023,Jan,Landfill,L-Landfill,"17,120"
+2023,Jan,Landfill,L-Landfill,"16,180"
+2023,Jan,Landfill,L-Landfill,"14,980"
+2023,Jan,Landfill,L-Landfill,"15,380"
+2023,Jan,Compost,C-Yardwaste,"10,760"
+2023,Jan,Compost,C-Yardwaste,"17,120"
+2023,Jan,Compost,C-Yardwaste,"13,740"
+2023,Jan,Compost,C-Yardwaste,"14,520"
+2023,Jan,Compost,C-Yardwaste,"11,160"
+2023,Jan,Recycle,R-Mixed recycling,"8,480"
+2023,Jan,Recycle,R-Mixed recycling,"11,800"
+2023,Jan,Recycle,R-Mixed recycling,"8,800"
+2023,Jan,Recycle,R-Mixed recycling,"6,160"
+2023,Jan,Recycle,R-Mixed recycling,"8,860"
+2023,Jan,Recycle,R-Mixed recycling,"9,140"
+2023,Jan,Recycle,R-Mixed recycling,"8,420"
+2023,Jan,Recycle,R-Mixed recycling,"6,920"
+2023,Feb,Compost,C-Foodscraps,"72,000"
+2023,Feb,Compost,C-Organics,"48,600"
+2023,Feb,Recycle,R-Mixed recycling,262
+2023,Feb,Landfill,L-Landfill,"1,656"
+2023,Feb,Compost,C-Yardwaste,"8,160"
+2023,Feb,Compost,C-Yardwaste,"6,900"
+2023,Feb,Compost,C-Yardwaste,"5,760"
+2023,Feb,Compost,C-Yardwaste,"6,120"
+2023,Feb,Compost,C-Yardwaste,"7,780"
+2023,Feb,Landfill,L-Landfill,"17,900"
+2023,Feb,Landfill,L-Landfill,"14,840"
+2023,Feb,Landfill,L-Landfill,"14,380"
+2023,Feb,Landfill,L-Landfill,"16,200"
+2023,Feb,Landfill,L-Landfill,"14,460"
+2023,Feb,Landfill,L-Landfill,"13,580"
+2023,Feb,Landfill,L-Landfill,"12,740"
+2023,Feb,Landfill,L-Landfill,"13,900"
+2023,Feb,Landfill,L-Landfill,"13,560"
+2023,Feb,Recycle,R-Mixed recycling,"8,780"
+2023,Feb,Recycle,R-Mixed recycling,"6,880"
+2023,Feb,Recycle,R-Mixed recycling,"8,740"
+2023,Feb,Recycle,R-Mixed recycling,"7,600"
+2023,Feb,Recycle,R-Mixed recycling,"6,320"
+2023,Feb,Recycle,R-Mixed recycling,"7,460"
+2023,Feb,Recycle,R-Mixed recycling,"5,700"
+2023,Feb,Recycle,R-Mixed recycling,"8,120"
+2023,Mar,Compost,C-Foodscraps,"72,000"
+2023,Mar,Compost,C-Organics,"48,600"
+2023,Mar,Recycle,R-Mixed recycling,262
+2023,Mar,Landfill,L-Landfill,"1,656"
+2023,Mar,Compost,C-Yardwaste,"12,860"
+2023,Mar,Compost,C-Yardwaste,"10,060"
+2023,Mar,Compost,C-Yardwaste,"10,900"
+2023,Mar,Compost,C-Yardwaste,"14,960"
+2023,Mar,Landfill,L-Landfill,"18,640"
+2023,Mar,Landfill,L-Landfill,"18,740"
+2023,Mar,Landfill,L-Landfill,"13,960"
+2023,Mar,Landfill,L-Landfill,"15,520"
+2023,Mar,Landfill,L-Landfill,"13,940"
+2023,Mar,Landfill,L-Landfill,"14,280"
+2023,Mar,Landfill,L-Landfill,"15,600"
+2023,Mar,Landfill,L-Landfill,"13,560"
+2023,Mar,Landfill,L-Landfill,"8,940"
+2023,Mar,Recycle,R-Mixed recycling,"6,760"
+2023,Mar,Recycle,R-Mixed recycling,"6,400"
+2023,Mar,Recycle,R-Mixed recycling,"7,300"
+2023,Mar,Recycle,R-Mixed recycling,"7,000"
+2023,Mar,Recycle,R-Mixed recycling,"9,460"
+2023,Mar,Recycle,R-Mixed recycling,"7,420"
+2023,Mar,Recycle,R-Mixed recycling,"8,820"
+2023,Mar,Recycle,R-Mixed recycling,"5,660"
+2023,Mar,Recycle,R-Mixed recycling,"4,840"
+2023,Apr,Recycle,R-Mixed recycling,524
+2023,Apr,Landfill,L-Landfill,"1,656"
+2023,Apr,Compost,C-Yardwaste,"11,360"
+2023,Apr,Compost,C-Yardwaste,"10,060"
+2023,Apr,Compost,C-Yardwaste,"11,380"
+2023,Apr,Compost,C-Yardwaste,"9,980"
+2023,Apr,Landfill,L-Landfill,"29,800"
+2023,Apr,Landfill,L-Landfill,"15,080"
+2023,Apr,Landfill,L-Landfill,"10,500"
+2023,Apr,Landfill,L-Landfill,"14,740"
+2023,Apr,Landfill,L-Landfill,"14,800"
+2023,Apr,Landfill,L-Landfill,"16,380"
+2023,Apr,Landfill,L-Landfill,"13,920"
+2023,Apr,Landfill,L-Landfill,"15,500"
+2023,Apr,Recycle,R-Mixed recycling,"4,320"
+2023,Apr,Recycle,R-Mixed recycling,"8,740"
+2023,Apr,Recycle,R-Mixed recycling,"9,820"
+2023,Apr,Recycle,R-Mixed recycling,"9,740"
+2023,Apr,Recycle,R-Mixed recycling,"8,040"
+2023,Apr,Recycle,R-Mixed recycling,"8,740"
+2023,Apr,Recycle,R-Mixed recycling,"7,760"
+2023,Apr,Recycle,R-Mixed recycling,"9,280"
+2023,May,Compost,C-Organics,"40,500"
+2023,May,Recycle,R-Mixed recycling,262
+2023,May,Landfill,L-Landfill,552
+2023,May,Compost,C-Yardwaste,"12,800"
+2023,May,Compost,C-Yardwaste,"9,540"
+2023,May,Compost,C-Yardwaste,"5,720"
+2023,May,Compost,C-Yardwaste,"9,340"
+2023,May,Landfill,L-Landfill,"12,880"
+2023,May,Landfill,L-Landfill,"17,280"
+2023,May,Landfill,L-Landfill,"12,620"
+2023,May,Landfill,L-Landfill,"15,540"
+2023,May,Landfill,L-Landfill,"13,340"
+2023,May,Landfill,L-Landfill,"17,720"
+2023,May,Landfill,L-Landfill,"13,380"
+2023,May,Landfill,L-Landfill,"15,620"
+2023,May,Landfill,L-Landfill,"15,960"
+2023,May,Landfill,L-Landfill,"15,140"
+2023,May,Recycle,R-Mixed recycling,"6,900"
+2023,May,Recycle,R-Mixed recycling,"8,600"
+2023,May,Recycle,R-Mixed recycling,"6,940"
+2023,May,Recycle,R-Mixed recycling,"9,040"
+2023,May,Recycle,R-Mixed recycling,"6,520"
+2023,May,Recycle,R-Mixed recycling,"7,500"
+2023,May,Recycle,R-Mixed recycling,"6,560"
+2023,May,Recycle,R-Mixed recycling,"7,940"
+2023,May,Recycle,R-Mixed recycling,"7,540"
+2023,Jun,Compost,C-Yardwaste,"10,120"
+2023,Jun,Compost,C-Yardwaste,"8,680"
+2023,Jun,Compost,C-Yardwaste,"6,940"
+2023,Jun,Compost,C-Yardwaste,"7,260"
+2023,Jun,Compost,C-Foodscraps,"72,000"
+2023,Jun,Compost,C-Organics,"48,600"
+2023,Jun,Landfill,L-Landfill,"13,820"
+2023,Jun,Landfill,L-Landfill,"11,340"
+2023,Jun,Landfill,L-Landfill,"17,720"
+2023,Jun,Landfill,L-Landfill,"16,980"
+2023,Jun,Landfill,L-Landfill,"1,400"
+2023,Jun,Landfill,L-Landfill,"2,780"
+2023,Jun,Landfill,L-Landfill,"2,140"
+2023,Jun,Landfill,L-Landfill,"15,920"
+2023,Jun,Landfill,L-Landfill,"17,580"
+2023,Jun,Landfill,L-Landfill,"7,900"
+2023,Jun,Landfill,L-Landfill,"7,760"
+2023,Jun,Landfill,L-Landfill,"5,100"
+2023,Jun,Landfill,L-Landfill,"7,820"
+2023,Jun,Landfill,L-Landfill,"7,320"
+2023,Jun,Landfill,L-Landfill,"7,620"
+2023,Jun,Landfill,L-Landfill,"13,460"
+2023,Jun,Landfill,L-Landfill,"14,440"
+2023,Jun,Landfill,L-Landfill,"6,140"
+2023,Jun,Landfill,L-Landfill,"6,760"
+2023,Jun,Landfill,L-Landfill,"12,400"
+2023,Jun,Landfill,L-Landfill,"15,980"
+2023,Jun,Landfill,L-Landfill,"15,420"
+2023,Jun,Landfill,L-Landfill,"9,520"
+2023,Jun,Landfill,L-Landfill,"1,656"
+2023,Jun,Recycle,R-Mixed recycling,"5,820"
+2023,Jun,Recycle,R-Mixed recycling,"6,780"
+2023,Jun,Recycle,R-Mixed recycling,"8,680"
+2023,Jun,Recycle,R-Mixed recycling,"8,640"
+2023,Jun,Recycle,R-Mixed recycling,"4,580"
+2023,Jun,Recycle,R-Mixed recycling,"12,720"
+2023,Jun,Recycle,R-Mixed recycling,"12,280"
+2023,Jun,Recycle,R-Mixed recycling,"7,760"
+2023,Jun,Recycle,R-Mixed recycling,"7,400"
+2023,Jun,Recycle,R-Mixed recycling,"9,000"
+2023,Jun,Recycle,R-Mixed recycling,"4,840"
+2023,Jun,Recycle,R-Mixed recycling,"4,680"
+2023,Jun,Recycle,R-Mixed recycling,262
+2023,Jul,Compost,C-Foodscraps,"72,000"
+2023,Jul,Compost,C-Organics,"48,600"
+2023,Jul,Recycle,R-Mixed recycling,262
+2023,Jul,Landfill,L-Landfill,"1,656"
+2023,Jul,Compost,C-Yardwaste,"9,820"
+2023,Jul,Compost,C-Yardwaste,"9,760"
+2023,Jul,Compost,C-Yardwaste,"8,300"
+2023,Jul,Landfill,L-Landfill,"11,240"
+2023,Jul,Landfill,L-Landfill,"12,080"
+2023,Jul,Landfill,L-Landfill,"4,980"
+2023,Jul,Landfill,L-Landfill,"10,980"
+2023,Jul,Recycle,R-Mixed recycling,"6,260"
+2023,Jul,Recycle,R-Mixed recycling,"8,040"
+2023,Jul,Recycle,R-Mixed recycling,"14,860"
+2023,Jul,Recycle,R-Mixed recycling,"9,600"
+2023,Aug,Compost,C-Foodscraps,"72,000"
+2023,Aug,Compost,C-Organics,"48,600"
+2023,Aug,Recycle,R-Mixed recycling,262
+2023,Aug,Landfill,L-Landfill,"1,656"
+2023,Sep,Compost,C-Yardwaste,"11,180"
+2023,Sep,Compost,C-Yardwaste,"8,660"
+2023,Sep,Compost,C-Yardwaste,"8,020"
+2023,Sep,Compost,C-Yardwaste,"6,280"
+2023,Sep,Compost,C-Yardwaste,"6,880"
+2023,Sep,Landfill,L-Landfill,"10,840"
+2023,Sep,Landfill,L-Landfill,"8,400"
+2023,Sep,Landfill,L-Landfill,"10,800"
+2023,Sep,Landfill,L-Landfill,"11,680"
+2023,Sep,Landfill,L-Landfill,"10,800"
+2023,Sep,Landfill,L-Landfill,"11,120"
+2023,Sep,Landfill,L-Landfill,"16,080"
+2023,Sep,Landfill,L-Landfill,"16,680"
+2023,Sep,Recycle,R-Mixed recycling,"6,880"
+2023,Sep,Recycle,R-Mixed recycling,"4,040"
+2023,Sep,Recycle,R-Mixed recycling,"10,340"
+2023,Sep,Recycle,R-Mixed recycling,"11,360"
+2023,Sep,Recycle,R-Mixed recycling,"13,600"
+2023,Sep,Recycle,R-Mixed recycling,"7,880"
+2023,Sep,Recycle,R-Mixed recycling,"10,440"
+2023,Sep,Recycle,R-Mixed recycling,"9,120"
+2023,Oct,Compost,C-Foodscraps,"72,000"
+2023,Oct,Compost,C-Organics,"48,600"
+2023,Oct,Recycle,R-Mixed recycling,262
+2023,Oct,Landfill,L-Landfill,"1,656"
+2023,Nov,Compost,C-Yardwaste,"9,480"
+2023,Nov,Compost,C-Yardwaste,"13,800"
+2023,Nov,Compost,C-Yardwaste,"6,580"
+2023,Nov,Compost,C-Yardwaste,"8,040"
+2023,Nov,Compost,C-Yardwaste,"6,380"
+2023,Nov,Landfill,L-Landfill,"16,140"
+2023,Nov,Landfill,L-Landfill,"14,560"
+2023,Nov,Landfill,L-Landfill,"16,460"
+2023,Nov,Landfill,L-Landfill,"15,080"
+2023,Nov,Landfill,L-Landfill,"16,360"
+2023,Nov,Landfill,L-Landfill,"16,660"
+2023,Nov,Landfill,L-Landfill,"12,000"
+2023,Nov,Landfill,L-Landfill,"11,580"
+2023,Nov,Recycle,R-Mixed recycling,"9,020"
+2023,Nov,Recycle,R-Mixed recycling,"7,400"
+2023,Nov,Recycle,R-Mixed recycling,"7,700"
+2023,Nov,Recycle,R-Mixed recycling,"8,160"
+2023,Nov,Recycle,R-Mixed recycling,"7,680"
+2023,Nov,Recycle,R-Mixed recycling,"8,920"
+2023,Nov,Recycle,R-Mixed recycling,"5,280"
+2023,Nov,Recycle,R-Mixed recycling,"5,760"
+2023,Dec,Compost,C-Foodscraps,"72,000"
+2023,Dec,Compost,C-Organics,"48,600"
+2023,Dec,Recycle,R-Mixed recycling,262
+2023,Dec,Landfill,L-Landfill,"1,656"
+2023,Dec,Compost,C-Yardwaste,"10,580"
+2023,Dec,Compost,C-Yardwaste,"8,880"
+2023,Dec,Compost,C-Yardwaste,"8,780"
+2023,Dec,Compost,C-Yardwaste,"13,360"
+2023,Dec,Compost,C-Yardwaste,"6,760"
+2023,Dec,Landfill,L-Landfill,"13,640"
+2023,Dec,Landfill,L-Landfill,"15,200"
+2023,Dec,Landfill,L-Landfill,"14,880"
+2023,Dec,Landfill,L-Landfill,"15,620"
+2023,Dec,Landfill,L-Landfill,"11,180"
+2023,Dec,Recycle,R-Mixed recycling,"8,100"
+2023,Dec,Recycle,R-Mixed recycling,"8,080"
+2023,Dec,Recycle,R-Mixed recycling,"9,220"
+2023,Dec,Recycle,R-Mixed recycling,"6,120"
+2023,Dec,Recycle,R-Mixed recycling,"5,840"
+2023,Nov,Recycle,R-Cardboard,"18,526"
+2024,Jan,Compost,C-Foodscraps,"72,000"
+2024,Jan,Compost,C-Organics,"48,600"
+2024,Jan,Recycle,R-Mixed recycling,262
+2024,Jan,Landfill,L-Landfill,"1,656"
+2024,Jan,Compost,C-Yardwaste,"13,500"
+2024,Jan,Compost,C-Yardwaste,"11,080"
+2024,Jan,Compost,C-Yardwaste,"11,960"
+2024,Jan,Compost,C-Yardwaste,"10,240"
+2024,Jan,Compost,C-Yardwaste,"8,860"
+2024,Jan,Compost,C-Yardwaste,"9,280"
+2024,Jan,Landfill,L-Landfill,"12,480"
+2024,Jan,Landfill,L-Landfill,"14,060"
+2024,Jan,Landfill,L-Landfill,"14,840"
+2024,Jan,Landfill,L-Landfill,"14,480"
+2024,Jan,Landfill,L-Landfill,"14,140"
+2024,Jan,Landfill,L-Landfill,"17,620"
+2024,Jan,Landfill,L-Landfill,"15,740"
+2024,Jan,Recycle,R-Mixed recycling,"9,260"
+2024,Jan,Recycle,R-Mixed recycling,"9,020"
+2024,Jan,Recycle,R-Mixed recycling,"7,900"
+2024,Jan,Recycle,R-Mixed recycling,"7,600"
+2024,Jan,Recycle,R-Mixed recycling,"6,920"
+2024,Jan,Recycle,R-Mixed recycling,"9,780"
+2024,Jan,Recycle,R-Mixed recycling,"7,460"
+2024,Feb,Compost,C-Foodscraps,"72,000"
+2024,Feb,Compost,C-Organics,"48,600"
+2024,Feb,Recycle,R-Mixed recycling,262
+2024,Feb,Landfill,L-Landfill,"1,656"
+2024,Jun,Recycle,R-Cardboard,"19,760"
+2024,Feb,Compost,C-Yardwaste,"7,460"
+2024,Feb,Compost,C-Yardwaste,"11,100"
+2024,Feb,Compost,C-Yardwaste,"8,060"
+2024,Feb,Compost,C-Yardwaste,"9,820"
+2024,Feb,Compost,C-Yardwaste,"10,340"
+2024,Feb,Compost,C-Yardwaste,"8,880"
+2024,Feb,Landfill,L-Landfill,"16,900"
+2024,Feb,Landfill,L-Landfill,"16,440"
+2024,Feb,Landfill,L-Landfill,"19,120"
+2024,Feb,Landfill,L-Landfill,"15,080"
+2024,Feb,Landfill,L-Landfill,"16,280"
+2024,Feb,Landfill,L-Landfill,"16,220"
+2024,Feb,Landfill,L-Landfill,"19,780"
+2024,Feb,Landfill,L-Landfill,"13,360"
+2024,Feb,Landfill,L-Landfill,"17,280"
+2024,Feb,Recycle,R-Mixed recycling,"7,720"
+2024,Feb,Recycle,R-Mixed recycling,"7,600"
+2024,Feb,Recycle,R-Mixed recycling,"9,040"
+2024,Feb,Recycle,R-Mixed recycling,"7,880"
+2024,Feb,Recycle,R-Mixed recycling,"8,160"
+2024,Feb,Recycle,R-Mixed recycling,"7,820"
+2024,Feb,Recycle,R-Mixed recycling,"9,800"
+2024,Feb,Recycle,R-Mixed recycling,"5,800"
+2024,Feb,Recycle,R-Mixed recycling,"9,900"
+2024,Mar,Compost,C-Yardwaste,"2,000"
+2024,Mar,Compost,C-Yardwaste,"10,560"
+2024,Mar,Compost,C-Yardwaste,"8,080"
+2024,Mar,Compost,C-Yardwaste,"11,020"
+2024,Mar,Compost,C-Yardwaste,"11,340"
+2024,Mar,Compost,C-Yardwaste,"5,000"
+2024,Mar,Landfill,L-Landfill,"16,980"
+2024,Mar,Landfill,L-Landfill,"12,940"
+2024,Mar,Landfill,L-Landfill,"11,420"
+2024,Mar,Landfill,L-Landfill,"16,020"
+2024,Mar,Landfill,L-Landfill,"17,740"
+2024,Mar,Landfill,L-Landfill,"15,160"
+2024,Mar,Landfill,L-Landfill,"19,540"
+2024,Mar,Landfill,L-Landfill,"18,340"
+2024,Mar,Landfill,L-Landfill,"6,180"
+2024,Mar,Landfill,L-Landfill,"9,860"
+2024,Mar,Recycle,R-Mixed recycling,"7,740"
+2024,Mar,Recycle,R-Mixed recycling,"7,540"
+2024,Mar,Recycle,R-Mixed recycling,"7,740"
+2024,Mar,Recycle,R-Mixed recycling,"7,300"
+2024,Mar,Recycle,R-Mixed recycling,"7,420"
+2024,Mar,Recycle,R-Mixed recycling,"6,280"
+2024,Mar,Recycle,R-Mixed recycling,"4,160"
+2024,Mar,Compost,C-Foodscraps,"72,000"
+2024,Mar,Compost,C-Organics,"48,600"
+2024,Mar,Recycle,R-Mixed recycling,262
+2024,Mar,Landfill,L-Landfill,"1,656"
+2024,Apr,Compost,C-Yardwaste,"7,840"
+2024,Apr,Compost,C-Yardwaste,"12,880"
+2024,Apr,Compost,C-Yardwaste,"11,260"
+2024,Apr,Landfill,L-Landfill,"5,960"
+2024,Apr,Landfill,L-Landfill,"12,260"
+2024,Apr,Landfill,L-Landfill,"15,100"
+2024,Apr,Landfill,L-Landfill,"15,380"
+2024,Apr,Landfill,L-Landfill,"17,900"
+2024,Apr,Landfill,L-Landfill,"15,240"
+2024,Apr,Landfill,L-Landfill,"15,980"
+2024,Apr,Landfill,L-Landfill,"16,380"
+2024,Apr,Landfill,L-Landfill,"16,960"
+2024,Apr,Recycle,R-Mixed recycling,"2,300"
+2024,Apr,Recycle,R-Mixed recycling,"6,620"
+2024,Apr,Recycle,R-Mixed recycling,"6,300"
+2024,Apr,Recycle,R-Mixed recycling,"8,520"
+2024,Apr,Recycle,R-Mixed recycling,"7,560"
+2024,Apr,Recycle,R-Mixed recycling,"8,000"
+2024,Apr,Recycle,R-Mixed recycling,"7,580"
+2024,Apr,Recycle,R-Mixed recycling,"7,700"
+2024,Apr,Recycle,R-Mixed recycling,"7,040"
+2024,Apr,Compost,C-Foodscraps,"72,000"
+2024,Apr,Compost,C-Organics,"48,600"
+2024,Apr,Recycle,R-Mixed recycling,262
+2024,Apr,Landfill,L-Landfill,"1,656"
+2024,May,Compost,C-Yardwaste,"15,840"
+2024,May,Compost,C-Yardwaste,"10,920"
+2024,May,Compost,C-Yardwaste,"8,620"
+2024,May,Compost,C-Yardwaste,"8,740"
+2024,May,Compost,C-Yardwaste,"8,680"
+2024,May,Landfill,L-Landfill,"16,400"
+2024,May,Landfill,L-Landfill,"14,160"
+2024,May,Landfill,L-Landfill,"16,140"
+2024,May,Landfill,L-Landfill,"14,360"
+2024,May,Landfill,L-Landfill,"16,040"
+2024,May,Landfill,L-Landfill,"15,200"
+2024,May,Landfill,L-Landfill,"18,360"
+2024,May,Landfill,L-Landfill,"13,380"
+2024,May,Landfill,L-Landfill,"13,700"
+2024,May,Recycle,R-Mixed recycling,"7,700"
+2024,May,Recycle,R-Mixed recycling,"6,700"
+2024,May,Recycle,R-Mixed recycling,"8,840"
+2024,May,Recycle,R-Mixed recycling,"6,540"
+2024,May,Recycle,R-Mixed recycling,"8,520"
+2024,May,Recycle,R-Mixed recycling,"7,080"
+2024,May,Recycle,R-Mixed recycling,"7,540"
+2024,May,Recycle,R-Mixed recycling,"6,020"
+2024,May,Recycle,R-Mixed recycling,"5,340"
+2024,May,Compost,C-Foodscraps,"72,000"
+2024,May,Compost,C-Organics,"48,600"
+2024,May,Recycle,R-Mixed recycling,262
+2024,May,Landfill,L-Landfill,"1,656"
+2024,Jun,Compost,C-Yardwaste,"11,640"
+2024,Jun,Compost,C-Yardwaste,"12,780"
+2024,Jun,Landfill,L-Landfill,"1,500"
+2024,Jun,Landfill,L-Landfill,"2,960"
+2024,Jun,Landfill,L-Landfill,"6,580"
+2024,Jun,Landfill,L-Landfill,"5,440"
+2024,Jun,Landfill,L-Landfill,"6,200"
+2024,Jun,Landfill,L-Landfill,"3,060"
+2024,Jun,Landfill,L-Landfill,"5,800"
+2024,Jun,Landfill,L-Landfill,"3,700"
+2024,Jun,Landfill,L-Landfill,"7,560"
+2024,Jun,Landfill,L-Landfill,"5,760"
+2024,Jun,Landfill,L-Landfill,"5,820"
+2024,Jun,Landfill,L-Landfill,"3,400"
+2024,Jun,Landfill,L-Landfill,"5,200"
+2024,Jun,Landfill,L-Landfill,"2,860"
+2024,Jun,Landfill,L-Landfill,"4,920"
+2024,Jun,Landfill,L-Landfill,"5,060"
+2024,Jun,Landfill,L-Landfill,"5,300"
+2024,Jun,Recycle,R-Mixed recycling,"12,060"
+2024,Jun,Recycle,R-Mixed recycling,"7,800"
+2024,Jun,Recycle,R-Mixed recycling,"6,980"
+2024,Jun,Recycle,R-Mixed recycling,"4,380"
+2024,Jun,Recycle,R-Mixed recycling,"4,400"
+2024,Jun,Recycle,R-Mixed recycling,"8,400"
+2024,Jun,Recycle,R-Mixed recycling,"14,560"
+2024,Jun,Recycle,R-Mixed recycling,"9,260"
+2024,Jun,Compost,C-Foodscraps,"72,000"
+2024,Jun,Compost,C-Organics,"48,600"
+2024,Jun,Recycle,R-Mixed recycling,262
+2024,Jun,Landfill,L-Landfill,"1,656"
+2024,Jul,Compost,C-Yardwaste,"11,200"
+2024,Jul,Compost,C-Yardwaste,"10,300"
+2024,Jul,Compost,C-Yardwaste,"12,180"
+2024,Jul,Compost,C-Yardwaste,"9,780"
+2024,Jul,Landfill,L-Landfill,"13,460"
+2024,Jul,Landfill,L-Landfill,"8,040"
+2024,Jul,Landfill,L-Landfill,"12,780"
+2024,Jul,Landfill,L-Landfill,"14,380"
+2024,Jul,Recycle,R-Mixed recycling,"14,380"
+2024,Jul,Recycle,R-Mixed recycling,"5,080"
+2024,Jul,Recycle,R-Mixed recycling,"7,340"
+2024,Jul,Recycle,R-Mixed recycling,"7,880"
+2024,Jul,Compost,C-Foodscraps,"72,000"
+2024,Jul,Compost,C-Organics,"48,600"
+2024,Jul,Recycle,R-Mixed recycling,262
+2024,Jul,Landfill,L-Landfill,"1,656"
+2024,Aug,Compost,C-Yardwaste,"8,940"
+2024,Aug,Compost,C-Yardwaste,"13,100"
+2024,Aug,Compost,C-Yardwaste,"12,500"
+2024,Aug,Compost,C-Yardwaste,"15,480"
+2024,Aug,Landfill,L-Landfill,"11,880"
+2024,Aug,Landfill,L-Landfill,"13,160"
+2024,Aug,Landfill,L-Landfill,"13,020"
+2024,Aug,Landfill,L-Landfill,"9,280"
+2024,Aug,Landfill,L-Landfill,"10,580"
+2024,Aug,Recycle,R-Mixed recycling,"8,940"
+2024,Aug,Recycle,R-Mixed recycling,"6,500"
+2024,Aug,Recycle,R-Mixed recycling,"9,400"
+2024,Aug,Recycle,R-Mixed recycling,"10,680"
+2024,Aug,Recycle,R-Mixed recycling,"5,460"
+2024,Aug,Compost,C-Foodscraps,"72,000"
+2024,Aug,Compost,C-Organics,"48,600"
+2024,Aug,Recycle,R-Mixed recycling,262
+2024,Aug,Landfill,L-Landfill,"1,656"
+2024,Sep,Compost,C-Yardwaste,"14,340"
+2024,Sep,Compost,C-Yardwaste,"16,720"
+2024,Sep,Compost,C-Yardwaste,"6,460"
+2024,Sep,Compost,C-Yardwaste,"12,540"
+2024,Sep,Landfill,L-Landfill,"10,840"
+2024,Sep,Landfill,L-Landfill,"6,220"
+2024,Sep,Landfill,L-Landfill,"12,300"
+2024,Sep,Landfill,L-Landfill,"8,520"
+2024,Sep,Landfill,L-Landfill,"5,540"
+2024,Sep,Landfill,L-Landfill,"4,580"
+2024,Sep,Landfill,L-Landfill,920
+2024,Sep,Landfill,L-Landfill,"12,720"
+2024,Sep,Landfill,L-Landfill,"13,420"
+2024,Sep,Recycle,R-Mixed recycling,"9,260"
+2024,Sep,Recycle,R-Mixed recycling,"4,320"
+2024,Sep,Recycle,R-Mixed recycling,"11,440"
+2024,Sep,Recycle,R-Mixed recycling,"10,720"
+2024,Sep,Recycle,R-Mixed recycling,"6,540"
+2024,Sep,Recycle,R-Mixed recycling,"8,440"
+2024,Sep,Recycle,R-Mixed recycling,"9,600"
+2024,Sep,Recycle,R-Mixed recycling,"11,420"
+2024,Sep,Recycle,R-Mixed recycling,"9,960"
+2024,Sep,Compost,C-Foodscraps,"72,000"
+2024,Sep,Compost,C-Organics,"48,600"
+2024,Sep,Recycle,R-Mixed recycling,262
+2024,Sep,Landfill,L-Landfill,"1,656"
+2024,Oct,Compost,C-Foodscraps,"72,000"
+2024,Oct,Compost,C-Organics,"48,600"
+2024,Oct,Recycle,R-Mixed recycling,262
+2024,Oct,Landfill,L-Landfill,"1,656"
+2024,Nov,Compost,C-Yardwaste,"10,000"
+2024,Nov,Compost,C-Yardwaste,"13,440"
+2024,Nov,Compost,C-Yardwaste,"6,460"
+2024,Nov,Compost,C-Yardwaste,"8,100"
+2024,Nov,Landfill,L-Landfill,"14,860"
+2024,Nov,Landfill,L-Landfill,"12,700"
+2024,Nov,Landfill,L-Landfill,"13,520"
+2024,Nov,Landfill,L-Landfill,"13,280.00"
+2024,Nov,Landfill,L-Landfill,"13,780"
+2024,Nov,Landfill,L-Landfill,"13,020.00"
+2024,Nov,Landfill,L-Landfill,"6,960"
+2024,Nov,Landfill,L-Landfill,"10,860"
+2024,Nov,Recycle,R-Mixed recycling,"9,240"
+2024,Nov,Recycle,R-Mixed recycling,"9,060"
+2024,Nov,Recycle,R-Mixed recycling,"9,820"
+2024,Nov,Recycle,R-Mixed recycling,"9,440"
+2024,Nov,Recycle,R-Mixed recycling,"7,980"
+2024,Nov,Recycle,R-Mixed recycling,"7,420"
+2024,Nov,Recycle,R-Mixed recycling,"7,120"
+2024,Nov,Compost,C-Foodscraps,"72,000"
+2024,Nov,Compost,C-Organics,"48,600"
+2024,Nov,Recycle,R-Mixed recycling,262
+2024,Nov,Landfill,L-Landfill,"1,656"
+2024,Dec,Compost,C-Yardwaste,"13,320"
+2024,Dec,Compost,C-Yardwaste,"8,900"
+2024,Dec,Compost,C-Yardwaste,"7,680"
+2024,Dec,Compost,C-Yardwaste,"16,580"
+2024,Dec,Compost,C-Yardwaste,"13,800"
+2024,Dec,Landfill,L-Landfill,"12,420"
+2024,Dec,Landfill,L-Landfill,"13,660"
+2024,Dec,Landfill,L-Landfill,"11,260"
+2024,Dec,Landfill,L-Landfill,"15,420"
+2024,Dec,Landfill,L-Landfill,"13,700"
+2024,Dec,Landfill,L-Landfill,"3,620"
+2024,Dec,Recycle,R-Mixed recycling,"4,120"
+2024,Dec,Recycle,R-Mixed recycling,"8,420"
+2024,Dec,Recycle,R-Mixed recycling,"10,100"
+2024,Dec,Recycle,R-Mixed recycling,"21,240"
+2024,Dec,Recycle,R-Mixed recycling,"10,780"
+2024,Dec,Recycle,R-Mixed recycling,"6,960"
+2024,Dec,Recycle,R-Mixed recycling,"1,700"
+2024,Dec,Compost,C-Foodscraps,"72,000"
+2024,Dec,Compost,C-Organics,"48,600"
+2024,Dec,Recycle,R-Mixed recycling,262
+2024,Dec,Landfill,L-Landfill,"1,656"
+2024,Jun,Recycle,R-Construction & Demolition,"7,194"
+2024,Jun,Landfill,L-Construction & Demolition,"5,886"
+2024,Jun,Recycle,R-Construction & Demolition,"2,170"
+2024,Jun,Recycle,L-Construction & Demolition,"4,030"
+2024,Jul,Recycle,R-Construction & Demolition,"5,236"
+2024,Jul,Recycle,L-Construction & Demolition,924
+2024,Aug,Recycle,R-Construction & Demolition,"8,816"
+2024,Aug,Recycle,L-Construction & Demolition,"2,204"
+2024,Sep,Recycle,R-Construction & Demolition,"4,224"
+2024,Sep,Recycle,L-Construction & Demolition,"3,456"
+2024,Nov,Recycle,R-Construction & Demolition,"2,585"
+2024,Nov,Recycle,L-Construction & Demolition,"2,115"
+2024,Dec,Recycle,R-Construction & Demolition,"7,479"
+2024,Dec,Recycle,L-Construction & Demolition,"9,141"
+2024,Dec,Recycle,R-Construction & Demolition,"4,587"
+2024,Dec,Recycle,L-Construction & Demolition,"3,753"
+2024,Dec,Recycle,R-Construction & Demolition,"5,172"
+2024,Dec,Recycle,L-Construction & Demolition,"3,448"
+2025,Jan,Recycle,R-Construction & Demolition,"4,824"
+2025,Jan,Recycle,L-Construction & Demolition,"3,216"
+2025,Jan,Recycle,L-Construction & Demolition,"3,200"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
