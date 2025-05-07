@@ -186,6 +186,7 @@ export default function App() {
                       const [year, month] = value.split('-');
                       return `${month}/${year}`;
                     }}
+                    label={{ value: 'Date', position: 'bottom', offset: 0, style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <YAxis 
                     stroke={COLORS.text}
@@ -195,6 +196,7 @@ export default function App() {
                       if (value >= 1000) return `${(value / 1000).toFixed(1)}K`;
                       return value;
                     }}
+                    label={{ value: 'Weight (lbs)', angle: -90, position: 'left', style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <Tooltip 
                     contentStyle={{ 
@@ -249,6 +251,7 @@ export default function App() {
                       const [year, month] = value.split('-');
                       return `${month}/${year}`;
                     }}
+                    label={{ value: 'Date', position: 'bottom', offset: 0, style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <YAxis 
                     stroke={COLORS.text}
@@ -258,6 +261,7 @@ export default function App() {
                       if (value >= 1000) return `${(value / 1000).toFixed(1)}K`;
                       return value;
                     }}
+                    label={{ value: 'Weight (lbs)', angle: -90, position: 'left', style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <Tooltip 
                     contentStyle={{ 
@@ -324,6 +328,7 @@ export default function App() {
                     axisLine={{ stroke: COLORS.text, strokeWidth: 1 }}
                     tickLine={{ stroke: COLORS.text }}
                     interval={0}
+                    label={{ value: 'Waste Categories', position: 'bottom', offset: 60, style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <YAxis 
                     stroke={COLORS.text}
@@ -336,6 +341,7 @@ export default function App() {
                     axisLine={{ stroke: COLORS.text, strokeWidth: 1 }}
                     tickLine={{ stroke: COLORS.text }}
                     width={70}
+                    label={{ value: 'Total Weight (lbs)', angle: -90, position: 'left', style: { textAnchor: 'middle', fontSize: 14, fill: COLORS.text } }}
                   />
                   <Tooltip 
                     contentStyle={{ 
