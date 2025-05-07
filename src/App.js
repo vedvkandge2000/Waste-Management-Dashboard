@@ -54,7 +54,6 @@ export default function App() {
   const [barData, setBarData] = useState([]);
   const [pieData, setPieData] = useState([]);
   const [stackedAreaData, setStackedAreaData] = useState([]);
-  const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [visibleCategories, setVisibleCategories] = useState([]);
 
 
@@ -77,11 +76,6 @@ export default function App() {
 
   
       const dates = clean.map(d => d.date);
-      setDateRange({
-        start: d3.min(dates),
-        end: d3.max(dates)
-      });
-
 
       const catSum = d3.rollups(
         clean,
